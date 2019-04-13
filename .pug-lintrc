@@ -1,0 +1,9 @@
+{
+  "extends": "clock",
+  "disallowIdLiterals": null,
+  "validateAttributeQuoteMarks": "\"",
+  "validateAttributeSeparator": {
+    "separator": " ",
+    "multiLineSeparator": "\n "
+  }
+}

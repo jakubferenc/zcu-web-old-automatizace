@@ -1,0 +1,62 @@
+{
+  "extends": "airbnb-base",
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "globals": {
+    "d3": true,
+    "HISTORYLAB": true,
+    "platform": true,
+    "WaveSurfer": true
+  },
+  "rules": {
+    "class-methods-use-this": [
+      "error",
+      {
+        "exceptMethods": [
+          "data"
+        ]
+      }
+    ],
+    "padded-blocks": 0,
+    "no-console": 0,
+    "no-param-reassign": [
+      "error",
+      {
+        "props": false
+      }
+    ],
+    "no-underscore-dangle": 0,
+    "quote-props": [
+      "error",
+      "consistent-as-needed"
+    ],
+    "max-len": 0,
+    "prefer-destructuring": 0,
+    "spaced-comment": [
+      "error",
+      "always",
+      {
+        "line": {
+          "markers": [
+            "/"
+          ],
+          "exceptions": [
+            "-",
+            "+"
+          ]
+        },
+        "block": {
+          "markers": [
+            "!"
+          ],
+          "exceptions": [
+            "*"
+          ],
+          "balanced": true
+        }
+      }
+    ]
+  }
+}
