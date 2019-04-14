@@ -1,0 +1,32 @@
+mixin publikaceThumb(opts = {})
+  <!-- položka kniha -->
+  - const tdStyle = (!opts.isEven) ? 'border-style: solid; padding: 0px 10px 0px 0px; height: 332px;' : 'border-style: solid none solid solid; padding: 0px 0px 0px 10px; height: 332px;'
+  td(width="50%" valign="top" style=`${tdStyle}`)
+    <table style="border: none;">
+        <tbody>
+            <tr>
+                <td valign="top" style="border: none; padding: 0;">
+                  a(href=`${opts.podrobnostiUrl}`)
+                    img(style="width: 151px;" alt=`Obálka knihy ${opts.title}` title=`Obálka knihy ${opts.title}` src=`${opts.obrazekSrc}`)
+                </td>
+                <td valign="top" style="border: none; padding-right: 0;">
+
+                    <span class="title" style="font-size: 120%;">
+                      a(href=`${opts.podrobnostiUrl}`)
+                        b #{opts.title}
+                    </span><br /><br />
+                    <span class="published">#{opts.published_date}</span><br /><br />
+                    <span class="author"><b><em>#{opts.author}</em></b></span><br /><br />
+                    <span class="publisher">Nakladatel: #{opts.publisher}</span>
+                </td>
+            </tr>
+            <!-- položka kniha krátký popis -->
+            <tr>
+                - const tdStyleAnnotation = (!opts.isEven) ? 'border: none; padding: 10px 10px 0 0;' : 'border: none; padding: 10px 10px 10px 0;'
+                  td(style=`${tdStyleAnnotation}` colspan="2")
+                    <p style="text-align: justify;">#{opts.annotation_short}</p>
+            </tr>
+            <!-- konec položka kniha krátký popis -->
+        </tbody>
+    </table>
+  <!-- konec položka kniha -->

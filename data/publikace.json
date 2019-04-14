@@ -1,4 +1,5 @@
-[
+{
+  "publikacePreklady": [
     {
         "title": "Herbert Marcuse. Příslib štěstí",
         "title_en": "",
@@ -9,7 +10,10 @@
         "annotation_short": "Překlad textů Herberta Marcuse Příslib štěstí. Doplněno úvodní monografickou studií, chronologickou tabulkou a informací o původním vydání překládaných textů.",
         "annotation": "Čtenáři se dostává do ruky šest studií Herberta Marcuse, nyní v českém překladu, z nichž nejstarší Nové prameny k založení historického materialismu pochází z roku 1932, nejmladší Represivní tolerance pak byla napsána v roce 1965, ale zásadně rozšířena v roce 1968. Texty reprezentují různé úseky myslitelského vývoje jedné z nejvýraznějších osobností první generace kritické teorie. Reprezentují proměny, kterými Marcuse reagoval na překotně se měnící svět i to, čemu zůstal vždy věrný: Starost o svobodu a štěstí, které nemohou být jedno bez druhého; starosti o svobodu a štěstí, které vycházejí ze skutečné solidarity lidského rodu a nemohou a nesmějí koexistovat s bídou a utrpením kohokoliv jiného.",
         "keywords": "Herbert Marcuse",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false,
+        "has_picture": true
     },
     {
         "title": "Hans Küng: Židovství",
@@ -21,7 +25,9 @@
         "annotation_short": "Překlad zprostředkovává monografii švýcarského teologa a religionisty Hanse Künga Judentum. Wesen und Geschichte (Piper, München 1991), jíž autor v 90. letech zahájil trilogii věnovanou tzv. abrahamovským náboženstvím (židovství, křesťanství, islámu). ",
         "annotation": "Překlad zprostředkovává monografii švýcarského teologa a religionisty Hanse Künga Judentum. Wesen und Geschichte (Piper, München 1991), jíž autor v 90. letech zahájil trilogii věnovanou tzv. abrahamovským náboženstvím (židovství, křesťanství, islámu). Dnes už klasická studie předkládá systematický pohled na židovství z teologické, historické a politické perspektivy. Židovské dějiny představuje jako sled epochálních konstelací neboli paradigmat. Kriticky pohlíží na vztahy křesťanství a židovství zejména ve 20. století, analyzuje předpoklady vzniku Státu Izrael i politické a náboženské aspekty jeho existence, probírá otázky židovské identity a zvažuje možnosti mezináboženského trialogu židů, křesťanů a muslimů, který závěrem spojuje s vizí světového étosu a nadějí na mír na Blízkém východě i v globalizovaném světě.",
         "keywords": "teologie, religionistika, judaismus, mezináboženský dialog",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": true
     },
     {
         "title": "Vědecké pojetí světa - Vídeňský kroužek",
@@ -33,7 +39,9 @@
         "annotation_short": "Revidovaný český překlad manifestu Vídeňského kroužku Vědecké pojetí světa vydaného Společností Ernst Mach v roce 1929.",
         "annotation": "",
         "keywords": "analytická filosofie, Vídeňský kroužek, dějiny filosofie, logický empirismus",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Joseph Ratzinger - Benedikt XVI.: Ježíš Nazaretský. Prolog",
@@ -45,7 +53,9 @@
         "annotation_short": "Třetí díl trilogie papeže Benedikta XVI. doplňuje předchozí o exegezi tzv. evangelií dětství (Lukáš, Matouš), v nichž je Ježíšův příběh interpretován jako naplnění dějin spásy. ",
         "annotation": "Třetí díl trilogie papeže Benedikta XVI. doplňuje předchozí o exegezi tzv. evangelií dětství (Lukáš, Matouš), v nichž je Ježíšův příběh interpretován jako naplnění dějin spásy. Autor zkoumá paralely a vzájemné vztahy výkladu Ježíšova dětství v obou evangeliích a sleduje otázku univerzálního i historického významu biblických textů.",
         "keywords": "teologie; christologie; Benedikt XVI.; překlad",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Světlo světa. Papež církev a znamení doby",
@@ -57,7 +67,9 @@
         "annotation_short": "",
         "annotation": "Třetí z řady rozhovorů mezi německým žurnalistou Peterem Seewaldem a Josephem Ratzingerem, první v období, kdy Joseph Ratzinger zastává papežský úřad. Hodnoceno jako velmi otevřená debata, která tematizuje i řadu kontroverzních témat kolem situace církve a jejího místa v dnešním světě. Benedikt XVI. se vyjadřuje k tématům jako kulturní relativismus západního světa, mezináboženský dialog, ekumena, krize a skandály v katolické církvi a jejich medializace, víra dnes, orientace římskokatolické církve do budoucna. Vedle toho odpovídá i na řadu osobních otázek P. Seewalda",
         "keywords": "Benedikt XVI., teologie, religionistika, církev, papež, rozhovory",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Ježíš Nazaretský - 2. díl. Od vjezdu do Jeruzaléma do zmrtvýchvstání",
@@ -69,7 +81,9 @@
         "annotation_short": "",
         "annotation": "Druhý díl knihy, kterou autor charakterizoval jako výraz osobního hledání, ne akt učitelského úřadu, promýšlí nejzávažnější části novozákonního svědectví. Metodologicky se zde Benedikt XVI. hlásí k hermeneutice, která zodpovědně zachází s historickým poznáním, ale jeho výsledky integruje do interpretace tajemství zmrtvýchvstání. Interpretace evangelií v obou dílech je vedena otázkou, kdo byl Ježíš, ale také, kým je pro člověka dnes; odkazuje jak k vědecké exegezi, tak k teologické ortodoxii či duchovnímu čtení.",
         "keywords": "spiritualita, teologie, christologie, Benedikt XVI.",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Descartes: La dioptrique = Dioptrika",
@@ -81,7 +95,9 @@
         "annotation_short": "",
         "annotation": "Dioptrika je další z esejů z Rozpravy o metodě, v němž Descartes předvádí svou metodu na nauce o světle, zvláště pak na objevu zákona lomu světla a jeho důsledcích. Český překlad Jiřího Fialy je veden formou francouzsko-české bilingvy s původními obrázky a závěrečnou původní studií Jiřího Fialy",
         "keywords": "René Descartes, optika, filosofie a dějiny vědy, zákon lomu světla",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Henri Poincaré: Číslo - prostor – čas",
@@ -93,7 +109,9 @@
         "annotation_short": "",
         "annotation": "Kniha obsahuje kritický překlad deseti vybraných Poincarého esejů, které se zaobírají filosofií matematiky a fyziky. Přehled vybraných textů je uveden na začátku knihy. Poznámky opatřili Jiří Fiala a Marie Benediktová Větrovcová. Kniha je doplněna původní studií, která se věnuje uvedením do Poincarého filosofie vědy. Autorem studie je Jiří Fiala.",
         "keywords": "Henri Poincaré, filosofie matematiky a fyziky, dějiny matematiky 19. století, invence, definice, povaha matematického uvažování, intuice a logika, měření času, prostor, geometrie",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Relativismus a kontingentní budoucnosti",
@@ -105,7 +123,9 @@
         "annotation_short": "",
         "annotation": "Analyzuje se MacFarlanovo pojetí relativismu ohledně pravdivosti výroků o budoucnosti. Analýza se provádí prostředky formální temporální logiky.",
         "keywords": "temporální logika, výroky o budoucnosti, relativismus",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "M. Lévinas, E.. La réalité et son ombre",
@@ -117,7 +137,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Wunibald Müller. Nabrat dech v Boží blízkosti",
@@ -129,7 +151,9 @@
         "annotation_short": "",
         "annotation": "Tempo každodenního života dnes mnoha lidem bere klid. Avšak chvíle klidu jsou pro nás nezbytné, čerpáme z nich sílu. Knížka úvah a meditací, inspirovaná autorovou duchovní službou a psychoterapeutickou prací i jeho osobním hledáním Boha v existenciálních životních situacích i v každodennosti, zve čtenáře k zamyšlení a k hledání své vlastní duchovní zkušenosti uprostřed hektiky života.",
         "keywords": "Wunibald Müller",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Häring, Bernhard: V bezpečí a svoboden",
@@ -141,7 +165,9 @@
         "annotation_short": "Českému čtenáři je německý redemptorista Bernhard Häring doposud znám zejména z titulů Jde to i jinak: Cesty k novým vztahům v církvi, Moje zkušenosti s církví v Africe, Viděl jsem tvé slzy, Láska je víc než přikázání či Bez východiska? Cesta k lidštější pastoraci rozvedených a znovu sezdaných, tedy z děl pokrývajících poměrně malou část Häringova díla, byť důležitou, protože se tematicky týká oblastí, v nichž český čtenář dlouho postrádal dialog, alternativní výklad problematiky, promýšlení možností, otevřenost.",
         "annotation": "Českému čtenáři je německý redemptorista Bernhard Häring doposud znám zejména z titulů Jde to i jinak: Cesty k novým vztahům v církvi, Moje zkušenosti s církví v Africe, Viděl jsem tvé slzy, Láska je víc než přikázání či Bez východiska? Cesta k lidštější pastoraci rozvedených a znovu sezdaných, tedy z děl pokrývajících poměrně malou část Häringova díla, byť důležitou, protože se tematicky týká oblastí, v nichž český čtenář dlouho postrádal dialog, alternativní výklad problematiky, promýšlení možností, otevřenost. Tak jako jinde, i v českém prostředí si Bernhard Häring získal pozornost a důvěru jako teolog, který katolickou církev myslí a prožívá jako duchovní a morální domov lidí v konkrétních historických, politických, kulturních a osobních situacích a jehož snahy vycházejí vstříc potřebě jednotlivců i společenských skupin vnímat se jako Bohem milovaní a církví slyšení i v situacích, které nemají takříkajíc standardní charakter. Jako teolog, spolutvůrce dokumentů vzešlých z II. vatikánského koncilu, aktivní činitel na poli ekumeny i podněcovatel debat a názorových posunů v rámci katolické církve je ostatně znám celosvětově.",
         "keywords": "Bernhard Häring",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Francois Rivenc: Několik poznámek o vynoření se problému přesvědčení ve filosofii ducha",
@@ -153,7 +179,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Staré a nové ",
@@ -165,7 +193,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Toulky po východním Bavorsku a Čechách. Kultura a historie ",
@@ -177,7 +207,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "W. V. O. Quine: Covitosti: Občasně filosofický slovník",
@@ -189,7 +221,9 @@
         "annotation_short": "",
         "annotation": "Na své cestě od A do Z se Covitosti setkávají s více než osmdesáti tématy a postihují celou škálu pikantních myšlenek, her se slovy a moudrostí, vyjádřených nádhernou elegantní prózou. Nejčastějšími tématy hesel jsou filozofie, jazyk a matematika, můžeme zmínit například víru, komunikaci, svobodnou vůli, idiocii, ceny, výslovnost, toleranci či zeměpisnou délku a šířku.",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Karl Mannheim: Problém generací",
@@ -201,7 +235,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Ježíš Nazaretský ",
@@ -213,7 +249,9 @@
         "annotation_short": "Co dnes může říct křesťanství o základních otázkách lidského bytí? Odpověď podle Benedikta XVI. bezprostředně souvisí s otázkou: Kdo je Ježíš Nazaretský?",
         "annotation": "Celý svůj život se Joseph Ratzinger zabýval Ježíšem Nazaretským, snažil se ho pochopit jako profesor, jako biskup, jako vrchní strážce víry, jako papež. Jako kardinál začal před několika lety psát tuto knihu. Po svém zvolení papežem využil veškerý volný čas k dalšímu psaní. Vzniklo dílo, které je sumou života velkého teologa a zároveň nejosobnější knihou, jakou kdy Ratzinger i kterýkoli jiný papež napsal.",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Muž davu",
@@ -225,7 +263,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "O tom, co je",
@@ -237,7 +277,9 @@
         "annotation_short": "",
         "annotation": "Překlad klíčového Quinova článku věnujícího se problematice existenčních tvrzení, jejich ontologii a logické analýze, ve kterém zformuloval svoji tezi o ontologických závazcích teorií.",
         "keywords": "Quine",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Pokus o objektivní zdůvodnění nauky o třech rozměrech prostoru",
@@ -249,7 +291,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Věci a jejich role v teoriích",
@@ -261,7 +305,9 @@
         "annotation_short": "",
         "annotation": "Překlad článku Things and Their Place in Theories systematicky vykládajícího Quinovu ontologii a epistemologii založené na koncepci pojmových schémat.",
         "keywords": "Quine, analytická filosofie, ontologie, epistemologie",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Filozofický jazyk ",
@@ -273,7 +319,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Peter Galison: Einsteinovy hodiny a Poincarého mapy",
@@ -285,7 +333,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Existence logických předmětů podle Fregeho",
@@ -297,7 +347,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Predpisy pre celé spoločenstvo Izraela v posledné dni : (Prvé tri listy rukopisu ako uvedenie do apokalyptiky Esénov vo svetle rukopisov z Chirbet-Qumránu)",
@@ -309,7 +361,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Gorgiás „O nebytí“",
@@ -321,7 +375,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Vilém Flusser: Tři gesta",
@@ -333,7 +389,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "Flusser Vilém, fenomenologie, gesto",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Benoit Mandelbrot - Fraktály: tvar, náhoda a dimenze",
@@ -345,7 +403,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "fraktály, dimenze",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Istorija russkoj filosofiji",
@@ -357,7 +417,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Hledání pravdy",
@@ -369,7 +431,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     },
     {
         "title": "Joseph Weizenbaum: Mýtus počítače : počítačový pohled na svět",
@@ -381,6 +445,9 @@
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
-        "type": "preklad"
+        "podrobnostiUrl": "",
+        "type": "preklad",
+        "has_picture": false
     }
-]
+  ]
+}

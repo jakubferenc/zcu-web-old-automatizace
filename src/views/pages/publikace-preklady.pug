@@ -1,0 +1,19 @@
+include ../_partials/publikace-thumb.pug
+
+table(width="100%" id="table-vypis-knih" style="border: none;")
+  tbody
+
+    each item, index in publikacePreklady
+
+      - const thisItemIndex = index+1
+      - const thisItemIsEven = isEven(thisItemIndex)
+
+      - item.isEven = thisItemIsEven
+
+      if (!thisItemIsEven)
+        <tr><!-- novy radek -->
+        +publikaceThumb(item)
+      else
+        +publikaceThumb(item)
+        </tr><!-- konec novy radek -->
+
