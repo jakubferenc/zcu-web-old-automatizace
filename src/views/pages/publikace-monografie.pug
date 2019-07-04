@@ -3,7 +3,7 @@ include ../_partials/publikace-thumb.pug
 table(width="100%" id="table-vypis-knih" style="border: none;")
   tbody
 
-    each item, index in publikace.preklady
+    each item, index in publikace.monografie
 
       - const thisItemIndex = index+1
       - const thisItemIsEven = isEven(thisItemIndex)

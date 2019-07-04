@@ -1,0 +1,28 @@
+<table id="table-kniha-detail" style="border-style: none;">
+  <tbody>
+    <tr>
+      <td valign="top" style="padding-left: 0; border: none;">
+        img(style="max-width: 315px;" alt=`Obálka knihy ${title}` title=`Obálka knihy ${title}` src=`${obrazekSrc}`)
+
+      <td valign="top" style="border: none;">
+        <h3 style="margin-bottom: .2em;">AUTOR</h3>
+        <p><b>#{author}</b></p>
+        <h3 style="margin-bottom: .2em;">ROK VYDÁNÍ</h3>
+        <p>#{published_date}</p>
+        <h3 style="margin-bottom: .2em;">NAKLADATEL</h3>
+        <p>#{publisher}</p>
+        <h3 style="margin-bottom: .2em;">ZÁKLADNÍ ÚDAJE</h3>
+        <p>#{meta_info}</p>
+        <h3 style="margin-bottom: .2em;">KLÍČOVÁ SLOVA</h3>
+        <p>#{keywords}</p>
+
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" style="padding: 0; border: none; padding-top: 1em;">
+        //- Může obsahovat html tagy, většinou <p>
+        <div class="anotace">!{annotation}</div>
+      </td>
+    </tr>
+  </tbody>
+</table>
