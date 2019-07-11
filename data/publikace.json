@@ -1,6 +1,7 @@
 {
-  "publikacePreklady": [
-    {
+  "publikace": {
+    "preklady": [
+      {
         "title": "Herbert Marcuse. Příslib štěstí",
         "title_en": "",
         "author": "Profant, Martin",
@@ -14,8 +15,8 @@
         "type": "preklad",
         "has_picture": false,
         "has_picture": true
-    },
-    {
+      },
+      {
         "title": "Hans Küng: Židovství",
         "title_en": "",
         "author": "Blahutková, Daniela, Petkevič, Vladimír a Pohunková, Dagmar",
@@ -28,8 +29,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": true
-    },
-    {
+      },
+      {
         "title": "Vědecké pojetí světa - Vídeňský kroužek",
         "title_en": "",
         "author": "Fiala, Jiří, Dach, Stefanie, Schuster, Radek",
@@ -42,8 +43,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Joseph Ratzinger - Benedikt XVI.: Ježíš Nazaretský. Prolog",
         "title_en": "",
         "author": "Blahutková, Daniela",
@@ -56,8 +57,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Světlo světa. Papež církev a znamení doby",
         "title_en": "",
         "author": "Blahutková, Daniela",
@@ -70,8 +71,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Ježíš Nazaretský - 2. díl. Od vjezdu do Jeruzaléma do zmrtvýchvstání",
         "title_en": "",
         "author": "Blahutková, Daniela",
@@ -84,8 +85,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Descartes: La dioptrique = Dioptrika",
         "title_en": "",
         "author": "Fiala, Jiří",
@@ -98,8 +99,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Henri Poincaré: Číslo - prostor – čas",
         "title_en": "",
         "author": "Fiala, Jiří",
@@ -112,8 +113,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Relativismus a kontingentní budoucnosti",
         "title_en": "",
         "author": "Fiala, Jiří",
@@ -126,8 +127,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "M. Lévinas, E.. La réalité et son ombre",
         "title_en": "",
         "author": "Ševčík, Miloš",
@@ -140,8 +141,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Wunibald Müller. Nabrat dech v Boží blízkosti",
         "title_en": "",
         "author": "Blahutková, Daniela",
@@ -154,8 +155,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Häring, Bernhard: V bezpečí a svoboden",
         "title_en": "",
         "author": "Blahutková, Daniela",
@@ -168,8 +169,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Francois Rivenc: Několik poznámek o vynoření se problému přesvědčení ve filosofii ducha",
         "title_en": "",
         "author": "Fiala, Jiří",
@@ -182,8 +183,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Staré a nové ",
         "title_en": "",
         "author": "Neupauer, Eduard",
@@ -196,8 +197,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Toulky po východním Bavorsku a Čechách. Kultura a historie ",
         "title_en": "",
         "author": "Blahutková, Daniela",
@@ -210,8 +211,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "W. V. O. Quine: Covitosti: Občasně filosofický slovník",
         "title_en": "Quiddities",
         "author": "Fiala, Petr",
@@ -224,8 +225,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Karl Mannheim: Problém generací",
         "title_en": "",
         "author": "Blahutková, Daniela",
@@ -238,8 +239,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Ježíš Nazaretský ",
         "title_en": "",
         "author": "Blahutková, Daniela",
@@ -252,8 +253,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Muž davu",
         "title_en": "",
         "author": "Blahutková, Daniela",
@@ -266,8 +267,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "O tom, co je",
         "title_en": "",
         "author": "Dostálová, Ludmila",
@@ -280,8 +281,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Pokus o objektivní zdůvodnění nauky o třech rozměrech prostoru",
         "title_en": "",
         "author": "Fiala, Jiří",
@@ -294,8 +295,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Věci a jejich role v teoriích",
         "title_en": "",
         "author": "Dostálová, Ludmila",
@@ -308,8 +309,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Filozofický jazyk ",
         "title_en": "",
         "author": "Neupauer, Eduard",
@@ -322,8 +323,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Peter Galison: Einsteinovy hodiny a Poincarého mapy",
         "title_en": "",
         "author": "Fiala, Jiří",
@@ -336,8 +337,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Existence logických předmětů podle Fregeho",
         "title_en": "",
         "author": "Fiala, Jiří",
@@ -350,8 +351,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Predpisy pre celé spoločenstvo Izraela v posledné dni : (Prvé tri listy rukopisu ako uvedenie do apokalyptiky Esénov vo svetle rukopisov z Chirbet-Qumránu)",
         "title_en": "",
         "author": "Neupauer, Eduard",
@@ -364,8 +365,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Gorgiás „O nebytí“",
         "title_en": "",
         "author": "Boháček, Kryštof",
@@ -378,8 +379,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Vilém Flusser: Tři gesta",
         "title_en": "",
         "author": "Fiala, Jiří",
@@ -392,8 +393,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Benoit Mandelbrot - Fraktály: tvar, náhoda a dimenze",
         "title_en": "",
         "author": "Fiala, Jiří",
@@ -406,8 +407,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Istorija russkoj filosofiji",
         "title_en": "",
         "author": "Demjančuk Nikolaj a Demjančuková Dagma",
@@ -420,8 +421,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Hledání pravdy",
         "title_en": "",
         "author": "Marvan Tomáš",
@@ -434,8 +435,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    },
-    {
+      },
+      {
         "title": "Joseph Weizenbaum: Mýtus počítače : počítačový pohled na svět",
         "title_en": "",
         "author": "Fiala, Jiří",
@@ -448,6 +449,8 @@
         "podrobnostiUrl": "",
         "type": "preklad",
         "has_picture": false
-    }
-  ]
+      }
+    ]
+  }
+
 }
