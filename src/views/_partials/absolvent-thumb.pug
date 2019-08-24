@@ -1,0 +1,18 @@
+mixin absolventThumb(opts = {})
+
+  <!-- položka absolvent -->
+  .absolvent(style="overflow: hidden; margin-bottom: 2em;")
+    img(style="float: left; margin-right: 2em" alt="" src=src=`${opts.obrazekSrc}` width="250")
+
+    .absolvent-thumb-info
+      h3(style="text-align: justify;")
+        strong #{opts.fullname_academic}
+      p(style="text-align: justify;").
+        !{opts.excerpt}
+      p
+        strong Jaké je Vaše zaměstnání a pracovní pozice?<br>
+        span.absolvent-position-info.
+          #{opts.current_position.full}
+      p
+        a(href=`${opts.podrobnostiUrl}`) Podrobné informace
+  <!-- konec položka absolvent -->

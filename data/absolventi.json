@@ -1,6 +1,7 @@
 {
     "absolventi": [
       {
+        "sex": 1,
         "firstname": "Alexandra",
         "surname": "Hrdinová",
         "name_prefix": "Bc.",
@@ -9,27 +10,30 @@
             "short": "Absolventka bakalářského oboru Filozofie"
         },
         "excerpt": "Absolventka bakalářského oboru Filozofie, studium zakončila bakalářskou prací na téma „Objevení Nového světa a proměny renesanční filosofie a vědy“ v roce 2016.",
+        "excerpt_html": "Absolventka bakalářského oboru <em>Filozofie</em>, studium zakončila bakalářskou prací na téma „Objevení Nového světa a proměny renesanční filosofie a vědy“ v roce 2016.",
         "current_position": {
             "short": "Šéfredaktorka pořadu Na větvi a externí redaktorka ČT24",
             "full": "Pracuji jako redaktorka pro dvě televize. Na poloviční úvazek v celoplošné Regionálnítelevizi.cz jako šéfredaktor pořadu Na větvi a jako externí redaktor pro ČT24."
         },
         "content": {
-            "content_01": "Můj běžný den je velice pestrý a každý je jedinečný. Vždy jsem věděla, že bych nemohla sedět v kanceláři a má práce mi poskytuje právě ten rozmanitý a akční život, po kterém jsem toužila. Jednak sama vymýšlím témata, která budeme s týmem zpracovávat, oslovuji respondenty, píšu scénáře k reportážím, komunikuji s klienty a především jsem v terénu a natáčím. Každý den s někým jiným, každý den v jiném městě. Jednou to je politik, podruhé herec a potřetí církevní hodnostář. Úžasné je pro mě to, že se díky práci setkávám s velkým množstvím různých lidí. Třeba nedávno jsme zpracovávali reportáž o bezdomovectví v Praze a při té příležitosti jsem poznala pána, který žil na ulici mnoho let a dlouze si s ním na toto téma povídala. Někteří lidé vás inspirují, životní příběhy jiných lidí vás často donutí k zamyšlení nad naší společností. Nevím, jestli mám za sebou nějaké úspěchy, jen už dnes vím, že tahle práce s sebou přínáší obrovskou zodpovědnost. Vím, že mám velké štěstí, když mohu natáčet reportáže, které sleduje množství diváků a já mohu těm divákům ukazovat svět i z té lepší stránky. Nejsem totiž zastáncem současnho způsobu infotainmentu, který je preferován na mnoha velkých televizích a víceméně jen straší lidi a manipuluje s nimi. Snažím se dělat svou práci jinak a jsem moc vděčná za svobodu, kterou v práci mám.",
-            "content_02": "Víte, na začátek bych ráda řekla, že mě někdy docela mrzí současný postoj kraje i radnice, který proklamuje, jak je technické vzdělávání podstatné a že my, studenti humanitních oborů, jsme, když to trochu přeženu, pro společnost zbyteční. Myslím, že doba, kdy naši rodiče žili v totalitě není tak vzdálenou minulostí, přesto na ní, vzhledem k výsledku posledních voleb, asi mnoho lidí zapomnělo. A zapomněli i na to, že právě v době okupace byli jedinci, kteří studovali filozofii (nemyslím tu marxistickou), velice douležitou součástí společnosti. Tito lidé totiž dokázali nastavit zrcadlo vládnoucí garnituře, nebáli se vyjádřit svůj názor a dokázali vidět trhliny tam, kde zbytek společnosti viděl jen hladkou linii. Mě studium filozofie otevřelo oči, naučilo mě kriticky pracovat s textem a kriticky přemýšlet o světě okolo nás. Pravděpodobně bych se sama od sebe nikdy nedostala ke čtení Nietzscheho, nebo Machiavelliho. Své vzdělání, které jsem získala na Katedře filozofie, zúročuji v práci každý den. Když bych touto školou neprošla, troufnu si říct, že bych dnes svoje reportáže koncipovala docela jinak, mnohem povrchněji.",
-            "content_03": "Ve své práci jsem vážně moc spokojená a přála bych každému, aby dělal to, co ho baví. Nedovedu si představit, že by mě nějaká práce bavila víc. I když, živit se třeba jako profesionální surfařka, by asi taky bylo super. Obávám se ale, že už v to v tomhle životě nezvládnu. :)"
-        },
+            "pracovni_napln": "Můj běžný den je velice pestrý a každý je jedinečný. Vždy jsem věděla, že bych nemohla sedět v kanceláři a má práce mi poskytuje právě ten rozmanitý a akční život, po kterém jsem toužila. Jednak sama vymýšlím témata, která budeme s týmem zpracovávat, oslovuji respondenty, píšu scénáře k reportážím, komunikuji s klienty a především jsem v terénu a natáčím. Každý den s někým jiným, každý den v jiném městě. Jednou to je politik, podruhé herec a potřetí církevní hodnostář. Úžasné je pro mě to, že se díky práci setkávám s velkým množstvím různých lidí. Třeba nedávno jsme zpracovávali reportáž o bezdomovectví v Praze a při té příležitosti jsem poznala pána, který žil na ulici mnoho let a dlouze si s ním na toto téma povídala. Někteří lidé vás inspirují, životní příběhy jiných lidí vás často donutí k zamyšlení nad naší společností.",
+            "pracovni_uspechy": "Nevím, jestli mám za sebou nějaké úspěchy, jen už dnes vím, že tahle práce s sebou přínáší obrovskou zodpovědnost. Vím, že mám velké štěstí, když mohu natáčet reportáže, které sleduje množství diváků a já mohu těm divákům ukazovat svět i z té lepší stránky. Nejsem totiž zastáncem současnho způsobu infotainmentu, který je preferován na mnoha velkých televizích a víceméně jen straší lidi a manipuluje s nimi. Snažím se dělat svou práci jinak a jsem moc vděčná za svobodu, kterou v práci mám.",
+            "zuroceni_studia": "Víte, na začátek bych ráda řekla, že mě někdy docela mrzí současný postoj kraje i radnice, který proklamuje, jak je technické vzdělávání podstatné a že my, studenti humanitních oborů, jsme, když to trochu přeženu, pro společnost zbyteční. Myslím, že doba, kdy naši rodiče žili v totalitě není tak vzdálenou minulostí, přesto na ní, vzhledem k výsledku posledních voleb, asi mnoho lidí zapomnělo. A zapomněli i na to, že právě v době okupace byli jedinci, kteří studovali filozofii (nemyslím tu marxistickou), velice douležitou součástí společnosti. Tito lidé totiž dokázali nastavit zrcadlo vládnoucí garnituře, nebáli se vyjádřit svůj názor a dokázali vidět trhliny tam, kde zbytek společnosti viděl jen hladkou linii. Mě studium filozofie otevřelo oči, naučilo mě kriticky pracovat s textem a kriticky přemýšlet o světě okolo nás. Pravděpodobně bych se sama od sebe nikdy nedostala ke čtení Nietzscheho, nebo Machiavelliho. Své vzdělání, které jsem získala na Katedře filozofie, zúročuji v práci každý den. Když bych touto školou neprošla, troufnu si říct, že bych dnes svoje reportáže koncipovala docela jinak, mnohem povrchněji.",
+            "spokojenost_prace": "Ve své práci jsem vážně moc spokojená a přála bych každému, aby dělal to, co ho baví. Nedovedu si představit, že by mě nějaká práce bavila víc. I když, živit se třeba jako profesionální surfařka, by asi taky bylo super. Obávám se ale, že už v to v tomhle životě nezvládnu. :)"
+          },
         "image": {
             "thumbnail": "",
             "full": ""
         }
       },
       {
+        "sex": 0,
         "firstname": "Václav",
         "surname": "Kešner",
         "name_prefix": "Mgr.",
         "name_suffix": "",
         "education": {
-            "short": ""
+            "short": "Absolvent bakalářského oboru Humanistika a magisterského oboru Evropská kulturní studia"
         },
         "excerpt": "Absolvent bakalářského oboru Humanistika a magisterského oboru Evropská kulturní studia, studium zakončil diplomovou prací na téma „Byzantské vojenství“ v roce 2013.",
         "current_position": {
@@ -37,9 +41,10 @@
             "full": "Toho času pracuji jako tiskový mluvčí Nejvyššího kontrolního úřadu. Předtím jako zástupce tiskového mluvčího a ještě dříve jako novinář."
         },
         "content": {
-            "content_01": "Práce mluvčího je dost různorodá a každý den dělám trochu něco jiného. V mém případě je základem zprostředkování výsledků práce úřadu médiím a veřejnosti, a to srozumitelně, jednoduše a v rozumné struktuře i rozsahu. V praxi to znamená z odborných a často rozsáhlých kontrolních závěrů připravit výstižnou a zajímavou tiskovou zprávu, vyprodukovat krátké a poutavé video, ale také se postarat o sociální sítě, odpovídat novinářům na související dotazy a ve finále se postavit před kamery televizních štábů, které si o výsledcích kontroly přijedou natočit reportáž. Nezanedbatelnou část práce pak představuje i příprava kolegů na mediální nebo veřejné výstupy. V takových případech je to pak o vytváření podkladů, nastavování strategie, nácvicích rozhovorů - včetně tolik oblíbených krizových otázek - ale i o mediálních trénincích nebo školení týkajících se formy prezentování a komunikace. S ohledem na množství výstupů úřadu také nezřídka kdy navrhuji projevy, úvodní slova, komentáře a další texty. Společně s kolegy vytváříme interní časopis pro přibližně 500 zaměstnanců, podílím se také na přípravách konferencí, kongresů a dalších odborných akcí úřadu. Na závěr ještě stojí za zmínku vytváření mediální a komunikační strategie, od které se všechno popsané odvíjí. Je toho ale celkově ještě více.",
-            "content_02": "Asi to, že se NKÚ drží mezi nejdůvěryhodnějšími institucemi v České republice, a že má dobré jméno a renomé. Za tím je určitá práce. Je to ovšem týmový výsledek.",
-            "content_03": "Studium na KFI mi nepochybně dost pomohlo. Moje práce stojí hlavně na práci s fakty a informacemi a na schopnosti je interpretovat. A přesně o tomhle bylo moje studium."
+            "pracovni_napln": "Práce mluvčího je dost různorodá a každý den dělám trochu něco jiného. V mém případě je základem zprostředkování výsledků práce úřadu médiím a veřejnosti, a to srozumitelně, jednoduše a v rozumné struktuře i rozsahu. V praxi to znamená z odborných a často rozsáhlých kontrolních závěrů připravit výstižnou a zajímavou tiskovou zprávu, vyprodukovat krátké a poutavé video, ale také se postarat o sociální sítě, odpovídat novinářům na související dotazy a ve finále se postavit před kamery televizních štábů, které si o výsledcích kontroly přijedou natočit reportáž. Nezanedbatelnou část práce pak představuje i příprava kolegů na mediální nebo veřejné výstupy. V takových případech je to pak o vytváření podkladů, nastavování strategie, nácvicích rozhovorů - včetně tolik oblíbených krizových otázek - ale i o mediálních trénincích nebo školení týkajících se formy prezentování a komunikace. S ohledem na množství výstupů úřadu také nezřídka kdy navrhuji projevy, úvodní slova, komentáře a další texty. Společně s kolegy vytváříme interní časopis pro přibližně 500 zaměstnanců, podílím se také na přípravách konferencí, kongresů a dalších odborných akcí úřadu. Na závěr ještě stojí za zmínku vytváření mediální a komunikační strategie, od které se všechno popsané odvíjí. Je toho ale celkově ještě více.",
+            "pracovni_uspechy": "Asi to, že se NKÚ drží mezi nejdůvěryhodnějšími institucemi v České republice, a že má dobré jméno a renomé. Za tím je určitá práce. Je to ovšem týmový výsledek.",
+            "zuroceni_studia": "Studium na KFI mi nepochybně dost pomohlo. Moje práce stojí hlavně na práci s fakty a informacemi a na schopnosti je interpretovat. A přesně o tomhle bylo moje studium.",
+            "spokojenost_prace": "Rozhodně ano, slova „nuda“ nebo „stereotyp“ zmizí z vašeho slovníku velmi rychle. Je to ale také práce spojená se stresem a velkou zodpovědností a počítát musíte také s tím, že nebudete mít příliš volného času."
         },
         "image": {
             "thumbnail": "",
@@ -47,12 +52,13 @@
         }
       },
       {
+        "sex": 1,
         "firstname": "Nela",
         "surname": "Drunecká",
         "name_prefix": "Mgr.",
         "name_suffix": "",
         "education": {
-            "short": ""
+            "short": "Absolventka bakalářského oboru Humanistika a magisterského oboru Teorie a filozofie komunikace"
         },
         "excerpt": "Absolventka bakalářského oboru Humanistika a magisterského oboru Teorie a filozofie komunikace, studium zakončila diplomovou prací na téma „Když roboti mluví: Analýza komunikačních modelů UI ve sci-fi podle Griceovy koncepce jazyka“ v roce 2016.",
         "current_position": {
@@ -60,9 +66,110 @@
             "full": "V současné době pracuji jako projektová manažerka v digitální komunikační agentuře PROSEO Media v Plzni. Soustředíme se na tvorbu webů a marketingových strategií v onlinu."
         },
         "content": {
-            "content_01": "Mám na starosti interní i klientské projekty. Dohlížím na plnění stanovených cílů a čerpání rozpočtu. Když je potřeba, vypomáhám při textování reklam, psaní článků a správě sociálních sítí. Na svoje největší pracovní úspěchy zatím stále čekám, :) ale mezi ty „menší“ patří stáž v Nestlé na pozici Marketing Trainee pro MAGGI ale i rychlý pracovní růst v současné práci.",
-            "content_02": "K dosažení práce mi škola tolik nepomohla, k jejímu výkonu ano. Humanistika mě naučila kritickému nadhledu, strategickému myšlení a jak uvažovat nad problémy; TFK umění argumentace, významu slov, metafor a jak předejít nedorozuměním. Možná to zní banálně, ale jako člověk, který řídí komunikaci mezi klientem a týmem jsou to velmi cenné vlastnosti, které se specialisté učí i několik let. Pracovních úspěchů se dosahuje o dost rychleji. TFK má navíc jako obor přesah i do nových technologií, a že virtuální realita, průmysl 4.0 a výš, matematické modely a automatizace jsou v marketingu velmi oblíbená témata.",
-            "content_03": "Ano (a nepíšu to jenom proto, že by si to náhodou mohl přečíst můj šéf, přísahám. :)"
+            "pracovni_napln": "Mám na starosti interní i klientské projekty. Dohlížím na plnění stanovených cílů a čerpání rozpočtu. Když je potřeba, vypomáhám při textování reklam, psaní článků a správě sociálních sítí. Na svoje největší pracovní úspěchy zatím stále čekám, :) ale mezi ty „menší“ patří stáž v Nestlé na pozici Marketing Trainee pro MAGGI ale i rychlý pracovní růst v současné práci.",
+            "pracovni_uspechy": "K dosažení práce mi škola tolik nepomohla, k jejímu výkonu ano. Humanistika mě naučila kritickému nadhledu, strategickému myšlení a jak uvažovat nad problémy; TFK umění argumentace, významu slov, metafor a jak předejít nedorozuměním. Možná to zní banálně, ale jako člověk, který řídí komunikaci mezi klientem a týmem jsou to velmi cenné vlastnosti, které se specialisté učí i několik let. Pracovních úspěchů se dosahuje o dost rychleji. TFK má navíc jako obor přesah i do nových technologií, a že virtuální realita, průmysl 4.0 a výš, matematické modely a automatizace jsou v marketingu velmi oblíbená témata.",
+            "zuroceni_studia": "Ano (a nepíšu to jenom proto, že by si to náhodou mohl přečíst můj šéf, přísahám. :)",
+            "spokojenost_prace": "Ano (a nepíšu to jenom proto, že by si to náhodou mohl přečíst můj šéf, přísahám. :)"
+        },
+        "image": {
+            "thumbnail": "",
+            "full": ""
+        }
+      },
+      {
+        "sex": 0,
+        "firstname": "Roman",
+        "surname": "Zdařil",
+        "name_prefix": "Mgr.",
+        "name_suffix": "",
+        "education": {
+            "short": "Absolvent bakalářského oboru Cizí jazyky pro komerční praxi a magisterského oboru Evropská kulturní studia"
+        },
+        "excerpt": "Absolvent bakalářského oboru Cizí jazyky pro komerční praxi a magisterského oboru Evropská kulturní studia, studium zakončil diplomovou prací na téma „Interkulturní komunikace v Evropské unii na příkladu česko-německé komunikace v oblasti obchodních vztahů: Současné problémy a jejich příčiny“ v roce 2013.",
+        "current_position": {
+            "short": "Majitel rozvíjející se obchodní společnosti.",
+            "full": "Jsem majitel rozvíjející se obchodní společnosti"
+        },
+        "content": {
+            "pracovni_napln": "Pracovní náplní jsou veškeré úkony spojené s chodem společnosti, tedy aktivní hledání zákazníků, samotná instalace prodávaného produktu u zákazníka, zajištění chodu kanceláře, příprava podkladů pro účetní, příprava marketingových kampaní a materiálů. Za největší úspěch považuji překonání prvního roku podnikání s pozitivním výsledkem.",
+            "pracovni_uspechy": "Dokázal jsem zúročit především dobrou připravenost potýkání se s nesnadnými úkoly, nenechat se odradit prvotními neúspěchy a jít si za svými sny. Studium na Katedře filozofie mi dalo hlavně rozhled a pochopení hledět na problematiku z různých úhlů, což je právě v obchodě k nezaplacení.",
+            "zuroceni_studia": "",
+            "spokojenost_prace": "Nemohl jsem si vybrat lépe a každému přeji, aby byl ve svém zaměstnání tak spokojený, jako já."
+        },
+        "image": {
+            "thumbnail": "",
+            "full": ""
+        }
+      },
+      {
+        "sex": 1,
+        "firstname": "Jitka",
+        "surname": "Jiterská",
+        "name_prefix": "Mgr.",
+        "name_suffix": "",
+        "education": {
+            "short": "Absolventka bakalářského oboru Humanistika, magisterského oboru Evropská kulturní studia"
+        },
+        "excerpt": "Absolventka bakalářského oboru Humanistika, magisterského oboru Evropská kulturní studia, obojí v kombinované formě, studium zakončila diplomovou prací na téma „Fenomén čarodějnictví v USA“ v roce 2018.",
+        "current_position": {
+            "short": "Manažerka řízení kvality dle normy ISO 9001 a dispečerka mezinárodní nákladní dopravy",
+            "full": "Pracuji ve společnosti zajišťující mezinárodní kamionovou dopravu specializující se na přepravu nebezpečných látek (hořlaviny, kyseliny, toxické látky aj.) v cisternových návěsech v režimu mezinárodní úmluvy ADR. Jsem zaměstnána jako manažerka řízení kvality dle normy ISO 9001 a dispečerka mezinárodní nákladní dopravy."
+        },
+        "content": {
+            "pracovni_napln": "Mou běžnou pracovní náplní je každodenní komunikace se zahraničními i tuzemskými klienty, dohlížení na bezproblémový průběh realizace zakázek, plánování návaznosti přeprav, zajištění průběhu veškerých činností v souladu s platnými předpisy a mezinárodními úmluvami, školení zaměstnanců v rámci systému řízení kvality a základní administrativní činnost (fakturace, personalistika apod.). Za svůj úspěch pak považuji každé zdárné zakončení dne, který proběhne bez komplikací.",
+            "pracovni_uspechy": "Studium humanitních věd považuji za přínosné všem, bez ohledu na druh vykonávaného zaměstnání. V dnešní době rychle se šířících dezinformací a populistických hesel se stává nápomocným k utvoření si vlastního názoru a přispívá k získání určitého nadhledu a distance od veřejně diskutovaných témat. Na uvedené pozici pracuji již od roku 2010, doplnění vysokoškolského vzdělání bylo mým osobním rozhodnutím, nicméně časté čerpání ze zahraničních zdrojů, které studium vyžadovalo, u mě osobně vedlo mj. k prohloubení znalosti cizích jazyků, díky čemuž se mi otevřely dveře ke spolupráci s nakladatelstvím v rámci překladatelské činnosti. Je tedy možné říci, že mi studium umožnilo využít nových pracovních příležitostí.",
+            "zuroceni_studia": "Byť jsou mé hranice odolnosti vůči stresu téměř denně testovány, nedokážu si v tuto chvíli představit, že bych pracovní pozici měnila.",
+            "spokojenost_prace": "Byť jsou mé hranice odolnosti vůči stresu téměř denně testovány, nedokážu si v tuto chvíli představit, že bych pracovní pozici měnila."
+        },
+        "image": {
+            "thumbnail": "",
+            "full": ""
+        }
+      },
+      {
+        "sex": 0,
+        "firstname": "Jan",
+        "surname": "Straka",
+        "name_prefix": "Mgr.",
+        "name_suffix": "",
+        "education": {
+            "short": "Absolvent bakalářského oboru Politologie a magisterského oboru Evropská kulturní studia"
+        },
+        "excerpt": "Absolvent bakalářského oboru Politologie a magisterského oboru Evropská kulturní studia, studium zakončil diplomovou prací na téma „Obraz nepřítele na státní hranici v letech 1945 až 1989“ v roce 2014.",
+        "current_position": {
+            "short": "Místostarosta města Tachov",
+            "full": "Jsem uvolněný místostarosta města Tachov. Kdo u nás ve městě ještě nebyl, je srdečně zván. Třeba naše národní kulturní památka Jízdárna Světce je unikát, který nemá ve střední Evropě obdoby a určitě stojí za návštěvu."
+        },
+        "content": {
+            "pracovni_napln": "Vedení města je dost různorodá práce. Od zajištění úklidu psího hovínka z dětského hřiště (většinou uklízím telefonicky :-)) až po strategické rozhodování o milionových investicích, které naše město ovlivní na dlouhá desetiletí.",
+            "pracovni_uspechy": "Snažím se být mezi lidmi a vnímat jejich názory. To mě baví určitě víc než sezení v kanclu na radnici.",
+            "zuroceni_studia": "Studium oboru Evropská kulturní studia bylo fajn hned z několika důvodů. V našem ročníku se vytvořila dobrá parta a trávili jsme spolu i dost volného času. Každý měl jiné koníčky a bylo to zajímavé a inspirativní. Přímo škola člověku dala slušný rozhled. Studijních povinností bylo dost, člověk nezlenivěl a neustále pracoval na svém písemném i mluveném projevu. Zároveň ale zbýval i čas na mimostudijní záliby. V mém případě to byla komunální politika a tak teď dělám, co dělám :).",
+            "spokojenost_prace": "Ano. Baví mě to."
+        },
+        "image": {
+            "thumbnail": "",
+            "full": ""
+        }
+      },
+      {
+        "sex": 1,
+        "firstname": "Jitka",
+        "surname": "Paitlová",
+        "name_prefix": "PhDr.",
+        "name_suffix": "Ph.D.",
+        "education": {
+            "short": "Absolventka bakalářského oboru Humanistika, magisterského oboru Evropská kulturní studia a doktorského oboru Teorie a filozofie vědy a techniky)"
+        },
+        "excerpt": "Absolventka bakalářského oboru Humanistika, magisterského oboru Evropská kulturní studia a doktorského oboru Teorie a filozofie vědy a techniky), studium zakončila dizertační prací na téma „Kritický racionalismus Hanse Alberta“ v roce 2016.",
+        "current_position": {
+            "short": "Odborná asistentka na Katedře filozofie FF ZČU.",
+            "full": "Odborná asistentka na Katedře filozofie FF ZČU."
+        },
+        "content": {
+            "pracovni_napln": "V rámci svého postgraduálního výzkumu se zaměřuji na vztah poznání a hodnot ve vědě, jezdím na zahraniční stáže, píšu odborné články a monografie, účastním se konferencí v ČR i v zahraničí, vedu semináře, přednáším, vedu bakalářské a diplomové práce a spolupracuji se studenty na projektech SGS.",
+            "pracovni_uspechy": "racovním úspěchem je pro mne každý student, který na začátku semestru projeví vlastní zájem a na konci semestru prokáže schopnost vlastního kritického myšlení a racionální argumentace; co se mého výzkumu týče, jsou to zahraniční stipendia (Regensburg, Vídeň, Klagenfurt), projekt GAČR (18-08239S), který právě realizuji, a brzké vydání mé disertace v nakladatelství Karolinum (ISBN 978-80-246-4057-0).",
+            "zuroceni_studia": "Naučila jsem se, že to, co člověk dělá s osobním zápalem i nad rámec formálních požadavků na zápočty a zkoušky, se vždy nějak zúročí. Důležité je říct si, co mě baví, co chci a nebát se prosadit. Studium na Katedře filozofie mi pro to poskytlo dostatečný prostor. V práci se studenty se snažím rozvíjet přístupy, které mě samotnou během studia zaujaly (např. diskuze a aktivní zapojení studentů v seminářích, systematické prezentace v přednáškách), a zavádět do výuky zajímavé metody, které jsem poznala v zahraničí (kontinuální příprava během semestru). Zároveň se jako vyučující pokouším eliminovat to, co mi jako studentce vadilo (např. nízká interakce, pomalé tempo, dlouhé seminární texty, testy).",
+            "spokojenost_prace": "Jasně, že jsem spokojená, protože přesně tohle jsem chtěla a chci dělat."
         },
         "image": {
             "thumbnail": "",

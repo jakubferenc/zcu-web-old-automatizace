@@ -1,0 +1,29 @@
+{
+  "obecne": {},
+  "publikace": {
+      "podrobnosti": {
+        "cesta": "/veda-a-vyzkum/publikace/podrobnosti/new",
+        "za_nazvem": ".html"
+      },
+      "obrazek": {
+        "nahrada_obrazku": {
+          "cesta": "/images/knihy/new/publikace-kfi-obalka.jpg"
+        },
+        "nahled": {
+          "cesta": "/images/knihy/new",
+          "za_nazvem": "?__scale=h:215,w:151"
+        }
+      }
+  },
+  "absolventi": {
+    "podrobnosti": {
+      "cesta": "podrobnosti",
+      "za_nazvem": ".html"
+    },
+    "obrazek": {
+      "nahled": {
+        "cesta": "images/absolventi"
+      }
+    }
+  }
+}

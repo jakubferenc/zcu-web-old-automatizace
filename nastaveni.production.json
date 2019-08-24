@@ -14,5 +14,16 @@
           "za_nazvem": "?__scale=h:215,w:151"
         }
       }
+  },
+  "absolventi": {
+    "podrobnosti": {
+      "cesta": "/studium/absolventi/podrobnosti",
+      "za_nazvem": ".html"
+    },
+    "obrazek": {
+      "nahled": {
+        "cesta": "/images/absolventi"
+      }
+    }
   }
 }
