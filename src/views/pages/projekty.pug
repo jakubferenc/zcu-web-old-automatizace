@@ -1,0 +1,73 @@
+include ../_partials/projekt-thumb.pug
+
+- const keysArraySorted = Object.keys(projektyPodleRoku).sort((a,b) => {return b-a})
+
+- const promotedAgencies = ['PUM2014, Plzeň - univerzitní město 2014', 'INTERREG V-A', 'GAČR', 'OPVK', 'FRVŠ – Fond rozvoje vysokých škol', 'VNJH – Vzdělávací nadace Jana Husa'];
+
+h3 Grantová agentura České republiky
+
+each yearKey in keysArraySorted
+
+  each item in projektyPodleRoku[yearKey]
+    if (item.agency === 'GAČR')
+      +projektThumb(item)
+      br
+
+br
+
+h3 Projekty přeshraniční spolupráce CZ-BY
+
+each yearKey in keysArraySorted
+
+  each item in projektyPodleRoku[yearKey]
+    if (item.agency === 'INTERREG V-A')
+      +projektThumb(item)
+      br
+
+br
+
+h3 ESF, operační program Vzdělávání pro konkurenceschopnost
+
+each yearKey in keysArraySorted
+
+  each item in projektyPodleRoku[yearKey]
+    if (item.agency === 'OPVK')
+      +projektThumb(item)
+      br
+br
+h3 Fond rozvoje vysokého školství
+
+each yearKey in keysArraySorted
+
+  each item in projektyPodleRoku[yearKey]
+    if (item.agency === 'FRVŠ – Fond rozvoje vysokých škol')
+      +projektThumb(item)
+      br
+br
+h3 Vzdělávací nadace Jana Husa
+
+each yearKey in keysArraySorted
+
+  each item in projektyPodleRoku[yearKey]
+    if (item.agency === 'VNJH – Vzdělávací nadace Jana Husa')
+      +projektThumb(item)
+      br
+br
+h3 Projekty města Plzeň
+
+each yearKey in keysArraySorted
+
+  each item in projektyPodleRoku[yearKey]
+    if (item.agency === 'PUM2014, Plzeň - univerzitní město 2014')
+      +projektThumb(item)
+      br
+br
+h3 Ostatní
+
+each yearKey in keysArraySorted
+
+  each item in projektyPodleRoku[yearKey]
+    if (promotedAgencies.indexOf(item.agency) === -1)
+      +projektThumb(item)
+      br
+

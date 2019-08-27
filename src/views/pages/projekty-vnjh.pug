@@ -1,0 +1,11 @@
+include ../_partials/projekt-thumb.pug
+
+- const keysArraySorted = Object.keys(projektyPodleRoku).sort((a,b) => {return b-a})
+
+each yearKey in keysArraySorted
+
+  each item in projektyPodleRoku[yearKey]
+    if (item.agency === 'VNJH – Vzdělávací nadace Jana Husa')
+      +projektThumb(item)
+      br
+br

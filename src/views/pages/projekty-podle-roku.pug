@@ -1,0 +1,13 @@
+include ../_partials/projekt-thumb.pug
+
+- const keysArraySorted = Object.keys(projektyPodleRoku).sort((a,b) => {return b-a})
+
+each yearKey in keysArraySorted
+
+  h3 #{yearKey}
+
+  each item in projektyPodleRoku[yearKey]
+
+    +projektThumb(item)
+    br
+

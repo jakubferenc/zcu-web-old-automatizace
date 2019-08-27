@@ -17,7 +17,7 @@ mixin publikaceThumb(opts = {})
                     <span class="title" style="font-size: 120%;">
                       if (opts.has_podrobnosti !== false)
                         a(href=`${opts.podrobnostiUrl}`)
-                          if (opts.subtitle !== false && opts.subtitle !== '')
+                          if (opts.subtitle !== undefined && opts.subtitle !== '')
                             b #{opts.title}: #{opts.subtitle}
                           else
                             b #{opts.title}

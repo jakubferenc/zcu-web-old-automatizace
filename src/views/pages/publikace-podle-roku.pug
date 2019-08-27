@@ -1,0 +1,20 @@
+include ../_partials/publikace-row.pug
+
+- const keysArraySorted = Object.keys(publikacePodleRoku).sort((a,b) => {return b-a})
+
+  each itemKey in keysArraySorted
+
+    h3 #{itemKey}
+
+    <table style="width: 550px;">
+    <tbody>
+
+    each item in publikacePodleRoku[itemKey]
+
+      +publikaceRow(item)
+
+    </tbody>
+    </table>
+    <br>
+
+

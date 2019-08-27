@@ -1,0 +1,13 @@
+include ../_partials/projekt-thumb.pug
+
+- const keysArraySorted = Object.keys(projektyPodleRoku).sort((a,b) => {return b-a})
+
+- const promotedAgencies = ['PUM2014, Plzeň - univerzitní město 2014', 'INTERREG V-A', 'GAČR', 'OPVK', 'FRVŠ – Fond rozvoje vysokých škol', 'VNJH – Vzdělávací nadace Jana Husa'];
+
+each yearKey in keysArraySorted
+
+  each item in projektyPodleRoku[yearKey]
+    if (promotedAgencies.indexOf(item.agency) === -1)
+      +projektThumb(item)
+      br
+

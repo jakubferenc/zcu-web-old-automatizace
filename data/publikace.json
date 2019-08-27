@@ -14,7 +14,7 @@
           "podrobnostiUrl": "",
           "type": "preklad",
           "has_picture": false,
-          "has_podrobnosti": true
+          "has_podrobnosti": false
         },
 
 	  {
@@ -336,8 +336,8 @@
           "title": "Staré a nové ",
           "title_en": "",
           "author": "NEUPAUER, Eduard",
-          "published_date": "Pravoslavné vydavatelství",
-          "publisher": "2008",
+          "published_date": "2008",
+          "publisher": "Pravoslavné vydavatelství",
           "meta_info": "NEUPAUER, E. Staré a nové. Praha : Pravoslavné vydavatelství, 2008, 136-139 s.",
           "annotation_short": "",
           "annotation": "",
@@ -390,7 +390,7 @@
           "podrobnostiUrl": "",
           "type": "preklad",
           "has_picture": false,
-          "has_podrobnosti": false
+          "has_podrobnosti": true
         },
 		 {
           "title": "Marius Victorinus: O soupodstatnosti Trojice",
@@ -405,7 +405,7 @@
           "podrobnostiUrl": "",
           "type": "preklad",
           "has_picture": false,
-          "has_podrobnosti": false
+          "has_podrobnosti": true
         },
 	  {
           "title": "Karl Mannheim: Problém generací",
@@ -504,21 +504,6 @@
           "published_date": "2005",
           "publisher": "Břeclav",
           "meta_info": "FIALA, J. Moc a zlo - sociálně psychologický pohled na svět. 1.. vyd. Břeclav : Moraviapress, 2005, 199 s. ISBN: 80-86181-80-4 ",
-          "annotation_short": "",
-          "annotation": "",
-          "keywords": "",
-          "podrobnostiUrl": "",
-          "type": "preklad",
-          "has_picture": false,
-          "has_podrobnosti": false
-        },
-		{
-          "title": "",
-          "title_en": "",
-          "author": "",
-          "published_date": "",
-          "publisher": "",
-          "meta_info": "",
           "annotation_short": "",
           "annotation": "",
           "keywords": "",
@@ -694,14 +679,15 @@
         "has_podrobnosti": true
       },
 	  {
-        "title": "Kosmologie a antropologie: Místa člověka v kosmu : sborník abstraktů.",
+        "title": "Kosmologie a antropologie",
         "title_en": "",
+        "subtitle": "Místa člověka v kosmu: sborník abstraktů",
         "author": " Anna Lukešová (eds.)",
         "published_date": "2014",
         "publisher": "Plzeň : Západočeská univerzita v Plzni",
         "meta_info": "",
-        "annotation_short": "Sborník abstraktů z workshopu Kosmologie a antropologie: Místa člověka v kosmu konaného ve dnech 10.-11. 4. 2014 v Plzni. ",
-        "annotation": "",
+        "annotation_short": "Sborník abstraktů z workshopu Kosmologie a antropologie: Místa člověka v kosmu konaného ve dnech 10.-11. 4. 2014 v Plzni.",
+        "annotation": "Sborník abstraktů z workshopu Kosmologie a antropologie: Místa člověka v kosmu konaného ve dnech 10.-11. 4. 2014 v Plzni.",
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
@@ -714,8 +700,8 @@
         "published_date": "2013",
         "publisher": "Praha : Filosofia",
         "meta_info": "",
-        "annotation_short": "Mimořádné číslo Filosofického časopisu (2013/2) věnované osobnosti Bertranda Russella a sestavené u příležitosti jeho nedožitých 140. narozenin. ",
-        "annotation": "",
+        "annotation_short": "Mimořádné číslo Filosofického časopisu (2013/2) věnované osobnosti Bertranda Russella a sestavené u příležitosti jeho nedožitých 140. narozenin.",
+        "annotation": "Mimořádné číslo Filosofického časopisu (2013/2) věnované osobnosti Bertranda Russella a sestavené u příležitosti jeho nedožitých 140. narozenin.",
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
@@ -728,8 +714,8 @@
         "published_date": "2012",
         "publisher": "Praha : Filosofia",
         "meta_info": "",
-        "annotation_short": "Mimořádné číslo Filosofického časopisu (2012/1) představující osobnost Nelsona Goodmana jako analytického filosofa, který výrazně zasáhl nejen do estetiky, ale též do logiky, epistemologie, ontologie a filosofie vědy. ",
-        "annotation": "",
+        "annotation_short": "Mimořádné číslo Filosofického časopisu (2012/1) představující osobnost Nelsona Goodmana jako analytického filosofa, který výrazně zasáhl nejen do estetiky, ale též do logiky, epistemologie, ontologie a filosofie vědy.",
+        "annotation": "Mimořádné číslo Filosofického časopisu (2012/1) představující osobnost Nelsona Goodmana jako analytického filosofa, který výrazně zasáhl nejen do estetiky, ale též do logiky, epistemologie, ontologie a filosofie vědy.",
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
@@ -761,7 +747,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Platonica Pilonica II. Faidros.",
@@ -803,7 +789,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Tradice a současnost. Týdny J. W. Goetha v Mariánských Lázních 1999-2009 : výroční sešit 1999-2009 / Tradition und Gegenwart. Goethe-Woche in Marienbad 1999-2009. Denkschrift.",
@@ -817,7 +803,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	    {
         "title": "Teorie a dějiny vědy a techniky : sborník příspěvků z VI. doktorandské konference",
@@ -887,7 +873,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	    {
         "title": "QUINE: nejen gavagai ",
@@ -901,7 +887,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	    {
         "title": "Věda v renesanční a novověké kultuře",
@@ -915,7 +901,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	  {
         "title": "Vybrané články k ontologii a epistemologii / W.V.O.Quine",
@@ -943,7 +929,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Teorie a dějiny vědy a techniky",
@@ -957,7 +943,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Teorie a dějiny vědy a techniky",
@@ -971,7 +957,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	  {
         "title": "Czechs in Europe",
@@ -985,7 +971,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Knowledge, value, evolution",
@@ -999,7 +985,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	  {
         "title": "Teorie a dějiny vědy a techniky",
@@ -1013,7 +999,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "René Descartes",
@@ -1027,7 +1013,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Imre Lakatos a filosofie vědy",
@@ -1041,7 +1027,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Univerzita: tradiční a netradiční ve výuce",
@@ -1055,7 +1041,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Horizonty nekonečna",
@@ -1069,7 +1055,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Kreativita - hledání alternativ",
@@ -1083,7 +1069,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Univerzita v novém miléniu",
@@ -1097,7 +1083,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Společenské hry. Analytický přístup",
@@ -1111,7 +1097,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Výchova a tradice evropského myšlení",
@@ -1125,7 +1111,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Vágnost, věda a filosofie",
@@ -1139,7 +1125,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	  {
         "title": "Metoda - význam - intence",
@@ -1153,7 +1139,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Charisteria Sidonio Neubauero sexagenario : sborník k šedesátinám Zdeňka Neubauera",
@@ -1167,7 +1153,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Kultura a vědecká racionalita",
@@ -1181,7 +1167,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Milénium vědy a filosofie",
@@ -1195,7 +1181,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
 	   {
         "title": "Úvahy o pravdivosti",
@@ -1209,7 +1195,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Kreativita : hledání alternativ",
@@ -1223,7 +1209,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Kultura a vědecká racionalita",
@@ -1237,7 +1223,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Pražské jaro 1968: pokus o obnovu občanské",
@@ -1251,7 +1237,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Role médií v občanské společnosti",
@@ -1265,7 +1251,7 @@
         "keywords": "",
         "type": "sbornik",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       }
     ],
     "citanky": [
@@ -1356,7 +1342,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Alexandr Sommer Batěk: neoglyfy",
@@ -1373,7 +1359,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
       {
         "title": "Poezie jako vyprávění příběhů",
@@ -1390,7 +1376,7 @@
         "keywords": "Philip Sidney",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
       {
         "title": "K filosofii náboženství",
@@ -1406,7 +1392,7 @@
         "keywords": "náboženství; Funda",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Apeiron. Anaximandros o vzniku a zániku",
@@ -1423,11 +1409,12 @@
         "keywords": "Anaximandros; apeiron; příroda; vznik; zánik",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
       {
         "title": "Úděl, úkol, národ",
         "title_en": "Lot, Task, Nation",
+        "subtitle": "Pokusy o etické pojetí národa v českém myšlení 19. století",
         "author": "PROFANT, Martin",
         "published_date": "2017",
 		"published_place": "Praha",
@@ -1439,7 +1426,7 @@
         "keywords": "Úděl; národ; Šafařík; Palacký; Schauer; T. G. Masaryk; von WOltmann; Bolzanu; Meissner; Grillparzer; von Thun",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
       {
         "title": "Proměny paradigmatu výchovy",
@@ -1456,11 +1443,12 @@
         "keywords": "filosofie výchovy; paradigmata výchovy; dějiny filosofie; filosofická antropologie",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
       {
-        "title": "Odstíny platónské uměřenosti. Ctnost, poznání, láska a míra",
+        "title": "Odstíny platónské uměřenosti",
         "title_en": "Shades of Platonic Moderation. Virtue, Knowledge, Love and Measure",
+        "subtitle": "ctnost, poznání, láska a míra",
         "author": "PAITLOVÁ, Jitka",
         "published_date": "2017",
 		"published_place": "Plzeň",
@@ -1472,7 +1460,7 @@
         "keywords": "Platón; 427 př. Kr.-347 př. Kr.; Řecká antická filozofie; 5.-4. století př. Kr.; Etika; Starověké Řecko; umírněnost",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
       {
         "title": "Profesionalizace literární kultury",
@@ -1489,7 +1477,7 @@
         "keywords": "literární kultura; alžbětinská poetika; renesance; poezie",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
       {
         "title": "Dál a dál za Herkulovy sloupy",
@@ -1507,14 +1495,14 @@
         "keywords": "Objevné cesty; Amerika Renesanční filozofie; Španělsko Renesanční věda; Španělsko Filozofie přírody; 16.-17. století Vědecké poznání; 16.-17. století",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
       {
         "title": "Kritický racionalismus H. Alberta a K. Poppera",
         "title_en": "Critical Rationalism of H. Albert and K. Popper",
         "subtitle": "",
         "author": "PAITLOVÁ, Jitka",
-        "published_date": "",
+        "published_date": "2019",
         "published_place": "Praha",
         "publisher": "Karolinum",
         "meta_info": "",
@@ -1525,7 +1513,7 @@
         "keywords": "kritický racionalismus; Hans Albert, poznání; zdůvodnění; věda; hodnotová neutralita; způsob jednání; Karl Popper; Otakar A. Funda",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 
 	   {
@@ -1544,7 +1532,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
       {
         "title": "Nová infinitní matematika",
@@ -1562,7 +1550,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Kurt Gödel: Úplnost a neúplnost",
@@ -1616,7 +1604,7 @@
         "keywords": "sémiotika; novověk; tradice; sémantika; filosofie matematiky; poetika; pragmatické aspekty jazyka",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Nová teorie množin a polomnožin",
@@ -1634,7 +1622,7 @@
         "keywords": "filosofie matematiky; nová teorie množin; horizont, nekonečno",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Když je řeč o barvách",
@@ -1652,7 +1640,7 @@
         "keywords": "barva; fenomenologie; jazyk; kultura; pravidlo, tělo",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Freudova neurofyziologie mysli",
@@ -1670,7 +1658,7 @@
         "keywords": "Sigmund Freud; neurověda; psýché; vědomí; mysl",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Trinus liber Dei: Komenského místo v dějinách metaforiky knihy",
@@ -1688,7 +1676,7 @@
         "keywords": "kniha přírody; přirozená teologie; kniha mysli; Komenský; konceptuální historie; dějiny metafor; Raimund ze Sabundy; metaforologie; dokonalý jazyk",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Inštrumentálny realizmus",
@@ -1706,7 +1694,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Informační grafika: Otto Neurath - Isotype",
@@ -1724,7 +1712,7 @@
         "keywords": "Isotype; informační grafika; obrazová statistika; Otto Neurath; Gerd Arntz",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Uvedení do obecné topologie a jejích dějin do roku 1960",
@@ -1760,7 +1748,7 @@
         "keywords": "myšlenka vědeckého pokroku; raně novověká věda; teleologie; antropocentrismus; dějiny vědy; červená karkulka",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Reálná čísla a jejich diskretizace",
@@ -1814,7 +1802,7 @@
         "keywords": "anomálie; ad hoc; hypotézy; metodologie vědy; kosmologie",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Vědomí a jeho teorie",
@@ -1832,7 +1820,7 @@
         "keywords": "vědomí; kválie; introspekce; neurální koreláty vědomí; reprezentacionismus; naturalismus",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Sny o mnohosti světů",
@@ -1869,7 +1857,7 @@
         "keywords": "Anaximenés; duše; kosmologie; vzduch; zhušťování a zřeďování",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Člověk očima přírodních věd a křesťanské teologie",
@@ -1924,7 +1912,7 @@
         "keywords": "tradiční čínské vědecké a filosofické myšlení; britští a američtí vědci; tradiční čínská kultura; západní věda",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Spiknutí! - Úloha antisemitských konspiračních teorií ve veřejném a politickém diskurzu",
@@ -1942,7 +1930,7 @@
         "keywords": "antisemitismus; mediální studia; konspirační teorie; hoax",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Vůle k víře",
@@ -1960,7 +1948,7 @@
         "keywords": "náboženství; explanace; vůle",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Patočkovy interpretace literatury",
@@ -1978,7 +1966,7 @@
         "keywords": "Patočka; interpretace; literatura; fenomenologie",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Pozitivismus v české filosofii první poloviny 20. století",
@@ -1996,7 +1984,7 @@
         "keywords": "pozitivismus; idealismus; Masaryk; František Krejčí; psychologie ",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Umění jako vyjádření smyslu",
@@ -2014,7 +2002,7 @@
         "keywords": "umění; smysl; Jan Patočka; výtvarné umění; literatura",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Organizace konferencí na Západočeské univerzitě",
@@ -2050,7 +2038,7 @@
         "keywords": "R. Rorty; W. Sellars; D. Davidson; W.V.O. Quine; jazykový idealismus; epistemologie; fundacionismus; reprezentacionalismus; pragmatismus; analytická filosofie; konstruktivismus",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Racionalita versus transcendence",
@@ -2068,7 +2056,7 @@
         "keywords": "racionalita; transcendence; Hans Albert; teologie",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Francouzská epistemologie : (přehled vývoje do poloviny 20. století)",
@@ -2086,7 +2074,7 @@
         "keywords": "francouzská epistemologie; dějiny vědy; filosofie vědy; kontingence; konvencionalismus ",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "History of Hatred, Hatred of History - Encounters Between Antisemitism and Historical Memory",
@@ -2104,7 +2092,7 @@
         "keywords": "historie; paměť; zneužití historie; zneužití paměti; revisionismus; rasismus; antisemitismus; Sametová revoluce; Masaryk; Ernst Renan; Benjamin Disraeli; Miroslav Dolejší",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Causality",
@@ -2118,11 +2106,11 @@
         "isbn": "978-1-908645-99-9",
         "pages": "309",
         "annotation_short": "",
-        "annotation": "Kauzální uvažování je standardním vyjádřením a nepostradatelným nástrojem lidského intelektu. Je založena na vlastnostech duševní činnosti, nebo přírodních jevů nezávislých na lidské bytosti? Monografie "Kauzalita" filozofických publicistů Karla Pexidra a Nikolaje Demjančuka je zaměřena na tuto hlavní otázku v kombinaci s dalšími problémy kauzality. Autoři v krátké historické části a v podrobnější analytické části ukazují, že bezprostřední sebe-evidence kauzality, jak je brána v našem každodenním životě, neodpovídá zdaleka hloubce a důležitosti filozofických problémů, které vznikají v důsledku kauzality.",
+        "annotation": "Kauzální uvažování je standardním vyjádřením a nepostradatelným nástrojem lidského intelektu. Je založena na vlastnostech duševní činnosti, nebo přírodních jevů nezávislých na lidské bytosti? Monografie \"Kauzalita\" filozofických publicistů Karla Pexidra a Nikolaje Demjančuka je zaměřena na tuto hlavní otázku v kombinaci s dalšími problémy kauzality. Autoři v krátké historické části a v podrobnější analytické části ukazují, že bezprostřední sebe-evidence kauzality, jak je brána v našem každodenním životě, neodpovídá zdaleka hloubce a důležitosti filozofických problémů, které vznikají v důsledku kauzality.",
         "keywords": "kauzalita; filosofie; věda",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Physics, Astronomy and Engineering",
@@ -2158,7 +2146,7 @@
         "keywords": "C. F. Gauss; intencionální historiografie; fenomenologická filosofie; epistemologie matematiky; diferenciální geometrie; dějiny matematiky; dějiny astronomie; dějiny geodézie; H. C. Schumacher",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Lazare and Sadi Carnot",
@@ -2212,7 +2200,7 @@
         "keywords": "bioetika; zdraví; věda; medicína; etika",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Úvod do systematické filosofie",
@@ -2248,7 +2236,7 @@
         "keywords": "antisemitismus; soudobý antisemitismus; rasová ideologie; historické vědy; antropologie; holocaust; Česká Republika",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Očitá svědecví: Španělsko, Nový svět a změna vědeckého komunikačního paradigmatu",
@@ -2266,7 +2254,7 @@
         "keywords": "raně novověká věda; Španělsko; Nový svět; vědecká komunikace; kooperace; empirie; historia naturalis",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 
 	  {
@@ -2339,7 +2327,7 @@
         "keywords": "epistemological obstacles; teleology; atomists; presocratics; ancient philosophy; evolution",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Das Entstehen des christlichen Glaubens",
@@ -2357,7 +2345,7 @@
         "keywords": "křesťanská víra; křesťanství; Ježíš Kristus; Nový Zákon",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Vybrané osobnosti českého filosofického myšlení",
@@ -2375,7 +2363,7 @@
         "keywords": "česká filosofie",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Střetnutí paradigmat a řád živé skutečnosti",
@@ -2393,7 +2381,7 @@
         "keywords": "dějiny vědy; paradigma vědy; R. Dawkins; B. McClintock; A. Portmann; D. Bohm; R. Sheldrake; G. Bateson",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Filosofie kultury Borise Vyšeslavceva.",
@@ -2411,7 +2399,7 @@
         "keywords": "Vyšeslavcev; Rusko; 20. století; filosofie kultury",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "O povaze vědy: Fenomenologie",
@@ -2429,7 +2417,7 @@
         "keywords": "fenomenologie; fenomenologie jako filosofie vědy; metodologie exaktních, přírodních a humanitních věd",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Interpretace filozofických textů s pomocí pojmových map",
@@ -2447,7 +2435,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Křesťanské kořeny evropanství",
@@ -2483,7 +2471,7 @@
         "keywords": "Arabština; přísloví; arabská přísloví; lidová slovesnost; bilinguální",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Apeiron Anaximandra z Mílétu",
@@ -2501,7 +2489,7 @@
         "keywords": "Anaximandros; apeiron; arché; čas; protiklady",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Filosofie v Byzanci",
@@ -2519,7 +2507,7 @@
         "keywords": "Filosofie; Byzanc; metodologie",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  	  {
         "title": "The Interpretation of Philosophical Texts I ",
@@ -2537,7 +2525,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Myslet uprostřed dějin: dějiny a dějinnost ve filosofii symbolických forem Ernsta Cassirera",
@@ -2555,7 +2543,7 @@
         "keywords": "Cassirer; Windelband; Rickert; filosofie dějin",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "O povaze vědy: Novokantovství",
@@ -2573,7 +2561,7 @@
         "keywords": "Novokantovství; metodologie; filosofie; základy věd; dějinnost",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Shakespeare a teorie interpretace",
@@ -2591,7 +2579,7 @@
         "keywords": "Shakespeare; teorie interpretace; literární věda; mimesis; fikční světy; meze interpretace; nový historismus; alžbětinské drama; renesance",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "L´histoire als Lehrerin of Life",
@@ -2609,7 +2597,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Pochody smrti - český příspěvek k otevřené otázce",
@@ -2627,7 +2615,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Exhumace obětí II. světové války - předpoklady, východiska, výzkum",
@@ -2645,7 +2633,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Calculus infinitesimalis: Pars prima",
@@ -2663,7 +2651,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Anaximandros z Mílétu",
@@ -2681,7 +2669,7 @@
         "keywords": "Anaximandros z Mílétu; apeiron; doxografie; kosmogonie; kosmologie; meteorologie; protiklady",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Druhá světová válka - případ Tachovsko",
@@ -2699,7 +2687,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Das quälende Geheimnis",
@@ -2735,7 +2723,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "O povaze vědy: věda v kulturních kontextech",
@@ -2753,7 +2741,7 @@
         "keywords": "filosofie vědy; teorie vědy; dějiny vědy; věda a kultura; věda, protověda, mytus, náboženství, umění",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },{
         "title": "Inteligence v duchovním životě Ruska 20. století",
         "title_en": "Inteligensia in the spiritual life of Russia in the 20th century",
@@ -2769,8 +2757,8 @@
         "annotation": "Autorka analyzuje duchovní život Ruska prostřednictvím rozboru několika problémů. Na základě studia dvou velkých debat století vysvětluje specifiku ruské inteligence, která je výrazem specifické povahy ruské kultury.",
         "keywords": "filosofie kultury; ruská kultura; inteligence; duchovní kultura; V. I. Vernadskij; A. F. Losev; M. S. Hruševskyj",
         "type": "monografie",
-        "has_picture": true,
-        "has_podrobnosti": true
+        "has_picture": false,
+        "has_podrobnosti": false
       },{
         "title": "Relativismus a kontingentní budoucnosti",
         "title_en": "",
@@ -2787,7 +2775,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Großes Themenwörterbuch Italienisch",
@@ -2805,7 +2793,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },{
         "title": "Kauzalita",
         "title_en": "Causality",
@@ -2822,7 +2810,7 @@
         "keywords": "dějiny a filosofie vědy; V. I. Vernadskij",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Renesanční a novověká filosofie",
@@ -2840,7 +2828,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Proměny historiografie vědy",
@@ -2858,7 +2846,7 @@
         "keywords": "historiografie vědy; metodologie; dějiny vědy",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Pojednání o jevech povstávajících na množstvích",
@@ -2894,7 +2882,7 @@
         "keywords": "Funda; teologie; Masaryk; Rádl",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Fysis iónských myslitelů : rozprava nad peripatetickou dezinterpretací",
@@ -2912,7 +2900,7 @@
         "keywords": "fysis; příroda; přirozenost; zkoumání přírody; kosmos; prvek; princip; arché; to apeiron; vzduch; duše; logos; Anaximandros z Mílétu; Anaximenés z Mílétu; Hérakleitos z Efesu; Aristotelés; Theofrastos; peripatetici; doxografie",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Gespräch",
@@ -2983,7 +2971,7 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": true,
+        "has_picture": false,
         "has_podrobnosti": false
       },
 	  {
@@ -3002,7 +2990,7 @@
         "keywords": "dějiny astronomie; středověk",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Bergsonova koncepce komické představivosti a smíchu",
@@ -3019,7 +3007,7 @@
         "annotation": "",
         "keywords": "humor; Bergson; Cazamian",
         "type": "monografie",
-        "has_picture": true,
+        "has_picture": false,
         "has_podrobnosti": false
       },
 
@@ -3039,7 +3027,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Výuka pragmatických aspektů řečové komunikace ve vyšších třídách gymnázií a na SOŠ",
@@ -3075,7 +3063,7 @@
         "keywords": "Křesťanství; Ježíš; christologie; vznik křesťanství; historický přístup",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Veselé tropy",
@@ -3149,7 +3137,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	   {
         "title": "Astronomie v antice",
@@ -3167,7 +3155,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	   {
         "title": "Filosofie výchovy jako filosofie lidské aktivity a dialogu",
@@ -3185,7 +3173,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	   {
         "title": "Vzdělání a extremismus",
@@ -3239,7 +3227,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	   {
         "title": "Umění jako odkaz na realitu času",
@@ -3311,7 +3299,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	   {
         "title": "Historická reflexe filozofických systémů",
@@ -3365,7 +3353,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	   {
         "title": "Logika pro humanistiku",
@@ -3383,7 +3371,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	   {
         "title": "Teorie a dějiny náboženství",
@@ -3401,7 +3389,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	   {
         "title": "Současná filosofie a metodologie vědy",
@@ -3473,7 +3461,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": true
+        "has_podrobnosti": false
       },
 	  {
         "title": "Sémantika & pragmatická lingvistika",
@@ -3516,9 +3504,9 @@
         "title_en": "",
 		"subtitle": "",
         "author": "FIALA, Jiří",
-        "published_date": "",
+        "published_date": "2002",
 		"published_place": "",
-        "publisher": "",
+        "publisher": "OPS",
         "meta_info": "",
         "isbn": "80-238-9519-2",
         "pages": "134",
@@ -3527,42 +3515,6 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
-      },
-	  {
-        "title": "",
-        "title_en": "",
-		"subtitle": "",
-        "author": "",
-        "published_date": "",
-		"published_place": "",
-        "publisher": "",
-        "meta_info": "",
-        "isbn": "",
-        "pages": "",
-        "annotation_short": "",
-        "annotation": "",
-        "keywords": "",
-        "type": "monografie",
-        "has_picture": true,
-        "has_podrobnosti": false
-      },
-	  {
-        "title": "",
-        "title_en": "",
-		"subtitle": "",
-        "author": "",
-        "published_date": "",
-		"published_place": "",
-        "publisher": "",
-        "meta_info": "",
-        "isbn": "",
-        "pages": "",
-        "annotation_short": "",
-        "annotation": "",
-        "keywords": "",
-        "type": "monografie",
-        "has_picture": true,
         "has_podrobnosti": false
       }
     ]

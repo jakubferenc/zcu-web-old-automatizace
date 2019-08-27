@@ -1,0 +1,11 @@
+include ../_partials/projekt-thumb.pug
+
+- const keysArraySorted = Object.keys(projektyPodleRoku).sort((a,b) => {return b-a})
+
+
+each yearKey in keysArraySorted
+
+  each item in projektyPodleRoku[yearKey]
+    if (item.agency === 'PUM2014, Plzeň - univerzitní město 2014')
+      +projektThumb(item)
+      br

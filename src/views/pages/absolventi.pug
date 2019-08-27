@@ -1,6 +1,27 @@
 include ../_partials/absolvent-thumb.pug
 
+h3 Komerční sféra
 each item, index in absolventi
 
-  +absolventThumb(item)
+  if (item.category === 'Komerční sféra')
+    +absolventThumb(item)
+
+h3 Akademická sféra
+each item, index in absolventi
+
+  if (item.category === 'Akademická sféra')
+    +absolventThumb(item)
+
+h3 Veřejná a státní správa
+each item, index in absolventi
+
+  if (item.category === 'Veřejná a státní správa')
+    +absolventThumb(item)
+
+h3 Kulturní instituce a média
+each item, index in absolventi
+
+  if (item.category === 'Kulturní instituce a média')
+    +absolventThumb(item)
+
 

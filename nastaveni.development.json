@@ -12,6 +12,10 @@
         "nahled": {
           "cesta": "/images/knihy/new",
           "za_nazvem": "?__scale=h:215,w:151"
+        },
+        "nahled_small": {
+          "cesta": "/images/knihy/new",
+          "za_nazvem": "?__scale=h:53,w:21"
         }
       }
   },

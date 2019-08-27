@@ -1,0 +1,23 @@
+mixin publikaceRow(opts = {})
+ <!-- položka kniha -->
+
+  <tr style="height: 100px;">
+    <td style="height: 100px;" width="70">
+      img(alt=`Obálka knihy ${opts.title}` title=`Obálka knihy ${opts.title}` src=`${opts.obrazekSrc}${opts.obrazekZaNazvem}`)
+    </td>
+    <td style="height: 100px;">
+      <div>
+        if (opts.has_podrobnosti !== false)
+          a(href=`${opts.podrobnostiUrl}`)
+            if (opts.subtitle !== undefined && opts.subtitle !== '')
+              b #{opts.title}: #{opts.subtitle}
+            else
+              b #{opts.title}
+        else
+          b #{opts.title}
+      </div>
+      <div>#{opts.author}</div>
+      <div>#{opts.publisher}, #{opts.published_date}</div>
+    </td>
+  </tr>
+  <!-- konec položka kniha -->

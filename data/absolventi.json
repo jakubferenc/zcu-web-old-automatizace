@@ -2,6 +2,7 @@
     "absolventi": [
       {
         "sex": 1,
+        "category": "Kulturní instituce a média",
         "firstname": "Alexandra",
         "surname": "Hrdinová",
         "name_prefix": "Bc.",
@@ -28,6 +29,7 @@
       },
       {
         "sex": 0,
+        "category": "Veřejná a státní správa",
         "firstname": "Václav",
         "surname": "Kešner",
         "name_prefix": "Mgr.",
@@ -53,6 +55,7 @@
       },
       {
         "sex": 1,
+        "category": "Komerční sféra",
         "firstname": "Nela",
         "surname": "Drunecká",
         "name_prefix": "Mgr.",
@@ -78,6 +81,7 @@
       },
       {
         "sex": 0,
+        "category": "Komerční sféra",
         "firstname": "Roman",
         "surname": "Zdařil",
         "name_prefix": "Mgr.",
@@ -103,6 +107,7 @@
       },
       {
         "sex": 1,
+        "category": "Komerční sféra",
         "firstname": "Jitka",
         "surname": "Jiterská",
         "name_prefix": "Mgr.",
@@ -128,6 +133,7 @@
       },
       {
         "sex": 0,
+        "category": "Veřejná a státní správa",
         "firstname": "Jan",
         "surname": "Straka",
         "name_prefix": "Mgr.",
@@ -153,6 +159,7 @@
       },
       {
         "sex": 1,
+        "category": "Akademická sféra",
         "firstname": "Jitka",
         "surname": "Paitlová",
         "name_prefix": "PhDr.",

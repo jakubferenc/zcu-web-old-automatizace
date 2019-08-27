@@ -8,7 +8,8 @@
     "start": "set NODE_ENV=development && npm install && gulp",
     "update": "npm update && npm outdated",
     "dev": "set NODE_ENV=development && gulp",
-    "prod": "set NODE_ENV=production && gulp"
+    "prod": "set NODE_ENV=production && gulp",
+    "generatePublikaceByYear": "set NODE_ENV=production && gulp generatePublikaceByYear"
   },
   "repository": {
     "type": "git",
