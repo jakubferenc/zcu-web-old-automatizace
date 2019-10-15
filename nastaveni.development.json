@@ -1,32 +1,42 @@
 {
   "obecne": {},
   "publikace": {
-      "podrobnosti": {
-        "cesta": "/veda-a-vyzkum/publikace/podrobnosti/new",
-        "za_nazvem": ".html"
+    "podrobnosti": {
+      "cesta": "/veda-a-vyzkum/publikace/podrobnosti/new",
+      "za_nazvem": ".html"
+    },
+    "obrazek": {
+      "nahrada_obrazku": {
+        "cesta": "/images/knihy/new/publikace-kfi-obalka.jpg"
       },
-      "obrazek": {
-        "nahrada_obrazku": {
-          "cesta": "/images/knihy/new/publikace-kfi-obalka.jpg"
-        },
-        "nahled": {
-          "cesta": "/images/knihy/new",
-          "za_nazvem": "?__scale=h:215,w:151"
-        },
-        "nahled_small": {
-          "cesta": "/images/knihy/new",
-          "za_nazvem": "?__scale=h:53,w:21"
-        }
+      "nahled": {
+        "cesta": "/images/knihy/new",
+        "za_nazvem": "?__scale=h:427,w:300"
+      },
+      "nahled_thumb": {
+        "cesta": "/images/knihy/new",
+        "za_nazvem": "?__scale=h:215,w:151"
+      },
+      "nahled_small": {
+        "cesta": "/images/knihy/new",
+        "za_nazvem": "?__scale=h:73,w:41"
       }
+    }
+},
+  "projekty": {
+    "podrobnosti": {
+      "cesta": "/veda-a-vyzkum/projekty/podrobnosti",
+      "za_nazvem": ".html"
+    }
   },
   "absolventi": {
     "podrobnosti": {
-      "cesta": "podrobnosti",
+      "cesta": "/studium/absolventi/podrobnosti",
       "za_nazvem": ".html"
     },
     "obrazek": {
       "nahled": {
-        "cesta": "images/absolventi"
+        "cesta": "/images/absolventi"
       }
     }
   }

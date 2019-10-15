@@ -1,0 +1,11 @@
+include ../_partials/seminare-row.pug
+
+table(style="width: 550px;")
+  tbody
+
+    each item in doktorskeSeminare
+
+      +seminareRow(item)
+
+
+

@@ -40,11 +40,16 @@ if (process.env.NODE_ENV.indexOf('production') > -1) {
 
 const isEven = (n) => {
   return n % 2 == 0;
-}
+};
 
 const makeCzechDateFromYMD = (dateString) => {
 
   return dateString.split("-").reverse().join(". ");
+};
+
+const makeCzechDateTimeFromYMDT = (dateTimeString) => {
+  const [date, time] = dateTimeString.split(' ');
+  return { time, date: makeCzechDateFromYMD(date) };
 };
 
 const sortArrayByEndYearDesc = (list) => list.sort(function (a, b) { return Date.parse(a.value) - Date.parse(b.value); });
@@ -55,7 +60,7 @@ const sortArrayByEndYearDesc = (list) => list.sort(function (a, b) { return Date
 const config = {
   pug: {
     locals: {
-      isEven,
+      isEven, makeCzechDateFromYMD, makeCzechDateTimeFromYMDT, slug,
     }
   }
 };
@@ -73,15 +78,14 @@ const preparePublikaceItem = (item) => {
   thisItem.slug = thisItem.slug.toLowerCase();
 
   // obrazky
-  if (thisItem.has_picture !== false) {
+  thisItem.obrazekNahledSmallSrc = `${jsonNastaveni.publikace.obrazek.nahled_small.cesta}/${thisItem.slug}.jpg${jsonNastaveni.publikace.obrazek.nahled_small.za_nazvem}`;
+  thisItem.obrazekNahledThumbSrc = `${jsonNastaveni.publikace.obrazek.nahled_thumb.cesta}/${thisItem.slug}.jpg${jsonNastaveni.publikace.obrazek.nahled_thumb.za_nazvem}`;
+  thisItem.obrazekSrc = `${jsonNastaveni.publikace.obrazek.nahled.cesta}/${thisItem.slug}.jpg`; // no resize because we do not know if we have the large size for all books
 
-    thisItem.obrazekSrc = `${jsonNastaveni.publikace.obrazek.nahled.cesta}/${thisItem.slug}.jpg`;
-    thisItem.obrazekZaNazvem = jsonNastaveni.publikace.obrazek.nahled.za_nazvem;
-
-  } else {
-    thisItem.obrazekSrc = jsonNastaveni.publikace.obrazek.nahrada_obrazku.cesta;
-    thisItem.obrazekZaNazvem = '';
-  }
+  // used for default image on onerror in <img> tag
+  thisItem.obrazekNahradaObrazkuNahledSmallSrc = `${jsonNastaveni.publikace.obrazek.nahrada_obrazku.cesta}${jsonNastaveni.publikace.obrazek.nahled_small.za_nazvem}`;
+  thisItem.obrazekNahradaObrazkuNahledThumbSrc = `${jsonNastaveni.publikace.obrazek.nahrada_obrazku.cesta}${jsonNastaveni.publikace.obrazek.nahled_thumb.za_nazvem}`;
+  thisItem.obrazekNahradaObrazkuSrc = `${jsonNastaveni.publikace.obrazek.nahrada_obrazku.cesta}`;
 
   // podrobnosti
   thisItem.podrobnostiUrl = `${jsonNastaveni.publikace.podrobnosti.cesta}/${thisItem.slug}${jsonNastaveni.publikace.podrobnosti.za_nazvem}`;
@@ -111,15 +115,15 @@ const preparePublikacePodleDataItem = (item) => {
   thisItem.slug = thisItem.slug.toLowerCase();
 
   // obrazky
-  if (thisItem.has_picture !== false) {
+  thisItem.obrazekNahledSmallSrc = `${jsonNastaveni.publikace.obrazek.nahled_small.cesta}/${thisItem.slug}.jpg${jsonNastaveni.publikace.obrazek.nahled_small.za_nazvem}`;
+  thisItem.obrazekNahledThumbSrc = `${jsonNastaveni.publikace.obrazek.nahled_thumb.cesta}/${thisItem.slug}.jpg${jsonNastaveni.publikace.obrazek.nahled_thumb.za_nazvem}`;
+  thisItem.obrazekSrc = `${jsonNastaveni.publikace.obrazek.nahled.cesta}/${thisItem.slug}.jpg`; // no resize because we do not know if we have the large size for all books
 
-    thisItem.obrazekSrc = `${jsonNastaveni.publikace.obrazek.nahled_small.cesta}/${thisItem.slug}.jpg`;
-    thisItem.obrazekZaNazvem = jsonNastaveni.publikace.obrazek.nahled_small.za_nazvem;
+  // used for default image on onerror in <img> tag
+  thisItem.obrazekNahradaObrazkuNahledSmallSrc = `${jsonNastaveni.publikace.obrazek.nahrada_obrazku.cesta}${jsonNastaveni.publikace.obrazek.nahled_small.za_nazvem}`;
+  thisItem.obrazekNahradaObrazkuNahledThumbSrc = `${jsonNastaveni.publikace.obrazek.nahrada_obrazku.cesta}${jsonNastaveni.publikace.obrazek.nahled_thumb.za_nazvem}`;
+  thisItem.obrazekNahradaObrazkuSrc = `${jsonNastaveni.publikace.obrazek.nahrada_obrazku.cesta}`;
 
-  } else {
-    thisItem.obrazekSrc = jsonNastaveni.publikace.obrazek.nahrada_obrazku.cesta;
-    thisItem.obrazekZaNazvem = jsonNastaveni.publikace.obrazek.nahled_small.za_nazvem;
-  }
 
   // podrobnosti
   thisItem.podrobnostiUrl = `${jsonNastaveni.publikace.podrobnosti.cesta}/${thisItem.slug}${jsonNastaveni.publikace.podrobnosti.za_nazvem}`;
@@ -227,7 +231,6 @@ const generateProjektyPodleRokuDB = () => {
     // add the item to the second level of the associate array
     newListProjektyUnsorted[thisTempItemYear].push(thisTempItem);
 
-
   }
 
   // sort by end of the year
@@ -290,6 +293,21 @@ const prepareProjektItem = (item) => {
   // create a slug used for image name or the url of detail page
   thisItem.slug = slug(thisItem.title);
   thisItem.slug = thisItem.slug.toLowerCase();
+
+
+  // podrobnosti
+  thisItem.podrobnostiUrl = `${jsonNastaveni.projekty.podrobnosti.cesta}/${thisItem.slug}${jsonNastaveni.projekty.podrobnosti.za_nazvem}`;
+
+  // podrobnosti html
+  gulp.src('src/views/_partials/detail-projekt.pug')
+    .pipe(
+      $.data(
+        (file) => thisItem
+      ),
+    )
+    .pipe($.pug(config.pug))
+    .pipe($.rename(`${thisItem.slug}.html`))
+    .pipe(gulp.dest('./tmp/views/podrobnosti/projekty/'));
 
   return thisItem;
 

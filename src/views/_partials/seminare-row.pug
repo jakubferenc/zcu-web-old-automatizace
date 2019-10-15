@@ -1,0 +1,39 @@
+mixin seminareRow(opts = {})
+
+  - const customDateTime = makeCzechDateTimeFromYMDT(opts.datetime)
+
+  <!-- položka seminar -->
+
+  tr(style="min-height: 100px;")
+    td(style="min-height: 100px; padding: 10px;")
+      div
+        ul
+          li <!-- datum, čas, místnost --> #{customDateTime.date} (#{customDateTime.time} #{opts.place}) <!-- konec datum, čas, místnost -->
+      br
+      if (opts.lecturer !== undefined && opts.lecturer !== '')
+        p <!-- vyučující --> #{opts.lecturer} <!-- konec vyučující -->
+      if (opts.title !== undefined && opts.title !== '')
+        h3 <!-- název přednášky --> #{opts.title} <!-- konec název přednášky -->
+
+      div
+
+        if ((opts.annotation_html !== undefined && opts.annotation_html !== '') || (opts.annotation !== undefined && opts.annotation !== ''))
+
+          a(href="#" class="open-more" onclick="var thisContent = this.parentNode.getElementsByClassName('content')[0]; if (thisContent.style.display == 'none') { thisContent.style.display = 'block'; this.innerText = 'Zavřít detail'; } else { thisContent.style.display = 'none'; this.innerText = 'Zobrazit detail'; }; return false;")
+            | Zobrazit detail
+
+          .content(style="display:none; margin: 5px 0 5px 0;")
+            | <!-- anotace -->
+
+            if (opts.subtitle !== undefined && opts.subtitle !== '')
+              p
+                b #{opts.subtitle}
+
+            if (opts.annotation_html !== undefined && opts.annotation_html !== '')
+              | !{opts.annotation_html}
+            else
+              | #{opts.annotation}
+
+            | <!-- konec anotace -->
+
+  <!-- konec položka seminar -->

@@ -1,9 +1,14 @@
 include ../_partials/publikace-thumb.pug
 
+- const keysArraySorted = Object.keys(publikacePodleRoku).sort((a,b) => {return b-a})
+
+
 table(width="100%" id="table-vypis-knih" style="border: none;")
   tbody
 
-    each item, index in publikace.monografie
+    // get only the books from the current year
+    // which will be in the array keysArraySorted at the "0" position
+    each item, index in publikacePodleRoku[keysArraySorted[0]]
 
       - const thisItemIndex = index+1
       - const thisItemIsEven = isEven(thisItemIndex)

@@ -20,7 +20,8 @@
         "title_en": "",
         "author": "Plzeňské rozhovory 2011",
         "published_date": "2001",
-        "publisher": "Plzeň : Magistrát města Plzně",
+        "published_place": "Plzeň",
+        "publisher": "Magistrát města Plzně",
         "meta_info": "",
         "annotation_short": "",
         "annotation": "",
@@ -44,8 +45,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2002": [
@@ -69,7 +70,7 @@
         "title_en": "",
         "author": "Jiří Fiala(ed.)",
         "published_date": "2002",
-        "publisher": "O.P.S.",
+        "publisher": "OPS",
         "meta_info": "FIALA, J. Charisteria Sidonio Neubauero sexagenario : sborník k šedesátinám Zdeňka Neubauera. Pragae : O.P.S., 2002, 319 s. s. ISBN: 80-238-9520-6 ",
         "annotation_short": "",
         "annotation": "",
@@ -83,7 +84,7 @@
         "title_en": "",
         "author": "Nikolaj Demjančuk, Břetislav Fajkus (eds.)",
         "published_date": "2002",
-        "publisher": "Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "DEMJANČUK, N., FAJKUS, B. Kultura a vědecká racionalita. 1.. vyd. Dobrá Voda : Aleš Čeněk, 2002, 140 s. ISBN: 80-86473-24-4 ",
         "annotation_short": "",
         "annotation": "",
@@ -111,7 +112,7 @@
         "title_en": "",
         "author": "Nikolaj Demjančuk, Břetislav Fajkus (eds.)",
         "published_date": "2002",
-        "publisher": "Dobrá Voda : Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "",
         "annotation_short": "",
         "annotation": "",
@@ -132,7 +133,7 @@
         "keywords": "analytická filosofie, jiří fiala, čítanka",
         "type": "citanka",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Úvod do systematické filosofie",
@@ -149,8 +150,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Sémiotika v teorii a praxi",
@@ -167,8 +168,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Filosofie a vědecké myšlení",
@@ -177,7 +178,7 @@
         "author": "DEMJANČUK, Nikolaj",
         "published_date": "2002",
         "published_place": "Dobrá Voda",
-        "publisher": "Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "",
         "isbn": "80-86473-19-8",
         "pages": "245",
@@ -185,8 +186,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Zdeněk Neubauer, Respondeo dicendum",
@@ -203,8 +204,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2003": [
@@ -235,7 +236,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -250,7 +251,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -258,7 +259,7 @@
         "title_en": "",
         "author": "Jarmila Doubravová(ed.)",
         "published_date": "2003",
-        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk,",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "DOUBRAVOVÁ, J. Společenské hry. Analytický přístup. 1.. vyd. Dobrá Voda : Vydavatelství a nakladatelství Aleš Čeněk, 2003, 213 s. ISBN: 80-86473-35-X ",
         "annotation_short": "",
         "annotation": "",
@@ -272,7 +273,7 @@
         "title_en": "",
         "author": "Stanislav Stark , Nikolaj Demjančuk , Dagmar Demjančuková (eds.)",
         "published_date": "2003",
-        "publisher": "Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "DEMJANČUK, N., DEMJANČUKOVÁ, D., STARK, S. Výchova a tradice evropského myšlení. 1. vyd. Dobrá Voda : Aleš Čeněk, 2003, 394 s. ISBN: 80-86473-49-X",
         "annotation_short": "",
         "annotation": "",
@@ -321,7 +322,7 @@
         "keywords": "analytická filosofie, jiří fiala, čítanka",
         "type": "citanka",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Kapitoly z filosofie výchovy",
@@ -330,7 +331,7 @@
         "author": "STARK, Stanislav, DEMJANČUK, Nikolaj, DEMJANČUKOVÁ, Dagmar",
         "published_date": "2003",
         "published_place": "Dobrá Voda ",
-        "publisher": "Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "",
         "isbn": "80-86473-56-2",
         "pages": "183",
@@ -339,7 +340,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Logika pro humanistiku",
@@ -348,7 +349,7 @@
         "author": "SVATEK, Jan, DOSTÁLOVÁ, Ludmila",
         "published_date": "2003",
         "published_place": "Dobrá Voda",
-        "publisher": "Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "",
         "isbn": "80-86473-54-6",
         "pages": "231",
@@ -356,8 +357,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Teorie a dějiny náboženství",
@@ -366,7 +367,7 @@
         "author": "DEMJANČUKOVÁ, Dagmar",
         "published_date": "2003",
         "published_place": "Dobrá Voda",
-        "publisher": "Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "",
         "isbn": "80-86473-43-0 ",
         "pages": "172",
@@ -374,8 +375,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Současná filosofie a metodologie vědy",
@@ -393,7 +394,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       }
     ],
     "2004": [
@@ -409,7 +410,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -424,7 +425,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -461,7 +462,7 @@
         "title_en": "",
         "author": "Nikolaj Demjančuk et. al. (eds.)",
         "published_date": "2004",
-        "publisher": "Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "DEMJANČUK, N., KRÁLOVEC, J., DOUBRAVOVÁ, J., SCHUSTER, R. Kreativita - hledání alternativ. 1.. vyd. Plzeň : Aleš Čeněk, 2004, 127 s. ISBN: 80-86898-05-9 ",
         "annotation_short": "",
         "annotation": "",
@@ -475,7 +476,7 @@
         "title_en": "",
         "author": "Nikolaj Demjančuk(ed.)",
         "published_date": "2004",
-        "publisher": "Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "DEMJANČUK, N. Univerzita v novém miléniu. 1.. vyd. Plzeň : Aleš Čeněk, 2004, 367 s. ISBN: 80-86473-62-7 ",
         "annotation_short": "",
         "annotation": "",
@@ -489,7 +490,7 @@
         "title_en": "",
         "author": "Radek Schuster et. al. (eds.)",
         "published_date": "2004",
-        "publisher": "Plzeň : Vydavatelství a nakladatelství Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "",
         "annotation_short": "",
         "annotation": "",
@@ -514,7 +515,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Al'ternativnaja teorija množestv : novyj vzgljad na beskonečnostʹ ",
@@ -531,8 +532,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Proč Gorgiás mluví",
@@ -549,8 +550,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Historická reflexe filozofických systémů",
@@ -567,8 +568,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Vyprávění o kráse novobarokní matematiky",
@@ -585,24 +586,24 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2005": [
       {
         "title": "Moc a zlo - sociálně psychologický pohled na svět",
         "title_en": "",
-        "author": "FIALA, Jiří",
+        "author": "ZIMBARDO, Philip G. Edited by Jiří Fiala - Martina Klicperová-Baker.",
         "published_date": "2005",
-        "publisher": "Břeclav",
+        "publisher": "Moraviapress",
         "meta_info": "FIALA, J. Moc a zlo - sociálně psychologický pohled na svět. 1.. vyd. Břeclav : Moraviapress, 2005, 199 s. ISBN: 80-86181-80-4 ",
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -617,7 +618,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -640,14 +641,14 @@
         "title_en": "",
         "author": "FIALA, Jiří",
         "published_date": "2005",
-        "publisher": "Filozofický ústav AV ČR",
+        "publisher": "Filosofický ústav AV ČR",
         "meta_info": "FIALA, J. Existence logických předmětů podle Fregeho. Praha : Filozofický ústav AV ČR, 2005, 25 s.",
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -711,7 +712,7 @@
         "title_en": "",
         "author": "Nikolaj Demjančuk , Dagmar Demjančuková , Stanislav Stark (eds.)",
         "published_date": "2005",
-        "publisher": "Západočeská univerzita",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "DEMJANČUK, N., DEMJANČUKOVÁ, D., STARK, S. Univerzita: tradiční a netradiční ve výuce. 1.. vyd. Plzeň : Vydavatelství a nakladatelství Aleš Čeněk, 2005, 447 s. ISBN: 80-86898-60-1 ",
         "annotation_short": "",
         "annotation": "",
@@ -736,7 +737,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Výuka pragmatických aspektů řečové komunikace ve vyšších třídách gymnázií a na SOŠ ",
@@ -753,8 +754,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Filosofie a metodologie vědy",
@@ -771,8 +772,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Umění jako odkaz na realitu času",
@@ -789,8 +790,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2006": [
@@ -799,14 +800,14 @@
         "title_en": "",
         "author": "NĚMEC, Václav",
         "published_date": "2006",
-        "publisher": "Oikoymenh",
+        "publisher": "OIKOYMENH",
         "meta_info": "NĚMEC, V. Marius Victorinus: O soupodstatnosti Trojice (Proti Ariovi Ib). 1. vyd. Praha : Oikoymenh, 2006, 487 s. ISBN: 80-7298-154-4 ",
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -821,7 +822,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -836,7 +837,7 @@
         "keywords": "Quine",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -851,7 +852,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -866,7 +867,7 @@
         "keywords": "Quine, analytická filosofie, ontologie, epistemologie",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -874,13 +875,13 @@
         "title_en": "W.V.O.QUINE: Selected Papers on Ontology and Epistemology",
         "author": " Ludmila Dostálová, Tomáš Marvan(eds.)",
         "published_date": "2006",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "DOSTÁLOVÁ, L., MARVAN, T. Vybrané články k ontologii a epistemologii / W.V.O.Quine. 1.. vyd. Plzeň : Západočeská univerzita v Plzni, 2006, 152 s. ISBN: 80-7043-510-0 ",
         "annotation_short": "",
         "annotation": "Sborník překladů šesti článků W.V.O.Quina k ontologii a epistemologii (O tom, co jest; Věci a jejich role v teoriích; Dvě dogmata empirismu; Ohlédnutí za dvěma dogmaty; Naturalizace epistemologie; Povaha poznání přírody) opatřený úvodní statí T. Marvana: Konstanty Quinovy filosofie",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -916,7 +917,8 @@
         "title_en": "Czechs in Europe",
         "author": "Nikolaj Demjančuk (ed.)",
         "published_date": "2006",
-        "publisher": "Pilsen : University of West Bohemia",
+        "published_place": "Pilsen",
+        "publisher": "University of West Bohemia",
         "meta_info": "",
         "annotation_short": "",
         "annotation": "",
@@ -937,7 +939,7 @@
         "keywords": "analytická filosofie, jiří fiala, čítanka",
         "type": "citanka",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Analytická filosofie - první čítanka",
@@ -951,7 +953,7 @@
         "keywords": "analytická filosofie, jiří fiala, čítanka",
         "type": "citanka",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Čítanka dějin náboženství",
@@ -965,7 +967,7 @@
         "keywords": "",
         "type": "citanka",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Věda v renesanci a novověku",
@@ -982,8 +984,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Astronomie v antice",
@@ -1000,8 +1002,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Filosofie výchovy jako filosofie lidské aktivity a dialogu",
@@ -1018,8 +1020,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Hra, věda a filosofie",
@@ -1036,8 +1038,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2007": [
@@ -1046,14 +1048,14 @@
         "title_en": "",
         "author": "BLAHUTKOVÁ, Daniela",
         "published_date": "2007",
-        "publisher": "",
+        "publisher": "Barrister & Principal",
         "meta_info": "BLAHUTKOVÁ, D. Ježíš Nazaretský. Brno : Barrister & Principal, 2007, 269 s.",
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1068,7 +1070,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1097,7 +1099,7 @@
         "annotation": "",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1111,7 +1113,7 @@
         "annotation": "",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1125,7 +1127,7 @@
         "annotation": "",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1144,7 +1146,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Výuka pragmatických aspektů řečové komunikace ve vyšších třídách gymnázií a na SOŠ",
@@ -1161,8 +1163,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Ježíš a mýtus o Kristu",
@@ -1171,7 +1173,7 @@
         "author": "FUNDA, Otakar",
         "published_date": "2007",
         "published_place": "Praha ",
-        "publisher": "UK Praha, Pedagogická fakulta",
+        "publisher": "Univerzita Karlova, Pedagogická fakulta",
         "meta_info": "",
         "isbn": "978-80-246-1276-8",
         "pages": "367",
@@ -1179,8 +1181,8 @@
         "annotation": "",
         "keywords": "Křesťanství; Ježíš; christologie; vznik křesťanství; historický přístup",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Veselé tropy",
@@ -1197,8 +1199,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Chodský slovník",
@@ -1215,8 +1217,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Výuka pragmatických aspektů řečové komunikace ve vyšších třídách gymnázií a na SOŠ II.",
@@ -1233,8 +1235,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2008": [
@@ -1250,7 +1252,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1258,14 +1260,14 @@
         "title_en": "",
         "author": "BLAHUTKOVÁ, Daniela",
         "published_date": "2008",
-        "publisher": "Tourismusverband Ostbayern e. V. ve spolupráci s krajskými úřady Plzeňského a Jihočeského kraje",
+        "publisher": "Tourismusverband Ostbayern e. V.",
         "meta_info": "BLAHUTKOVÁ, D. Toulky po východním Bavorsku a Čechách. Kultura a historie. Tourismusverband Ostbayern e. V. ve spolupráci s krajskými úřady Plzeňského a Jihočeského kraje, 2008, 67 s. s",
         "annotation_short": "",
         "annotation": "",
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1288,13 +1290,13 @@
         "title_en": "European science and philosophy ",
         "author": " Nikolaj Demjančuk (ed.)",
         "published_date": "2008",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "] DEMJANČUK, N. Evropská věda a filosofie. 1. vyd. Plzeň : Západočeská univerzita v Plzni, 2008, 275 s. ISBN: 978-80-7043-752-0 ",
         "annotation_short": "Sborník je věnován renesanční a nověké vědě. Autoři studuji přispěvek významných představitelů dobové vědy a filosofie k rozvoje evropské vědy. ",
         "annotation": "",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1302,13 +1304,13 @@
         "title_en": "Theory and History of Science and Technology V. ",
         "author": " Nikolaj Demjančuk, Radek Schuster (eds.)",
         "published_date": "2008",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "DEMJANČUK, N., SCHUSTER, R. Teorie a dějiny vědy a techniky V.. Západočeská univerzita v Plzni, 2008, 251 s. ISBN: 978-80-7043-755-1 ",
         "annotation_short": "Sborník příspěvků z doktorandské konference Teorie a dějiny vědy a techniky V., která se uskutečnila dne 21. 10. 2008 na KFI FF ZCU. ",
         "annotation": "",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1316,13 +1318,13 @@
         "title_en": "Euclid: Elements ",
         "author": "Ludmila Dostálová (ed.)",
         "published_date": "2008",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "DOSTÁLOVÁ, L. Eukleides: Základy geometrie. 1. vyd. Západočeská univerzita v Plzni, 2008, 154 s. ISBN: 948-80-7043-754-",
         "annotation_short": "",
         "annotation": "Sborník příspěvků ze semináře katedry filosofie ZČU věnovaného novému vydání českého překladu prvních čtyř knih Eukleidových Základů geometrie. Jednotlivé příspěvky jsou zaměřeny na problematiku překládání Eukleida stejně jako na vybrané matematické problémy z jeho spisu. ",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1330,7 +1332,8 @@
         "title_en": "",
         "author": "Pavel Krákora (ed.)",
         "published_date": "2008",
-        "publisher": "Praha : Epocha",
+        "published_place": "Praha",
+        "publisher": "Epocha",
         "meta_info": "",
         "annotation_short": "",
         "annotation": "",
@@ -1354,8 +1357,8 @@
         "annotation": "Řecké slovo fysis, obvykle překládané ve významech příroda nebo přirozenost, se pro nás stalo jedním z určujících rysů archaické filosofie, která je tradicí pochopena zejména jako historiá peri fyseós, zkoumání přírody. Hledání jeho původního významu je proto odkrýváním charakteru myšlení, které se rozvinulo v Mílétu, a zároveň porozuměním samotné povaze iónského zkoumání. Východiskem studie je širší rozvedení známého faktu, že celé mílétské myšlení nám bylo zprostředkováno schématy Aristotela a Theofrasta. Studie ukazuje svázanost fysis s aristotelským pojetím arché jako látkové příčiny a kriticky prochází dochované texty zatížené pozdními hledisky a terminologií. V případě Anaximandra z Mílétu interpretuje nejen první filosofický text, fragment DK 12 B 1, ale i temné to apeiron. U Anaximena z Mílétu poukazuje k možnému posunu od původního významu vzduchu jako oduševňujícího dechu k peripatetické koncepci fysis pokládané za jeden z prvků. Patrně nejstarší autentické doklady slova fysis ve filosofii pak přibližuje na čtyřech fragmentech Hérakleita z Efesu. Studie vymezuje charakter iónského zkoumání přírody, které je třeba vnímat v co možná nejširším kontextu bezmála všech následně vznikajících věd, na pozadí světa jako kosmos a v přirozeném souladu s náboženskou řečí.",
         "keywords": "fysis; příroda; přirozenost; zkoumání přírody; kosmos; prvek; princip; arché; to apeiron; vzduch; duše; logos; Anaximandros z Mílétu; Anaximenés z Mílétu; Hérakleitos z Efesu; Aristotelés; Theofrastos; peripatetici; doxografie",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Gespräch",
@@ -1372,8 +1375,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Staré a nové",
@@ -1390,8 +1393,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Filozofie člověka v historickém kontextu",
@@ -1409,7 +1412,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Ruská kultura 20. století",
@@ -1418,7 +1421,7 @@
         "author": "DEMJANČUKOVÁ, Dagmar",
         "published_date": "2008",
         "published_place": "Plzeň",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-7043-753-7 ",
         "pages": "143",
@@ -1426,8 +1429,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Astronomie ve středověku",
@@ -1445,7 +1448,7 @@
         "keywords": "dějiny astronomie; středověk",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Bergsonova koncepce komické představivosti a smíchu",
@@ -1454,7 +1457,7 @@
         "author": "ŠEVČÍK, Miloš",
         "published_date": "2008",
         "published_place": "Praha",
-        "publisher": "Univerzita Karlova v Praze - Filozofická fakulta",
+        "publisher": "Univerzita Karlova, Filozofická fakulta",
         "meta_info": "",
         "isbn": "978-80-7308-214-7",
         "pages": "87",
@@ -1462,8 +1465,8 @@
         "annotation": "",
         "keywords": "humor; Bergson; Cazamian",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2009": [
@@ -1479,7 +1482,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1487,14 +1490,14 @@
         "title_en": "",
         "author": "FIALA, Jiří",
         "published_date": "2009",
-        "publisher": "Filosofický ústav Akademie věd České republiky",
+        "publisher": "Filosofický ústav AV ČR",
         "full_meta_info": "FIALA, J. Relativismus a kontingentní budoucnosti. Filosofický ústav Akademie věd České republiky, 2009",
         "annotation_short": "",
         "annotation": "Analyzuje se MacFarlanovo pojetí relativismu ohledně pravdivosti výroků o budoucnosti. Analýza se provádí prostředky formální temporální logiky.",
         "keywords": "temporální logika, výroky o budoucnosti, relativismus",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1509,7 +1512,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1554,7 +1557,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1568,7 +1571,7 @@
         "annotation": "",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1582,7 +1585,7 @@
         "annotation": "Sborník příspěvků z konference Teorie a dějiny vědy a techniky VI., kterou uspořádala KFI FF ZČU ve dnech 26.-27. 6. 2009 v klášteře premonstrátů Teplá. ",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1606,7 +1609,7 @@
         "author": "FIALA, Jiří",
         "published_date": "2009",
         "published_place": "",
-        "publisher": "Filosofický ústav Akademie věd České republiky",
+        "publisher": "Filosofický ústav AV ČR",
         "meta_info": "",
         "isbn": "",
         "pages": "",
@@ -1614,8 +1617,8 @@
         "annotation": "Analyzuje se MacFarlanovo pojetí relativismu ohledně pravdivosti výroků o budoucnosti. Analýza se provádí prostředky formální temporální logiky. ",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Großes Themenwörterbuch Italienisch",
@@ -1632,8 +1635,8 @@
         "annotation": "Velký tematický italsko-německý slovník doplněný řadou barevných fotografií, synonimy, frazeologií, označením přízvuků, pravidly výslovnosti a základními gramatickými kategoriemi u slovní zásoby. Široká škála témat od každodenních aktivit, stravování, bydlení, nakupování, módy, volného času a zdraví až po ekonomii a svět práce v užitečných slovíčkách a obratech běžného jazyka",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Kauzalita",
@@ -1642,7 +1645,7 @@
         "author": "DEMJANČUK, Nikolaj, PEXIDR, Karel",
         "published_date": "2009",
         "published_place": "Plzeň",
-        "publisher": "Aleš Čeněk",
+        "publisher": "Vydavatelství a nakladatelství Aleš Čeněk",
         "meta_info": "",
         "isbn": "978-80-7380-128-1 ",
         "pages": "266",
@@ -1651,7 +1654,7 @@
         "keywords": "dějiny a filosofie vědy; V. I. Vernadskij",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Renesanční a novověká filosofie",
@@ -1668,8 +1671,8 @@
         "annotation": "Skripta se zabývají renesanční, raně novověkou a osvícenskou filosofií. Poskytují poučení o filosofických systémech a myšlenkách od Petrarky po Condorceta.",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Proměny historiografie vědy",
@@ -1686,8 +1689,8 @@
         "annotation": "Monografie Proměny historiografie vědy popisuje metodologické proměny vědeckého oboru, který se zabývá zkoumáním dějin vědy - historiografie vědy. Kniha načrtává dějiny historiografie vědy od počátečních podob zájmu o dějiny vědy v 17. století až po současnou profesionální historiografii vědy. ",
         "keywords": "historiografie vědy; metodologie; dějiny vědy",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Pojednání o jevech povstávajících na množstvích",
@@ -1696,7 +1699,7 @@
         "author": "VOPĚNKA, Petr",
         "published_date": "2009",
         "published_place": "Nymburk ",
-        "publisher": "OPS Nymburk",
+        "publisher": "OPS",
         "meta_info": "",
         "isbn": "978-80-87269-02-2",
         "pages": "216",
@@ -1704,8 +1707,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Když se rákos chvěje nad hladinou",
@@ -1714,7 +1717,7 @@
         "author": "FUNDA, Otakar",
         "published_date": "2009",
         "published_place": "Praha",
-        "publisher": "Nakladatelství Karolinum, UK v Praze",
+        "publisher": "Nakladatelství Karolinum",
         "meta_info": "",
         "isbn": "978-80-246-1592-9",
         "pages": "241",
@@ -1722,8 +1725,8 @@
         "annotation": "Monografie zahrnuje texty a fragmenty reflektující tvorbu prof. Fundy. Týká se následujících témat: humanitní ateismus, kritická reflexe Fundova teologického období, Masarykova koncepce vzdělanosti, vztahy a identita atp.",
         "keywords": "Funda; teologie; Masaryk; Rádl",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2010": [
@@ -1739,7 +1742,7 @@
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1747,14 +1750,14 @@
         "title_en": "",
         "author": "FIALA, Jiří",
         "published_date": "2010",
-        "publisher": "FIALA, J.",
-        "meta_info": "FIALA, J. René Descartes: Geometrie. 1.. vyd. Praha : FIALA, J., 2010, 268 s. ISBN: 978-80-7298-313-1 ",
+        "publisher": "OIKOYMENH",
+        "meta_info": "FIALA, J. René Descartes: Geometrie. 1.. vyd. Praha : Oikoymenh, 2010, 268 s. ISBN: 978-80-7298-313-1 ",
         "annotation_short": "",
         "annotation": "Součástí Descartovy Rozpravy o metodě byly tři ?eseje?, které ilus­trovaly Descartovu metodu. Jedním z nich je slavná Geometrie,zá­kladní dílo novověké matematiky, první revoluce od vzniku řecké geometrie. Dílo obsahuje několik stran komentářů autora Jiřího Fialy, jeho český překlad je pořízen podle původního fran­couzského znění a doprovází jej faksimile prvního latinského pře­kladu podle vydání z roku 1683",
         "keywords": "René Descartes, geometrie, matematika 17. století, dějiny matematiky, analytická geometrie",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1762,7 +1765,7 @@
         "title_en": "",
         "author": "FIALA, Jiří",
         "published_date": "2010",
-        "publisher": "Oikoymenh",
+        "publisher": "OIKOYMENH",
         "meta_info": "FIALA, J. Descartes: La dioptrique = Dioptrika. 1.. vyd. Praha : Oikoymenh, 2010, 308 s. ISBN: 978-80-7298-385-8",
         "annotation_short": "",
         "annotation": "Dioptrika je další z esejů z Rozpravy o metodě, v němž Descartes předvádí svou metodu na nauce o světle, zvláště pak na objevu zákona lomu světla a jeho důsledcích. Český překlad Jiřího Fialy je veden formou francouzsko-české bilingvy s původními obrázky a závěrečnou původní studií Jiřího Fialy",
@@ -1777,7 +1780,7 @@
         "title_en": "",
         "author": "FIALA, Jiří",
         "published_date": "2010",
-        "publisher": "Kanina ",
+        "publisher": "OPS",
         "meta_info": "FIALA, J. Henri Poincaré: Číslo - prostor - čas. 1.. vyd. Kanina : OPS, 2010, 227 s. ISBN: 978-80-87269-14-5 ",
         "annotation_short": "",
         "annotation": "Kniha obsahuje kritický překlad deseti vybraných Poincarého esejů, které se zaobírají filosofií matematiky a fyziky. Přehled vybraných textů je uveden na začátku knihy. Poznámky opatřili Jiří Fiala a Marie Benediktová Větrovcová. Kniha je doplněna původní studií, která se věnuje uvedením do Poincarého filosofie vědy. Autorem studie je Jiří Fiala.",
@@ -1798,7 +1801,7 @@
         "annotation": "Soubor textů zahrnuje všechny mnohé aspekty hodnocení Wittgensteinova odkazu. To znamená, že sice velkou částí přispívá k současné diskusi týkající se pozdního, či třetího Wittgensteina, zároveň ovšem zprostředkovává i kontinuální sestup zpět k Wittgensteinovi prvnímu. Smyslem této publikace však není stratifikovat Wittgensteinova slova, nýbrž spíše demonstrovat neutuchající zájem o jeho myšlení, jež se svébytně a naléhavě zmocňuje mnoha rozličných témat. Většina textů otištěných v této publikaci byla poprvé prezentována v podobě přednášek na kolokviu věnovaném Wittgensteinově filosofii, které se uskutečnilo 5. a 6. listopadu 2009 na katedře filosofie Západočeské univerzity v Plzni. ",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1807,7 +1810,7 @@
         "subtitle": "",
         "author": "VOPĚNKA, Petr",
         "published_date": "2010",
-        "published_place": "Kanina",
+        "published_place": "Plzeň",
         "publisher": "OPS",
         "meta_info": "",
         "isbn": "978-80-87269-09-1 ",
@@ -1817,7 +1820,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Anaximandros z Mílétu",
@@ -1834,8 +1837,8 @@
         "annotation": "Anaximandros z Mílétu je autorem jednoho z prvních řeckých spisů s tématem přírody. Stojí tak u zrodu iónského ?zkoumání přírody? a zároveň na samém počátku filosofie. Ačkoli se z jeho spisu dodnes zachovala patrně pouze některá slova, zlomek DK 12 B 1 je považován za první filosofický text. Studie přináší překlad hlavní části Anaximandrovy textové pozůstalosti a provází tématy spojených s jeho myšlením a působením. Předkládá interpretace termínu to apeiron ve smyslu ?bezmezné přirozenosti? na pozadí myšlení protikladů a zlomku DK 12 B 1 vyjadřujícího cykly řádu světa. Zároveň ukazuje charakter iónského myšlení s východisky v oblastech astronomie a meteorologie za uplatnění geometrie a souladu s řečí náboženství. ",
         "keywords": "Anaximandros z Mílétu; apeiron; doxografie; kosmogonie; kosmologie; meteorologie; protiklady",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Druhá světová válka - případ Tachovsko",
@@ -1853,7 +1856,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Das quälende Geheimnis",
@@ -1870,8 +1873,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Platonica Pilonica I. Od Ústavy k pozdním dialogům.",
@@ -1888,8 +1891,8 @@
         "annotation": "Sborník prací plzeňského platónského kroužku dr. Boháčka. Úvodní část sborníku, Platonica Pilonica Antiqua, obsahuje výběr z minulých let. Hlavní část, Platonica Pilonica I., obsahuje recenzované upravené články z konference pro graduované studenty, doktorandy a vš. učitele, věnovaná přechodu mezi Platónovou klasickou filosofií známou z Ústavy a naukou tzv. pozdních dialogů. ",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "O povaze vědy: věda v kulturních kontextech",
@@ -1907,7 +1910,7 @@
         "keywords": "filosofie vědy; teorie vědy; dějiny vědy; věda a kultura; věda, protověda, mytus, náboženství, umění",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Inteligence v duchovním životě Ruska 20. století",
@@ -1924,8 +1927,8 @@
         "annotation": "Autorka analyzuje duchovní život Ruska prostřednictvím rozboru několika problémů. Na základě studia dvou velkých debat století vysvětluje specifiku ruské inteligence, která je výrazem specifické povahy ruské kultury.",
         "keywords": "filosofie kultury; ruská kultura; inteligence; duchovní kultura; V. I. Vernadskij; A. F. Losev; M. S. Hruševskyj",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2011": [
@@ -1934,14 +1937,14 @@
         "title_en": "Euclid: Elements. Books XI-XII ",
         "author": "VOPĚNKA, Petr",
         "published_date": "2011",
-        "publisher": "Kanina",
+        "publisher": "OPS",
         "meta_info": "VOPĚNKA, P. Eukleides: Základy. Knihy XI-XII. 1. vyd. Kanina : OPS, 2011, 154 s. ISBN: 978-80-87269-24-4 ",
         "annotation_short": "",
         "annotation": "Nové české vydání stereometrických knih Eukleidových Základů s komentářem Petra Vopěnky s využitím překladu Františka Servíta (z roku 1907). Překlad předchází pět studií Petra Vopěnka ke starověké geometrii a stereometrii. ",
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1956,7 +1959,7 @@
         "keywords": "historie matematiky 19. a 20. století, G. Frege, matematická logika, analytická filosofie, aritmetika, základy matematiky",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -1979,14 +1982,14 @@
         "title_en": "Niels H. Abel: On algebraic equations ",
         "author": "BENEDIKTOVÁ, Marie",
         "published_date": "2011",
-        "publisher": "Kanina : OPS",
+        "publisher": "OPS",
         "meta_info": "BENEDIKTOVÁ, M. Niels H. Abel: O algebraických rovnicích. 1. vyd. Plzeň : Kanina : OPS, 2011, 148 s. ISBN: 978-80-87269-23-7 ",
         "annotation_short": "",
         "annotation": "Český kritický překlad vybraných Abelových statí k řešitelnosti algebraických rovnic 5. stupně doplněný o původní pojednání o epistemologické proměně matematiky 19. století s důrazem na algebru. Přeloženo z francouzštiny za použití původních německých Abelových prací. ",
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2001,7 +2004,7 @@
         "keywords": "spiritualita, teologie, christologie, Benedikt XVI.",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2023,13 +2026,13 @@
         "title_en": "Platonica Pilonica II. Phaedrus. ",
         "author": " Jiří Stránský , Kryštof Boháček (eds.)",
         "published_date": "2011",
-        "publisher": "ZČU Plzeň",
+        "publisher": "Západočeská univerzita",
         "meta_info": "BOHÁČEK, K. Platonica Pilonica II. Faidros.. 1. vyd. Plzeň : ZČU Plzeň, 2011, 172 s. ISBN: 978-80-261-0081-2 ",
         "annotation_short": "",
         "annotation": " Předkládaná monografie je zamýšlena jako představení dialogu Faidros, ale zároveň i platónských studií jako takových, tedy metod a prostředků užívaných v současném bádání k interpretaci a výkladu. Naprostý laik či začátečník tak z knihy získá poměrně jasnou představu, co vše platónská studia zahrnují, co je nezbytné před započetím vlastního čtení, podle jakých pravidel takové čtení probíhá a jakými směry se mohou ubírat následné interpretace. Zároveň je celý proces představen jako platónské fi losofi cké drama. Jednotlivým krokům v postupu intepretace je vždy věnována samostatná kapitola; její zpracování bylo svěřeno jednotlivým členům Plzeňského platónského kroužku a dvěma hostům. ",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2037,7 +2040,8 @@
         "title_en": "Cultures as Sign Systems and Processes",
         "author": "Jarmila Doubravová, Radek Schuster (eds.)",
         "published_date": "2011",
-        "publisher": "Pilsen : University of West Bohemia",
+        "published_place": "Pilsen",
+        "publisher": "University of West Bohemia",
         "meta_info": "",
         "annotation_short": "",
         "annotation": "",
@@ -2053,7 +2057,7 @@
         "author": "STARK, Stanislav",
         "published_date": "2011",
         "published_place": "Plzeň",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-261-0043-0",
         "pages": "119",
@@ -2061,8 +2065,8 @@
         "annotation": "",
         "keywords": "česká filosofie",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Střetnutí paradigmat a řád živé skutečnosti",
@@ -2079,8 +2083,8 @@
         "annotation": "Kniha přibližuje dílo šesti vědců a myslitelům, kteří nějakým způsobem vyčnívají z davu běžných \"pracovníků vědy\". Richard Dawkins, Barbara McClintock, Adolf Portmann, David Bohm, Rupert Sheldrake a Gregory Bateson nepředstavují hlavní proud vědy, avšak právě to umožňuje na jejich příbězích ilustrovat fascinující pohyb dějin poznání v nedávné době.",
         "keywords": "dějiny vědy; paradigma vědy; R. Dawkins; B. McClintock; A. Portmann; D. Bohm; R. Sheldrake; G. Bateson",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Filosofie kultury Borise Vyšeslavceva.",
@@ -2089,7 +2093,7 @@
         "author": "DEMJANČUKOVÁ, Dagmar",
         "published_date": "2011",
         "published_place": "Plzeň",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-261-0046-1 ",
         "pages": "111",
@@ -2098,7 +2102,7 @@
         "keywords": "Vyšeslavcev; Rusko; 20. století; filosofie kultury",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "O povaze vědy: Fenomenologie",
@@ -2115,8 +2119,8 @@
         "annotation": "Cílem knihy je ukázat fenomenologii jako významnou koncepci vědy a vědecké metodologie 20. století. Monografie představuje ideje a principy fenomenologie ve vazbě na rozmanité aspekty vědeckého života. V českém filozofickém kontextu poslouží jako úvod do studia fenomenologie jako součásti filosofie soudobé filosofie vědy.",
         "keywords": "fenomenologie; fenomenologie jako filosofie vědy; metodologie exaktních, přírodních a humanitních věd",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Interpretace filozofických textů s pomocí pojmových map",
@@ -2133,8 +2137,8 @@
         "annotation": "Příručka obsahuje kapitolu seznámení s užíváním techniky pojmových map pro zpracování textů a potom v deseti kapitolách deset textových materiálů spolu s jejich základním zpracováním autory v podobě textů i v podobě pojmových map. Mapy jsou přiloženy i v pdf a cmap formátech a tak přístupné práci uživatelů. ",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Křesťanské kořeny evropanství",
@@ -2143,7 +2147,7 @@
         "author": "FUNDA, Otakar",
         "published_date": "2011",
         "published_place": "Plzeň ",
-        "publisher": "Fakulta filozofická ZČU",
+        "publisher": "Západočeská univerzita, Fakulta filozofická",
         "meta_info": "",
         "isbn": "",
         "pages": "",
@@ -2151,8 +2155,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Arabská lidová přísloví v minulosti a dnes",
@@ -2161,7 +2165,7 @@
         "author": "RAMADAN, Issam, RAMADAN, Ivan",
         "published_date": "2011",
         "published_place": "Plzeň",
-        "publisher": "Vydavatelství Západočeské Univerzity v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-7043-940-1",
         "pages": "138",
@@ -2169,8 +2173,8 @@
         "annotation": "Publikace představuje výběr a přehled nejznámějších arabských přísloví, členěných do jednotlivých témat. Autoři publikace provedli sběr, výběr a překlad přísloví z arabského originálu do českého jazyka a publikaci doplnili odborným etnografickým komentářem. Výsledkem je bilinguální text, obsahující přísloví v českém jazyce, tak v arabském originále a jako takový je vhodný jak pro studenty arabského jazyka, tak pro zájemce o arabskou kulturu a lidovou slovesnost.",
         "keywords": "Arabština; přísloví; arabská přísloví; lidová slovesnost; bilinguální",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Apeiron Anaximandra z Mílétu",
@@ -2179,7 +2183,7 @@
         "author": "KOČANDRLE, Radim",
         "published_date": "2011",
         "published_place": "Plzeň ",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-261-0048-5 ",
         "pages": "124",
@@ -2187,8 +2191,8 @@
         "annotation": "Jedním z nejtemnějších termínů archaické filosofie je bezesporu to apeiron, „bezmezno“. Anaximandros z Mílétu tak měl podle tradice nazvat počátek a prvek všeho. Ačkoli byla otázka po počátku myslitelům archaické doby blízká, v obecném povědomí je poplatná až Aristotelovu pojetí příčin. Aristotelés přitom Anaximandra s to apeiron téměř nespojuje a dochované texty ukazují panující nejistotu v tom, co mělo představovat. Studie rozvádí, že samotný termín nemusí být autentický a upozorňuje na spojení fysis apeiros, „bezmezná přirozenost“, které mohlo vyjadřovat sílu a moc přírody vedoucí ke vzniku a zániku. Pokud Anaximandros vysvětloval vznik oddělováním protikladů, je možné, že to apeiron zastupovalo možnost každé diference, jako pozadí „jednoty protikladů“. Bezmezná síla přírody se přitom prolíná s časem, který vede až k uvážení vlivu blízkovýchodních tradic na Anaximandrovo myšlení.",
         "keywords": "Anaximandros; apeiron; arché; čas; protiklady",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Filosofie v Byzanci",
@@ -2205,8 +2209,8 @@
         "annotation": "",
         "keywords": "Filosofie; Byzanc; metodologie",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "The Interpretation of Philosophical Texts I ",
@@ -2223,8 +2227,8 @@
         "annotation": "Skripta seznamují studenty se základními principy studia a interpretace filozofických textů způsobem, který umožňuje maximální vytěžení obsahu samotného textu. Obsahují podrobněji rozebrané praktické příklady. ",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Myslet uprostřed dějin: dějiny a dějinnost ve filosofii symbolických forem Ernsta Cassirera",
@@ -2242,7 +2246,7 @@
         "keywords": "Cassirer; Windelband; Rickert; filosofie dějin",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "O povaze vědy: Novokantovství",
@@ -2251,7 +2255,7 @@
         "author": "DEMJANČUK, Nikolaj, PROFANT, Martin, PODHAJSKÝ, Jiří",
         "published_date": "2011",
         "published_place": "Plzeň",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-261-0045-4 ",
         "pages": "157",
@@ -2260,7 +2264,7 @@
         "keywords": "Novokantovství; metodologie; filosofie; základy věd; dějinnost",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Shakespeare a teorie interpretace",
@@ -2269,7 +2273,7 @@
         "author": "KASTNEROVÁ, Martina",
         "published_date": "2011",
         "published_place": "Plzeň",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-261-0064-5",
         "pages": "187",
@@ -2278,7 +2282,7 @@
         "keywords": "Shakespeare; teorie interpretace; literární věda; mimesis; fikční světy; meze interpretace; nový historismus; alžbětinské drama; renesance",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "L´histoire als Lehrerin of Life",
@@ -2287,7 +2291,7 @@
         "author": "MUŠKOVÁ, Eva",
         "published_date": "2011",
         "published_place": "Plzeň",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-261-0083-6",
         "pages": "",
@@ -2295,8 +2299,8 @@
         "annotation": "Publikace přispívá k odhalení mezipředmětových vztahů mezi dějepisem a cizími jazyky a představuje konkrétní nápady, didaktické aktivity a metody pro efektivní integraci dějepisného učiva do výuky cizích jazyků a naopak cizích jazyků do výuky dějepisu. Realizací interdisciplinárních souvislostí se snaží aktivně přispět k odbourávání izolovaného přístupu jednotlivých disciplín k probírané problematice a k překonávání poznatkové roztříštěnosti ve vyučování. ",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Pochody smrti - český příspěvek k otevřené otázce",
@@ -2313,8 +2317,8 @@
         "annotation": "Pochody smrti jsou ústáleným slovním spojením pro evakuační transporty vězňů z nacistických koncetračních táborů před jejich osvobozením. Postupem spojeneckých vojsk se tyto transporty stáčely valnou většinou přes území dnešní České republiky. Tisíce mrtvých zůstaly podél tras těchto transportů celém jejím území. Po uchopení tohoto tématu komunistickým režimem dochází v současnosti ke ztrátě povědomí o těchto událostech. Zpracování konkrétní případové studie těchto událostí na území dnešního okresu Tachov je vzorovou ukázkou závažnosti tématu a jeho významu v širších dějinných souvislostech regionu. Zařazení této případové studie do republikového a evropského kontextu, při zachycení stavu bádání o tématu je cílem přínosem této práce. ",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Exhumace obětí II. světové války - předpoklady, východiska, výzkum",
@@ -2331,8 +2335,8 @@
         "annotation": " Exhumace obětí II. světové války je stále živým tématem, které stojí mezi akademickou problematikou a společenskou otázkou. Interdisciplinární přístup k věci odkrývá problém v souvislostech a na příkladu konkrétního výzkumu předkládá etické, právní, metodologické otázky z oblasti moderní historie, archeologie, antropologie a metodologie vědy. Od vědeckého příspěvku k právě probíhající celospolečenské debatě tak přináší obecně platné poznatky z metody dotčených a věd a přináší nové poznatky do širšího kontextu soudobých dějin. ",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2012": [
@@ -2341,14 +2345,14 @@
         "title_en": "Euclid: Elements. Book X ",
         "author": "VOPĚNKA, Petr",
         "published_date": "2012",
-        "publisher": "Kanina",
+        "publisher": "OPS",
         "meta_info": "VOPĚNKA, P. Eukleides: Základy. Kniha X.. 1. vyd. Kanina : OPS, 2012, 176 s. ISBN: 978-80-87269-26-8 ",
         "annotation_short": "Nové české vydání rozsáhlé aritmetické knihy Eukleidových Základů s komentářem Petra Vopěnky s využitím překladu Františka Servíta (z roku 1907). Překlad předchází rozsáhlá studie Petra Vopěnka.",
         "annotation": "",
         "keywords": "",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2363,7 +2367,7 @@
         "keywords": "historie matematiky 19. a 20. století; G. Frege; matematická logika; analytická filosofie; aritmetika; základy matematiky",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2371,13 +2375,13 @@
         "title_en": "",
         "author": " Ludmila Dostálová (eds.)",
         "published_date": "2012",
-        "publisher": "Praha : Filosofia",
+        "publisher": "Filosofia",
         "meta_info": "",
         "annotation_short": "Mimořádné číslo Filosofického časopisu (2012/1) představující osobnost Nelsona Goodmana jako analytického filosofa, který výrazně zasáhl nejen do estetiky, ale též do logiky, epistemologie, ontologie a filosofie vědy.",
         "annotation": "Mimořádné číslo Filosofického časopisu (2012/1) představující osobnost Nelsona Goodmana jako analytického filosofa, který výrazně zasáhl nejen do estetiky, ale též do logiky, epistemologie, ontologie a filosofie vědy.",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2391,7 +2395,7 @@
         "annotation": "",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2409,8 +2413,8 @@
         "annotation": "Bioetika se dnes chápe jako systematické studium lidského chování na poli vědy v oborech dotýkajících se života a péče o lidské zdraví, kde se toto lidské jednání snaží vědci eticky posoudit ve světle morálních hodnot a morálních principů. Bioetika se snaží nacházet odpovědi na morální otázky, které vyplývají z pokroku vědy v biologii a medicíně. Často se tedy bioetik nalézá na neznámé půdě, protože zcela nové vědecké jednání se pokouší poměřovat ověřenými staršími etickými principy.",
         "keywords": "bioetika; zdraví; věda; medicína; etika",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Úvod do systematické filosofie",
@@ -2419,7 +2423,7 @@
         "author": "ŠPŮR, Josef",
         "published_date": "2012",
         "published_place": "Plzeň",
-        "publisher": "Vydavatelství ZČU v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-7007-378-0",
         "pages": "159",
@@ -2427,8 +2431,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Faces of Hatred - Contemporary Antisemitism in its Historical Context",
@@ -2445,8 +2449,8 @@
         "annotation": "Tato publikace, vydaná záměrně v anglickém jazyce s cílem překonat jazykovou bariéru, se zabývá fenoménem antisemitismu ze sedmi úhlů, pohledem sedmi autorů, pocházejících buď z České Republiky, event. s českým prostředím spojených životem či prací. Cílem publikace je prezentovat aktuální poznatky k tomuto tématu a například v českém prostředí – zachytit aktuální trendy ve vývoji soudobého českého antisemitismu. První dvě kapitoly reflektují pohled teologický a religionistický. Doc. Parush R. Parushev se tak zabývá původem protižidovských mýtů, jejich významem v křesťanském myšlení, jakož i příklady individuálních snah o záchranu Židů skrze kontroverzní “formální křty”. Ve druhé kapitole se Doc. Pavel Hošek zabývá otázkou židovského vztahu k ostatním náboženstvím, kteréžto téma a nedorozumění s ním spojená jsou stálicemi rétoriky náboženského antijudaismu. Vliv Roberta Knoxe na vývoj rasového antisemitismu a konceptu “rasové války” rozebírá ve třetí kapitole profesor Ivo Budil. Čtvrtá kapitola nabízí pohled na vývoj protižidovských mýtů a stereotypů od náboženského antijudaismu, přes rasový antisemitismus až po nový antisemitismus a to vše na případové studii Španělska. Další dvě kapitoly se obracejí do českého prostředí ve snaze zachytit některé z trendů ve vývoji soudobého českého antisemitismu. Zbyněk Tarant tak na případové studii konzervativního občanského sdružení ’Mladá Pravice’ ukazuje konkrétní příklad dialektického vztahu filosemitismu a antisemitismu a vlivů, které způsobují, že se nezávisle na tom, jací Židé jsou nebo nejsou stávají z filosemitů antisemité. Věra Tydlitátová pak na tuto kapitolu navazuje vlastní studií o vlivu ruského antisemitismu na český politický diskurz. Knihu uzavírá rozhovor s pamětnicí Michlean Amir, která strávila své dětství v Plzni, v roce 1948 s rodinou emigrovala a nyní žije ve Spojených státech, kde pracuje v United States Holocaust Memorial Museum ve Washingtonu.",
         "keywords": "antisemitismus; soudobý antisemitismus; rasová ideologie; historické vědy; antropologie; holocaust; Česká Republika",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Očitá svědecví: Španělsko, Nový svět a změna vědeckého komunikačního paradigmatu",
@@ -2455,7 +2459,7 @@
         "author": "ČERNÁ, Jana",
         "published_date": "2012",
         "published_place": "Červený Kostelec",
-        "publisher": "Pavel Mervart, Západočeská univerzita",
+        "publisher": "Pavel Mervart",
         "meta_info": "",
         "isbn": "978-80-7465-064-2",
         "pages": "235",
@@ -2464,7 +2468,7 @@
         "keywords": "raně novověká věda; Španělsko; Nový svět; vědecká komunikace; kooperace; empirie; historia naturalis",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Křesťanství v životě Evropy",
@@ -2481,8 +2485,8 @@
         "annotation": "",
         "keywords": "učebnice; Evropa; kultura",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Vybrané kapitoly z aplikované sociální antropologie",
@@ -2499,8 +2503,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Podivuhodný květ českého baroka",
@@ -2509,7 +2513,7 @@
         "author": "VOPĚNKA, Petr",
         "published_date": "2012",
         "published_place": "Praha",
-        "publisher": "Karolinum",
+        "publisher": "Nakladatelství Karolinum",
         "meta_info": "",
         "isbn": "978-80-246-2123-4",
         "pages": "238",
@@ -2518,7 +2522,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Evoluce před Darwinem: Nejstarší vývojová stadia evoluční nauky",
@@ -2535,8 +2539,8 @@
         "annotation": "Kniha se zabývá ranými podobami evolučního myšlení, jež se objevují v antice. Zaměřuje se na ty aspekty moderní biologické teorie evoluce, které jsou přítomné již u některých antických autorů, byť tam všechny klíčové rysy konstitutivní pro moderní teorii najít nelze. Současně je představeno dynamické myšlení proměn, typické pro některé antické myslitele. I když pojem evoluce jako takový v nich není jistě přítomen, takovýto pohled na svět je s ním alespoň kompatibilní. Hlavní probíraní autoři jsou raní iónští myslitelé, zejména Anaximandros a Hérakleitos a z autorů pozdějších Empedoklés a Lucretius. Stejně tak se zaměřujeme na teleologické myšlení, které se objevilo v klasické době (Xenofón, Platón a Aristotelés) a které úspěšně zabránilo či odsunulo na vedlejší kolej další vývoj raného evolučního myšlení. Stručně shrnujeme rovněž následný vliv antického evolučního myšlení na ranou novověkou filosofii. V závěrech se pokoušíme určit, které rysy Darwinovy teorie jsou přítomny již v antice a současně poukázat na některé epistemologické překážky, které úspěšně zabránili tomu, aby se objevila dříve.",
         "keywords": "epistemological obstacles; teleology; atomists; presocratics; ancient philosophy; evolution",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Das Entstehen des christlichen Glaubens",
@@ -2545,7 +2549,7 @@
         "author": "FUNDA, Otakar",
         "published_date": "2012",
         "published_place": "Praha",
-        "publisher": "Univerzita Karlova v Praze",
+        "publisher": "Univerzita Karlova",
         "meta_info": "",
         "isbn": "978-80-246-2112-8 ",
         "pages": "21",
@@ -2553,8 +2557,8 @@
         "annotation": "",
         "keywords": "křesťanská víra; křesťanství; Ježíš Kristus; Nový Zákon",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2013": [
@@ -2570,7 +2574,7 @@
         "keywords": "teologie; christologie; Benedikt XVI.; překlad",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2578,13 +2582,13 @@
         "title_en": "",
         "author": " Ludmila Dostálová (eds.)",
         "published_date": "2013",
-        "publisher": "Praha : Filosofia",
+        "publisher": "Filosofia",
         "meta_info": "",
         "annotation_short": "Mimořádné číslo Filosofického časopisu (2013/2) věnované osobnosti Bertranda Russella a sestavené u příležitosti jeho nedožitých 140. narozenin.",
         "annotation": "Mimořádné číslo Filosofického časopisu (2013/2) věnované osobnosti Bertranda Russella a sestavené u příležitosti jeho nedožitých 140. narozenin.",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2602,8 +2606,8 @@
         "annotation": "Kniha se soutřeďuje na Richarda Rortyho a otázku jazykového idealismu. Rortyho dílo je vyloženo v kontextu třech dalších autorů, o něž se Rorty při své argumentaci opírá, tj. W.V.O. Quine, Wilfrid Sellars a Donald Davidson. Po analýze Rortyho vazeb na osatní tři filosofy, rozebírám každého ze zmíněných čtýř autorů vzhledem k tomu, které jazykově-idealistické prvky lze u něj vystopovat a jak ho můžeme hájit proti obvinění z jazykového idealismu. Předkládám tezi, že obvinění z jazykového idealismu je smysluplné jedině na základě určitého obrazu našeho vztahu ke světu, který předpokládá konfrontaci mysli nebo jazyka se zbtykem světa. Na konci se přikloním k názoru, že alespoň Davidson a Rorty zastávají jiný obraz našeho vztahu ke světu, a to obraz takový, že otázka jazykového idealismu by neměla ani vyvstat.",
         "keywords": "R. Rorty; W. Sellars; D. Davidson; W.V.O. Quine; jazykový idealismus; epistemologie; fundacionismus; reprezentacionalismus; pragmatismus; analytická filosofie; konstruktivismus",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Racionalita versus transcendence",
@@ -2621,7 +2625,7 @@
         "keywords": "racionalita; transcendence; Hans Albert; teologie",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Francouzská epistemologie : (přehled vývoje do poloviny 20. století)",
@@ -2638,8 +2642,8 @@
         "annotation": "Francouzská epistemologie v současnosti patří mezi nejvlivnější filosofické tradice. Kniha mapuje kontext jejího zformování na přelomu 19. a 20. století a představuje hlavní témata a nejvýznamnější představitele až do druhé světové války. Důraz je kladen na roli filosofie kontingence Émila Boutrouxe, která na pozadí kontrastu mezi pozitivismem a spiritualismem připravila myšlenkové prostředí, v němž se rodily významné epistemologické koncepce, jimž jsou věnovány samostatné kapitoly. Na Boutrouxovu filosofii navazuje jak konvencionalismus (zejména Henri Poincaré a Pierre Duhem), tak i kritický idealismus Léona Brunschvicga. U těchto autorů jsou představeny hlavní myšlenky a základní epistemologické problémy, jimiž se zabývali. Totéž platí i o filosofii identity Émila Meyersona. Společným tématem je vztah epistemologie k dějinám vědy, jejich interpretace a nezřídka také analýza jejich psychologických předpokladů. Otázek (dis)kontinutity a (ne)proměnlivosti lidské mysli se týkají kapitoly o Lucienu Lévy-Bruhlovi, Hél?ne Metzgerové i kratší kapitoly věnované pokračovatelům této tradice, Bachelardovi, Koyrému a Piagetovi. Francouzská epistemologie zde navzdory některým jednotícím prvkům není prezentovaná jako jednotné hnutí nebo filosofická škola, ale jako jako významná kapitola v dějinách filosofie 20. století.",
         "keywords": "francouzská epistemologie; dějiny vědy; filosofie vědy; kontingence; konvencionalismus ",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "History of Hatred, Hatred of History - Encounters Between Antisemitism and Historical Memory",
@@ -2656,8 +2660,8 @@
         "annotation": "Tato kniha se pokouší poukázat na některé zajímavé paradoxy, plynoucí ze střetu mezi antisemitismem historií a kolektivní pamětí. Jejím cílem je průzkum a pojmenování rozličných strategií, jimiž antisemitské ideologie manipulují historickou pamětí. Výsledný text však tento původní záměr přesahuje a poukazuje na četné paradoxy, které ze střetu antisemitismu s historickou pamětí vznikají, jakož i na méně známé pozadí vzniku a šíření soudobých antisemitských motivů. Kniha je společným dílem čtyř autorů. Ivo Budil se ve své kapitole obrací k počátkům rasové ideologie, aby na vzájemném porovnání myšlenek Benjamina Disraeliho a Ernesta Renana poukázal na to, jak se v myšlení orientalistů 18. a 19. století proměňovalo vnímání Židů od obdivovaného k nenáviděnému lidu. Věra Tydlitátová se obrací do českého prostředí, aby poukázala na komplikovaný vztah soudobých českých antisemitů k osobě Tomáše Garrigue Masaryka. Autorka poukazuje na fakt, že ani sto let od Hilsnerovy aféry či sporu o rukopisy nepřestala být tato témata v kruzích radikálních českých nacionalistů živá a že ačkoliv je považujeme za již uzavřené kapitoly a za součást učebnic dějepisu, tato témata ovlivňují veřejný diskurz dodnes. Zbyněk Tarant se pak ve třetí kapitole pokouší zmapovat pozici událostí 17. listopadu v myšlení české krajní pravice. Autor poukazuje na fakt, že Mezinárodní den studentstva se svými dvěma významovými vrstvami (1939 a 1989) představuje pro českou krajní pravici překvapivě komplikovanou výzvu, neboť se na jedné straně jedná o významný den, během něhož je každoročně bilancován polistopadový vývoj, ovšem současně jde i o den připomínky nacistického pokusu o likvidaci české inteligence. Pavel Hošek se pak ve své rešerši teologického myšlení Avrahama Joshuy Heschela pokouší nabídnout jeden z typickým příkladů židovské odpovědi na otázku antisemitismu a holocaustu.",
         "keywords": "historie; paměť; zneužití historie; zneužití paměti; revisionismus; rasismus; antisemitismus; Sametová revoluce; Masaryk; Ernst Renan; Benjamin Disraeli; Miroslav Dolejší",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Causality",
@@ -2674,8 +2678,8 @@
         "annotation": "Kauzální uvažování je standardním vyjádřením a nepostradatelným nástrojem lidského intelektu. Je založena na vlastnostech duševní činnosti, nebo přírodních jevů nezávislých na lidské bytosti? Monografie \"Kauzalita\" filozofických publicistů Karla Pexidra a Nikolaje Demjančuka je zaměřena na tuto hlavní otázku v kombinaci s dalšími problémy kauzality. Autoři v krátké historické části a v podrobnější analytické části ukazují, že bezprostřední sebe-evidence kauzality, jak je brána v našem každodenním životě, neodpovídá zdaleka hloubce a důležitosti filozofických problémů, které vznikají v důsledku kauzality.",
         "keywords": "kauzalita; filosofie; věda",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Physics, Astronomy and Engineering",
@@ -2692,8 +2696,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Korespondence Carla Friedricha Gausse",
@@ -2702,7 +2706,7 @@
         "author": "VĚTROVCOVÁ, Marie",
         "published_date": "2013",
         "published_place": "Plzeň",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "",
         "pages": "192",
@@ -2710,8 +2714,8 @@
         "annotation": "Historiografické uvedení do práce C. F. Gausse se zaměřením na diferenciální geometrii. Cílem práce je zkoumání Gaussovy korespondence, zúžené na léta 1813-1842 (s dohledáním kontextuality z let 1808-1813). Na základě toho pak vyjasnit okolnosti a podat způsob uvažování, jakým Gauss své práce z diferenciální geometrie psal, a tím vysvětlit pozadí vzniku jeho příspěvků k dějinám diferenciální geometrie. Práce obsahuje čtyři části: I. Gaussova diferenciální geometrie ve světle intencionální historiografie matematiky; II. Carl Friedrich Gauss (1777-1855); III. Křivé plochy v korespondenci Gauss-Schumacher; IV. Gaussova diferenciální geometrie (překlady). Součástí práce jsou původní kritické překlady (z latiny a němčiny do češtiny) všech Gaussových publikovaných prací k diferenciální geometrii křivých ploch.",
         "keywords": "C. F. Gauss; intencionální historiografie; fenomenologická filosofie; epistemologie matematiky; diferenciální geometrie; dějiny matematiky; dějiny astronomie; dějiny geodézie; H. C. Schumacher",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Lazare and Sadi Carnot",
@@ -2728,8 +2732,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Erasmovo dílo v minulosti a současnosti evropského myšlení",
@@ -2738,7 +2742,7 @@
         "author": "MAKOVSKÝ, Jan, NEJESCHLEBA, Tomáš",
         "published_date": "2013",
         "published_place": "Brno",
-        "publisher": "CDK",
+        "publisher": "Centrum pro studium demokracie a kultury",
         "meta_info": "",
         "isbn": "978-80-7325-301-1 ",
         "pages": "373",
@@ -2746,8 +2750,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2014": [
@@ -2756,13 +2760,13 @@
         "title_en": "",
         "author": " Karolína Jiráková, Kryštof Boháček (ed.)",
         "published_date": "2014",
-        "publisher": "Plzeň : Západočeská univerzita",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "annotation_short": "",
         "annotation": "Kniha navazuje na ediční řadu Platonica Pilonica, která se systematicky zabývá hlavními problémy s důrazem na myšlení z období klasické řecké filozofie. Platonica Pilonica V. Ideje se věnuje samotnému jádru platónské filozofie, tj. nauce o idejích. Je zde ukázáno pojetí idejí jak v rámci Platónových dialogů, tak i ozvuk a dopad této koncepce u dalších autorů, především pak diskuze s dalším velikánem antiky, Aristotelem. V rámci platónského korpusu je hlavní důraz kladen na dialog Faidón. Specifikem publikace je, že propojuje kulturně-politické souvislosti s teoretickými koncepty autorů a zároveň zpřítomňuje jejich reflexi u moderních autorů a badatelů.",
         "keywords": "Platonica Pilonica; Platón; ideje; Faidón; Plzeňský platónský kroužek",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2771,13 +2775,13 @@
         "subtitle": "Místa člověka v kosmu: sborník abstraktů",
         "author": " Anna Lukešová (eds.)",
         "published_date": "2014",
-        "publisher": "Plzeň : Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "annotation_short": "Sborník abstraktů z workshopu Kosmologie a antropologie: Místa člověka v kosmu konaného ve dnech 10.-11. 4. 2014 v Plzni.",
         "annotation": "Sborník abstraktů z workshopu Kosmologie a antropologie: Místa člověka v kosmu konaného ve dnech 10.-11. 4. 2014 v Plzni.",
         "keywords": "",
         "type": "sbornik",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2795,8 +2799,8 @@
         "annotation": "Anaximenés z Mílétu je poslední z trojice myslitelů, kteří pocházeli z téhož iónského města a podle tradice stáli na samém prahu filosofie. Ačkoli se Anaximenem završuje mílétské vnímání světa, nalézá se poněkud ve stínu Thaléta a Anaximandra. Právě jemu však Theofrastos věnoval samostatný spis. Podle Aristotelova výkladu měl za počátek všeho pokládat vzduch. Byla to ale především konkrétní formulace vzniku, zániku a změn v přírodě na pozadí zřeďování a zhušťování vzduchu, která se pro něho stala příznačnou. Přestože se nejspíše jedná o pozdější pochopení, silný akcent na vzduch může v doxografii částečně odrážet původní Anaximenův náhled. Ten patrně vycházel z intimních rysů života, které byly spatřovány v paralelách vzduchu, dechu a duše. Bezmezný vzduch objímající celý svět přitom představoval pravé božství, z něhož vznikají „bohové a božské věci“.",
         "keywords": "Anaximenés; duše; kosmologie; vzduch; zhušťování a zřeďování",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Člověk očima přírodních věd a křesťanské teologie",
@@ -2809,12 +2813,12 @@
         "meta_info": "",
         "isbn": "978-80-261-0343-1 ",
         "pages": "144",
-        "annotation_short": "",
-        "annotation": "",
+        "annotation_short": "Na počátku této knihy byla fascinace objevy jednotlivých vědních oborů a otázky, které z nich vyplynuly. Člověk jako předmět výzkumu se jevil stále složitějším a komplexnějším, dílčí pravdy byly rychle střídány pochybnostmi a z nich vyplývajícími otázkami. Odpovědi na ně nacházejí přírodní vědy s pomocí věd společenských a díky mezioborovému dialogu.",
+        "annotation": "<p>Na počátku této knihy byla fascinace objevy jednotlivých vědních oborů a otázky, které z nich vyplynuly. Člověk jako předmět výzkumu se jevil stále složitějším a komplexnějším, dílčí pravdy byly rychle střídány pochybnostmi a z nich vyplývajícími otázkami. Odpovědi na ně nacházejí přírodní vědy s pomocí věd společenských a díky mezioborovému dialogu.</p><p>Druhým podnětem pro tuto knihu je zaznamenání posunu teologie, která nezůstala rigidně stát, ale sama hledala odpovědi na podobné otázky. Velmi zjednodušeně lze říci, že církev, která byla dříve nositelkou vzdělanosti a pokroku, se v reakci na osvícenství a militantní ateismus stala často brzdou poznání a teprve v posledním století začala postupně adekvátně reagovat na výzvy současnosti. Analýza tohoto vývoje a její překvapivý závěr si zasloužily zpracování formou odborné publikace.</p>",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "The Hidden Unity: An Experimental View on Aesthetics and Semiotics of Music in the Czech Milieu",
@@ -2831,8 +2835,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Čínské tradiční vědění z pohledu Západu",
@@ -2841,7 +2845,7 @@
         "author": "BÍLKOVÁ, Jitka",
         "published_date": "2014",
         "published_place": "Plzeň",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-261-0261-8",
         "pages": "262",
@@ -2849,8 +2853,8 @@
         "annotation": "Publikace se zabývá některými aspekty čínské tradiční vědy do poloviny 19. století a jejich reflexí v dílech vybraných britských a amerických vědců. Autoři zmínění v publikaci reprezentují různé myšlenkové směry a k čínskému vědění zaujímají odlišné přístupy, stanoviska a kritéria. Jedná se především o autory dvacátého století – Needhama, Russella, Grahama, Huffa, Elmana, Bernala, Mumforda, Templa, Sivina. Kniha poskytuje přehled jejich bádání. Nabízí také kritickou analýzu, která s využitím zejména Sivinova rozboru zprostředkovává osobitost a specifiku rozsáhlé oblasti čínského vědění v souvislostech jeho myšlenkového a společensko-historického prostředí: zahrnuje specifiku jazyka, čínského přístupu k přírodě a způsobu popisu přírody, specifiku myšlení, systému hodnot, cílů a zájmů. Z tohoto úhlu pohledu problematizuje způsob tázání a zpracování tématu v dílech většiny zmíněných autorů a naznačuje východiska pro další bádání.",
         "keywords": "tradiční čínské vědecké a filosofické myšlení; britští a američtí vědci; tradiční čínská kultura; západní věda",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Spiknutí! - Úloha antisemitských konspiračních teorií ve veřejném a politickém diskurzu",
@@ -2867,8 +2871,8 @@
         "annotation": "Publikace „Spiknutí“ Úloha antisemitských konspiračních teorií ve veřejném a politickém diskurzu chce představit některé příklady spikleneckých teorií v krátkém chronologickém průřezu, přičemž z mnoha typů konspiračních teorií volíme ty, které mají vztah k antisemitismu. Tato kniha si klade za úkol představit některé z mechanismů, které vedou k produkci teorií spiknutí, upozornit na jejich význam a na jednotlivých příkladech ukázat fascinující a matoucí svět tohoto dosud málo zkoumaného žánru. Publikace chápe konspirační teorie jako specifický sociální fenomén a současně literární žánr. K jejich výzkumu přistupuje kombinací metod historie, etnologie a mediálních studií.",
         "keywords": "antisemitismus; mediální studia; konspirační teorie; hoax",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Vůle k víře",
@@ -2885,8 +2889,8 @@
         "annotation": "",
         "keywords": "náboženství; explanace; vůle",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Patočkovy interpretace literatury",
@@ -2903,8 +2907,8 @@
         "annotation": "Monografie je pokusem o systematický průzkum Patočkových interpretací literatury a jejich vztahu k Patočkovým filozofickým názorům. Autoři sledují zejména Patočkovo pojetí vztahu literatury a mýtu a literatury a filozofie. S prvním souvisí mj. otázka života mytologických témat v literatuře epoch, s druhým, jak Patočka u literárních děl filozoficky vykazuje fenomenologii životního smyslu. Autoři se zabývají Patočkovými texty ze 30.-40. let a zejména z 60.-70. let.",
         "keywords": "Patočka; interpretace; literatura; fenomenologie",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Pozitivismus v české filosofii první poloviny 20. století",
@@ -2921,8 +2925,8 @@
         "annotation": "Kniha pojednává o vývoji české pozitivistické filosofie. Nejde o dílo encyklopedického rázu, jehož cílem by bylo představit všechny české pozitivisticky orientované filosofy. Cílem je ukázat hlavní rysy českého pozitivismu nejen ve filosofickém, ale také společensko-politickém kontextu. Zámerně je zvolena historická perspektiva, neboť již ve fázi pronikání pozitivismu do českého myšlení (tedy ještě před jeho zakotvením v něm) a jeho následné repcepce je pozitivismus kritizován. Vrcholným obdobím českého pozitivismu je éra spojovaná s filosofickým a psychologickým dílem Františka Krejčího. To čelilo kritice nového druhu, jejímž zdrojem byl idealismus. Třetí fáze vývoje českého pozitivismu je přiblížena na filosofii Josefa Tvrdého, která usiluje o vybudování vědecky založené metafyziky.",
         "keywords": "pozitivismus; idealismus; Masaryk; František Krejčí; psychologie ",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Umění jako vyjádření smyslu",
@@ -2939,8 +2943,8 @@
         "annotation": "Monografie je prvním obsáhlejším systematickým pokusem o shrnutí motivů Patočkovy filozofie umění. Mezi témata Patočkova myšlení, která autor v knize sleduje, patří zejména umělecká vzdělanost, pojetí vztahu literatury a mýtu, vzájemná souvislost a odlišnost architektury a sochařství, styl ve výtvarném umění, spojitost a rozdíl mezi uměním minulosti a přítomnosti a rovněž aspekty vztahu mezi uměním a vědeckým poznáním. Patočkova filozofie je zkoumána do značné míry chronologicky, od raných Patočkových textů ze 30. a 40. let k textům ze 60. a 70. let, chronologii vzniku je však nadřazeno zdůraznění obsahových spojitostí mezi jednotlivými pojednáními.",
         "keywords": "umění; smysl; Jan Patočka; výtvarné umění; literatura",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Organizace konferencí na Západočeské univerzitě",
@@ -2949,7 +2953,7 @@
         "author": "LUKEŠOVÁ, Anna",
         "published_date": "2014",
         "published_place": "Plzeň",
-        "publisher": "Západočeská univerzita v Plzni",
+        "publisher": "Západočeská univerzita",
         "meta_info": "",
         "isbn": "978-80-261-0340-0",
         "pages": "56",
@@ -2957,8 +2961,8 @@
         "annotation": "",
         "keywords": "",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       }
     ],
     "2015": [
@@ -2974,7 +2978,7 @@
         "keywords": "analytická filosofie, Vídeňský kroužek, dějiny filosofie, logický empirismus",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
+        "has_picture": true,
         "has_podrobnosti": true
       },
       {
@@ -2993,7 +2997,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Nová infinitní matematika",
@@ -3003,7 +3007,7 @@
         "published_date": "2015",
         "published_place": "Praha",
         "pages": "128",
-        "publisher": "Karolinum",
+        "publisher": "Nakladatelství Karolinum",
         "meta_info": "",
         "isbn": "978-80-246-2987-2",
         "annotation_short": "Zakladatel klasické teorie množin, Georg Cantor, věděl již v roce 1899, že obor všech transfinitních ordinálních čísel není aktualizovatelný. To znamená, že tento obor nelze nahradit množinou vůbec všech těchto čísel. Každou množinu ordinálních čísel lze totiž prodloužit o další takováto čísla. Předvedení neaktualizovatelnosti oboru všech přirozených čísel obsažená v této knize není ani zdaleka tak jednoduchou a nadto snadno akceptovatelnou záležitostí, jako je tomu v případě transfinitních ordinálních čísel. Téměř celá infinitní matematika dvacátého století se totiž o množinu vůbec všech přirozených čísel opírá.",
@@ -3011,7 +3015,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Kurt Gödel: Úplnost a neúplnost",
@@ -3019,8 +3023,8 @@
         "subtitle": "",
         "author": "ŠVANDOVÁ, Blažena, ŠVEJDAR, Vítězslav",
         "published_date": "2015",
-        "published_place": "Kanina a Plzeň",
-        "publisher": "OPS a ZČU",
+        "published_place": "Plzeň",
+        "publisher": "OPS",
         "meta_info": "",
         "isbn": "978-80-87269-39-8",
         "pages": "138",
@@ -3029,7 +3033,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Carl Friedrich Gauss: O diferenciální geometrii",
@@ -3047,7 +3051,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Stopování sémiotiky",
@@ -3065,12 +3069,12 @@
         "keywords": "sémiotika; novověk; tradice; sémantika; filosofie matematiky; poetika; pragmatické aspekty jazyka",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
-        "title": "Nová teorie množin a polomnožin",
+        "title": "Nová infinitní matematika: II",
         "title_en": "A New Theory of Set and Semisets",
-        "subtitle": "",
+        "subtitle": "Nová teorie množin a polomnožin",
         "author": "VOPĚNKA, Petr",
         "published_date": "2015",
         "published_place": "Praha",
@@ -3082,8 +3086,8 @@
         "annotation": "",
         "keywords": "filosofie matematiky; nová teorie množin; horizont, nekonečno",
         "type": "monografie",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Když je řeč o barvách",
@@ -3101,13 +3105,13 @@
         "keywords": "barva; fenomenologie; jazyk; kultura; pravidlo, tělo",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Freudova neurofyziologie mysli",
         "title_en": "Freud´s Neurophysiology of Mind",
         "subtitle": "",
-        "author": "POLÁK, Martin",
+        "author": "POLÁK, Michal",
         "published_date": "2015",
         "published_place": "Praha - Plzeň",
         "publisher": "Vyšehrad - Západočeská univerzita v Plzni",
@@ -3119,7 +3123,7 @@
         "keywords": "Sigmund Freud; neurověda; psýché; vědomí; mysl",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Trinus liber Dei: Komenského místo v dějinách metaforiky knihy",
@@ -3137,7 +3141,7 @@
         "keywords": "kniha přírody; přirozená teologie; kniha mysli; Komenský; konceptuální historie; dějiny metafor; Raimund ze Sabundy; metaforologie; dokonalý jazyk",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Inštrumentálny realizmus",
@@ -3155,7 +3159,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Informační grafika: Otto Neurath - Isotype",
@@ -3173,7 +3177,7 @@
         "keywords": "Isotype; informační grafika; obrazová statistika; Otto Neurath; Gerd Arntz",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Uvedení do obecné topologie a jejích dějin do roku 1960",
@@ -3191,7 +3195,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Pravda - dcera času",
@@ -3209,7 +3213,7 @@
         "keywords": "myšlenka vědeckého pokroku; raně novověká věda; teleologie; antropocentrismus; dějiny vědy; červená karkulka",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Reálná čísla a jejich diskretizace",
@@ -3227,7 +3231,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Staronový diferenciální počet",
@@ -3245,7 +3249,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Anomálie, ad hoc hypotézy a temné stránky kosmologie",
@@ -3254,7 +3258,7 @@
         "author": "HAVLÍK, Vladimír",
         "published_date": "2015",
         "published_place": "Plzeň a Praha",
-        "publisher": "v nakladatelství Vyšehrad vydala Tiskárna Bílý slon s.r.o.",
+        "publisher": "Nakladatelství Vyšehrad",
         "meta_info": "",
         "isbn": "978-80-7429-603-1",
         "pages": "168",
@@ -3263,7 +3267,7 @@
         "keywords": "anomálie; ad hoc; hypotézy; metodologie vědy; kosmologie",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Vědomí a jeho teorie",
@@ -3281,7 +3285,7 @@
         "keywords": "vědomí; kválie; introspekce; neurální koreláty vědomí; reprezentacionismus; naturalismus",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Sny o mnohosti světů",
@@ -3299,7 +3303,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       }
     ],
     "2016": [
@@ -3336,7 +3340,7 @@
         "keywords": "literární kultura; alžbětinská poetika; renesance; poezie",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Dál a dál za Herkulovy sloupy",
@@ -3354,7 +3358,7 @@
         "keywords": "Objevné cesty; Amerika Renesanční filozofie; Španělsko Renesanční věda; Španělsko Filozofie přírody; 16.-17. století Vědecké poznání; 16.-17. století",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       }
     ],
     "2017": [
@@ -3379,7 +3383,7 @@
         "author": "FUNDA, Otakar A.",
         "published_date": "2017",
         "published_place": "Praha",
-        "publisher": "Karolinum",
+        "publisher": "Nakladatelství Karolinum",
         "meta_info": "",
         "isbn": "978-80-246-3748-8",
         "annotation_short": "Jak sděluje reprodukce na přebalu, každý, kdo se věnoval filosofickému tázání, se určitým způsobem vyjádřil na tržišti idejí i k tématu náboženství. Toto téma nemůže filosofie obejít",
@@ -3387,7 +3391,7 @@
         "keywords": "náboženství; Funda",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Apeiron. Anaximandros o vzniku a zániku",
@@ -3395,7 +3399,7 @@
         "author": "COUPRIE, Dirk L., KOČANDRLE, Radim",
         "published_date": "2017",
         "published_place": "Cham",
-        "publisher": "Springer International Publishing",
+        "publisher": "Springer",
         "meta_info": "",
         "isbn": "978-3-319-49753-2",
         "pages": "112",
@@ -3404,7 +3408,7 @@
         "keywords": "Anaximandros; apeiron; příroda; vznik; zánik",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Úděl, úkol, národ",
@@ -3421,7 +3425,7 @@
         "keywords": "Úděl; národ; Šafařík; Palacký; Schauer; T. G. Masaryk; von WOltmann; Bolzanu; Meissner; Grillparzer; von Thun",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Proměny paradigmatu výchovy",
@@ -3438,7 +3442,7 @@
         "keywords": "filosofie výchovy; paradigmata výchovy; dějiny filosofie; filosofická antropologie",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Odstíny platónské uměřenosti",
@@ -3455,7 +3459,7 @@
         "keywords": "Platón; 427 př. Kr.-347 př. Kr.; Řecká antická filozofie; 5.-4. století př. Kr.; Etika; Starověké Řecko; umírněnost",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       }
     ],
     "2018": [
@@ -3464,15 +3468,15 @@
         "title_en": "Eukleides: Elements. The Book 13",
         "author": "VOPĚNKA, Petr, VĚTROVCOVÁ, Marie",
         "published_date": "2018",
-        "publisher": "Kanina a Plzeň",
+        "publisher": "OPS",
         "meta_info": "VOPĚNKA, P., VĚTROVCOVÁ, M., KUPČÁKOVÁ, M. Eukleidés: Základy. Kniha XIII.. 1.. vyd. Kanina a Plzeň : OPS a ZČU, 2018, 88 s. ISBN: 978-80-261-0529-9 ",
         "annotation_short": "",
         "annotation": "Vydání kritického překladu 13. knihy Eukleidových Základů o pravidelných mnohostěnech a užití iracionalit podle překladu Františka Servíta s úvodní studií Petra Vopěnky a dopracování Marií Větrovcovou a Marií Kupčákovou. Překlad je doplněn poznámkovým aparátem s opravami a současnou terminologií (Marie Větrovcová, Marie Kupčáková). Doprovodné obrázky provedla Marie Kupčáková.",
         "keywords": "dějiny matematiky, Eukleidés, Základy, pravidelné mnohostěny",
         "podrobnostiUrl": "",
         "type": "preklad",
-        "has_picture": false,
-        "has_podrobnosti": false
+        "has_picture": true,
+        "has_podrobnosti": true
       },
       {
         "title": "Alexandr Sommer Batěk: neoglyfy",
@@ -3489,7 +3493,7 @@
         "keywords": "",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Poezie jako vyprávění příběhů",
@@ -3506,7 +3510,7 @@
         "keywords": "Philip Sidney",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       }
     ],
     "2019": [
@@ -3520,12 +3524,12 @@
         "meta_info": "",
         "isbn": "",
         "pages": "",
-        "annotation_short": "Svojí nejširší orientací se tato monografie zabývá Popperovou filosofií vědy, jejím specifičtějším zaměřením je pak řešení problému indukce v rámci kriticko-racionalistické myšlenkové tradice. Text nejprve představí induktivní inferenci a následně ustaví diferenci mezi Humovým negativním „řešením“ problému indukce a Popperovým pozitivním řešením. Popper indukci sice odmítá, avšak na rozdíl od Huma nachází pro filosofii a zejména pak vědu nedestruktivní cestu vpřed. Klíčové námitky reprezentují dva odpůrci Popperova přístupu – J. Worrall a W. Salmon. Na ně navazuje úprava Popperova řešení Davidem Millerem. Závěr práce opustí vlastní Popperovo i Millerovo řešení a věnuje se jeho žákům - A. Musgrave, W. W. Bartley a J. Agassi -, kteří se rozhodli modifikovat původní Popperovu bázi a přinést řešení problému indukce, které by obstálo vůči kritickým výhradám. Poté autor navrhne vlastní řešení.",
-        "annotation": "",
+        "annotation_short": "Svojí nejširší orientací se tato monografie zabývá Popperovou filosofií vědy, jejím specifičtějším zaměřením je pak řešení problému indukce v rámci kriticko-racionalistické myšlenkové tradice.",
+        "annotation": "Svojí nejširší orientací se tato monografie zabývá Popperovou filosofií vědy, jejím specifičtějším zaměřením je pak řešení problému indukce v rámci kriticko-racionalistické myšlenkové tradice. Text nejprve představí induktivní inferenci a následně ustaví diferenci mezi Humovým negativním „řešením“ problému indukce a Popperovým pozitivním řešením. Popper indukci sice odmítá, avšak na rozdíl od Huma nachází pro filosofii a zejména pak vědu nedestruktivní cestu vpřed. Klíčové námitky reprezentují dva odpůrci Popperova přístupu – J. Worrall a W. Salmon. Na ně navazuje úprava Popperova řešení Davidem Millerem. Závěr práce opustí vlastní Popperovo i Millerovo řešení a věnuje se jeho žákům - A. Musgrave, W. W. Bartley a J. Agassi -, kteří se rozhodli modifikovat původní Popperovu bázi a přinést řešení problému indukce, které by obstálo vůči kritickým výhradám. Poté autor navrhne vlastní řešení.",
         "keywords": "",
         "type": "monografie",
         "has_picture": false,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       },
       {
         "title": "Kritický racionalismus H. Alberta a K. Poppera",
@@ -3534,7 +3538,7 @@
         "author": "PAITLOVÁ, Jitka",
         "published_date": "2019",
         "published_place": "Praha",
-        "publisher": "Karolinum",
+        "publisher": "Nakladatelství Karolinum",
         "meta_info": "",
         "isbn": "978-80-2464-057-0",
         "pages": "204",
@@ -3543,7 +3547,7 @@
         "keywords": "kritický racionalismus; Hans Albert, poznání; zdůvodnění; věda; hodnotová neutralita; způsob jednání; Karl Popper; Otakar A. Funda",
         "type": "monografie",
         "has_picture": true,
-        "has_podrobnosti": false
+        "has_podrobnosti": true
       }
     ]
   }

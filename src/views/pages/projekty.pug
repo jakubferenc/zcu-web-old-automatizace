@@ -4,6 +4,18 @@ include ../_partials/projekt-thumb.pug
 
 - const promotedAgencies = ['PUM2014, Plzeň - univerzitní město 2014', 'INTERREG V-A', 'GAČR', 'OPVK', 'FRVŠ – Fond rozvoje vysokých škol', 'VNJH – Vzdělávací nadace Jana Husa'];
 
+strong Rozcestník projektů
+.links
+  a(href="#gacr") Grantová agentura České republiky<br>
+  a(href="#interreg") Projekty přeshraniční spolupráce CZ-BY<br>
+  a(href="#opvk") ESF, operační program Vzdělávání pro konkurenceschopnost<br>
+  a(href="#frvs") Fond rozvoje vysokého školství<br>
+  a(href="#pum2014") Projekty města Plzeň<br>
+  a(href="#ostatni") Ostatní
+
+<br>
+
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="gacr")
 h3 Grantová agentura České republiky
 
 each yearKey in keysArraySorted
@@ -13,8 +25,7 @@ each yearKey in keysArraySorted
       +projektThumb(item)
       br
 
-br
-
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="interreg")
 h3 Projekty přeshraniční spolupráce CZ-BY
 
 each yearKey in keysArraySorted
@@ -24,8 +35,7 @@ each yearKey in keysArraySorted
       +projektThumb(item)
       br
 
-br
-
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="opvk")
 h3 ESF, operační program Vzdělávání pro konkurenceschopnost
 
 each yearKey in keysArraySorted
@@ -34,7 +44,7 @@ each yearKey in keysArraySorted
     if (item.agency === 'OPVK')
       +projektThumb(item)
       br
-br
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="frvs")
 h3 Fond rozvoje vysokého školství
 
 each yearKey in keysArraySorted
@@ -43,7 +53,8 @@ each yearKey in keysArraySorted
     if (item.agency === 'FRVŠ – Fond rozvoje vysokých škol')
       +projektThumb(item)
       br
-br
+
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="vnjh")
 h3 Vzdělávací nadace Jana Husa
 
 each yearKey in keysArraySorted
@@ -52,7 +63,8 @@ each yearKey in keysArraySorted
     if (item.agency === 'VNJH – Vzdělávací nadace Jana Husa')
       +projektThumb(item)
       br
-br
+
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="pum2014")
 h3 Projekty města Plzeň
 
 each yearKey in keysArraySorted
@@ -61,7 +73,8 @@ each yearKey in keysArraySorted
     if (item.agency === 'PUM2014, Plzeň - univerzitní město 2014')
       +projektThumb(item)
       br
-br
+
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="ostatni")
 h3 Ostatní
 
 each yearKey in keysArraySorted

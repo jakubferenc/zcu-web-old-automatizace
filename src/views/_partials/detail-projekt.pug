@@ -1,0 +1,58 @@
+table(style='width: 100%')
+  tbody
+    tr(style='height: 12px;')
+      td(style="width:20%") Poskytovatel a kód
+      td(style="width:80%")
+        - agency = (agency_program !== undefined && agency_program !== "") ? agency + " " + agency_program : agency;
+        div #{agency} &mdash; #{code}
+    tr(style='height: 12px;')
+      td(style="width:20%") Název projektu
+      td(style="width:80%")
+        strong #{title}
+    tr(style='height: 12px;')
+      td(style="width:20%") Doba řešení
+      td(style="width:80%")
+        div #{date_start_formatted} &mdash; #{date_end_formatted}
+    tr
+      td(style="width:20%") Hlavní řešitel/řešitel za KFI
+      td(style="width:80%")
+        div #{investigator}
+
+    if co_investigator_string !== undefined && co_investigator_string !== ''
+      tr
+        td(style="width:20%") Spoluřešitel/é
+        td(style="width:80%")
+          div #{co_investigator_string}
+
+    if team_members_all !== undefined && team_members_all.length > 0
+      tr
+        td(style="width:20%") Členové výzkumného týmu
+        td(style="width:80%")
+          each member in team_members_all
+            div #{member}
+
+    tr(style='')
+      td(style="width:20%") Anotace
+      td(style=' width: 80%; text-align: justify;')
+        | #{annotation}
+
+    if keywords_string !== undefined && keywords_string !== ""
+      tr(style='')
+        td(style="width:20%") Klíčová slova
+        td(style="width:80%") #{keywords_string}
+
+    if output !== undefined && output !== ""
+      tr(style='')
+        td(style="width:20%") Výstupy
+        td(style="width:80%") #{output}
+
+    if project_web_link !== undefined && project_web_link !== ""
+      tr
+        td(style="width:20%") Odkaz na web
+        td(style="width:80%")
+          a(href=project_web_link) Vlastní web projektu
+
+    if contact !== undefined && contact !== ""
+      tr
+        td(style="width:20%") Kontakty
+        td(style="width:80%") #{contact}

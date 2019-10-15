@@ -1,0 +1,62 @@
+include ../_partials/publikace-row.pug
+
+- const keysArraySorted = Object.keys(publikacePodleRoku).sort((a,b) => {return b-a})
+- let publisherArray = []
+  -
+    keysArraySorted.forEach((year) => {
+
+        publikacePodleRoku[year].forEach((publication) => {
+          publisherArray = publisherArray.filter(p => p !== publication.publisher && p !== '').concat([publication.publisher]);
+        });
+
+    });
+
+    publisherArray.sort();
+
+
+strong Rozcestník vydavatelství
+.links
+  each publisher in publisherArray
+
+    - let publisherSlug = slug(publisher, {replacement: '_', lower: true})
+
+    a(href=`#${publisherSlug}`) #{publisher} <br>
+
+  a(href="#ostatni") Ostatní <br>
+
+
+each publisher in publisherArray
+
+  - let publisherSlug = slug(publisher, {replacement: '_', lower: true})
+
+  .anchor(style="padding-bottom: 40px; margin-top: -40px;" id=publisherSlug)
+  h3 #{publisher}
+
+  table(style="width: 550px;")
+    tbody
+
+      each yearKey in keysArraySorted
+
+        each item in publikacePodleRoku[yearKey]
+
+          if item.publisher === publisher
+            +publikaceRow(item)
+
+  br
+
+
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="ostatni")
+h3 Ostatní
+
+table(style="width: 550px;")
+  tbody
+
+    each yearKey in keysArraySorted
+
+      each item in publikacePodleRoku[yearKey]
+
+        if item.publisher === '' || item.publisher === undefined
+          +publikaceRow(item)
+
+
+

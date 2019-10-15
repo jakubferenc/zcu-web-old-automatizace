@@ -1,8 +1,14 @@
-mixin absolventThumb(opts = {})
+mixin absolventThumb(opts = {}, index = 0)
 
   <!-- položka absolvent -->
-  .absolvent(style="overflow: hidden; margin-bottom: 2em;")
-    img(style="float: left; margin-right: 2em" alt="" src=src=`${opts.obrazekSrc}` width="250")
+
+  - let containerStyle = (index % 2 === 0 && index !== 0) ? 'float: right;' : 'float: left; clear: both;'
+  - containerStyle = containerStyle + ' width: 45%; overflow: hidden; margin-bottom: 2em; '
+
+  .absolvent(style=containerStyle)
+
+    .image
+      img(style="" alt="" src=src=`${opts.obrazekSrc}` height="273")
 
     .absolvent-thumb-info
       h3(style="text-align: justify;")

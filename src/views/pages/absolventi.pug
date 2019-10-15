@@ -1,27 +1,45 @@
 include ../_partials/absolvent-thumb.pug
 
-h3 Komerční sféra
-each item, index in absolventi
+- let index = 0
 
-  if (item.category === 'Komerční sféra')
-    +absolventThumb(item)
+.container(style="overflow: hidden")
+  h3 Komerční sféra
+  - index = 0
+  each item in absolventi
 
-h3 Akademická sféra
-each item, index in absolventi
+    if (item.category === 'Komerční sféra')
+      - index = index + 1
+      +absolventThumb(item, index)
 
-  if (item.category === 'Akademická sféra')
-    +absolventThumb(item)
 
-h3 Veřejná a státní správa
-each item, index in absolventi
+.container(style="overflow: hidden")
+  h3 Akademická sféra
+  - index = 0
+  each item in absolventi
 
-  if (item.category === 'Veřejná a státní správa')
-    +absolventThumb(item)
+    if (item.category === 'Akademická sféra')
+      - index = index + 1
+      +absolventThumb(item, index)
 
-h3 Kulturní instituce a média
-each item, index in absolventi
 
-  if (item.category === 'Kulturní instituce a média')
-    +absolventThumb(item)
+.container(style="overflow: hidden")
+  h3 Veřejná a státní správa
+  - index = 0
+  each item in absolventi
+
+    if (item.category === 'Veřejná a státní správa')
+      - index = index + 1
+      +absolventThumb(item, index)
+
+
+.container(style="overflow: hidden")
+  h3 Kulturní instituce a média
+  - index = 0
+  each item in absolventi
+
+    if (item.category === 'Kulturní instituce a média')
+      - index = index + 1
+      +absolventThumb(item, index)
+
 
 

@@ -8,9 +8,9 @@ mixin publikaceThumb(opts = {})
                 <td valign="top" style="border: none; padding: 0;">
                   if (opts.has_podrobnosti !== false)
                     a(href=`${opts.podrobnostiUrl}`)
-                      img(style="width: 151px;" alt=`Obálka knihy ${opts.title}` title=`Obálka knihy ${opts.title}` src=`${opts.obrazekSrc}${opts.obrazekZaNazvem}`)
+                      img(style="width: 151px;" alt=`Obálka knihy ${opts.title}` title=`Obálka knihy ${opts.title}` src=`${opts.obrazekNahledThumbSrc}` onerror=`this.onerror=null;this.src='${opts.obrazekNahradaObrazkuNahledThumbSrc}';`)
                   else
-                    img(style="width: 151px;" alt=`Obálka knihy ${opts.title}` title=`Obálka knihy ${opts.title}` src=`${opts.obrazekSrc}${opts.obrazekZaNazvem}`)
+                    img(style="width: 151px;" alt=`Obálka knihy ${opts.title}` title=`Obálka knihy ${opts.title}` src=`${opts.obrazekNahledThumbSrc}` onerror=`this.onerror=null;this.src='${opts.obrazekNahradaObrazkuNahledThumbSrc}';`)
                 </td>
                 <td valign="top" style="border: none; padding-right: 0;">
 
@@ -26,7 +26,8 @@ mixin publikaceThumb(opts = {})
                     </span><br /><br />
                     <span class="published">#{opts.published_date}</span><br /><br />
                     <span class="author"><b><em>#{opts.author}</em></b></span><br /><br />
-                    <span class="publisher">Nakladatel: #{opts.publisher}</span>
+                    if opts.publisher !== undefined && opts.publisher !== ''
+                      <span class="publisher">Nakladatel: #{opts.publisher}</span>
                 </td>
             </tr>
             <!-- položka kniha krátký popis -->

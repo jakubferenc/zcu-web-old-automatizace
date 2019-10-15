@@ -1,0 +1,14 @@
+table {
+  border: 1px solid #b6bcc7;
+  background-color: #ffffff;
+  border-spacing: 0px;
+  font-size: 12px;
+  border-collapse: collapse;
+  margin: 1em 0;
+}
+
+tr {
+  text-align: left;
+  border-bottom: 1px solid #e6e6eb;
+  border-right: 1px solid #e6e6eb;
+}

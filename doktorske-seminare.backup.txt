@@ -1,0 +1,61 @@
+<p></p>
+<p style="text-align: justify;">Na katedře probíhá průběžně doktorský seminář, v jehož rámci vystupují zajímaví hosté.</p>
+<h3 style="text-align: justify;">Semináře VÝZKUMNÉHO CENTRA PRO TEORII A DĚJINY VĚDY</h3>
+<p style="text-align: justify;">Program na akademický rok 2019/2020:&nbsp;</p>
+<p style="text-align: justify;"><strong></strong></p>
+<ul>
+ <li style="text-align: justify;"><strong>27.9.2019 </strong>(10.30, <span>Sedláčkova 19, Plzeň; místnost RJ-209</span>)</li>
+</ul>
+<p style="text-align: justify;">Mgr. Michal Polák, Ph.D. (KFI ZČU)</p>
+<p style="text-align: justify;"><strong>Research Report from OVGU: The concept of type in philosophy of mind and neurosciences</strong></p>
+<p style="text-align: justify;">At the beginning I introduce Otto von Guericke University where I accomplished a half-year research stay. Then I will focus on the metaphysics of mind-brain relation from viewpoint of philosophy of science or epistemology. I will start with a concern that many contemporary consciousness scientists put forward a causal account of consciousness-brain correlation: neural correlates of consciousness (NCCs) are the causes of states of consciousness. This view on consciousness-brain correlation, however, implicitly involves dualism. Contemporary naturalists believe that to avoid dualism different strategies like functionalism, identity theory, and others may be employed. I will try to argue that before we enforce any of them, we have to tackle with a concept of type and, more precisely, formulate clear and suitable definition of both psychological and neural type(s). Therefore the issue of typing in philosophy and brain sciences will be discussed in the talk.</p>
+<ul>
+ <li style="text-align: justify;"><strong>11.10.2019 </strong>(10.30, <span>Sedláčkova 19, Plzeň; místnost RJ-209</span>)</li>
+</ul>
+<p style="text-align: justify;"><strong>Mgr. Marie Heřmanová, Ph.D.</strong> (SOÚ AV ČR)</p>
+<p style="text-align: justify;"><em>Marie Heřmanová currently works as post-doc researcher at the Institute of Sociology of the Czech Academy of Sciences. She has a degree in social anthropology from Charles University in Prague. In her academic work, she focuses on migration, globalization, gender identities and media anthropology. She also works as a journalist and consultant in the NGO sector.</em></p>
+<p style="text-align: justify;"><strong>Digital ethnography and the reflexivity of researcher in the field</strong></p>
+<p style="text-align: justify;">As our digital identities present ever more important part of our everyday social existence, qualitative methods of researching the digital are fastly developing. The ongoing discussion among anthropologists and sociologists focus on a few central questions – how connect what people are doing in everyday (offline) reality with how they present themselves online? What impact does the growing pressure of specific modes of visual online presentation have on our sense of self and our subjectivity in general?</p>
+<p style="text-align: justify;">The lecture will try to sum up the methodological discussion around digital anthropology and digital ethnography and reflect on questions related to research ethics in the digital field. I will use examples of my own ethnographic fieldwork about digital identities of young indigenous people in Mexico to explore the main challenges of doing fieldwork in the online sphere.</p>
+<ul>
+ <li style="text-align: justify;"><strong>25.10.2019 </strong>(10.30, <span>Sedláčkova 19, Plzeň; místnost RJ-209</span>)</li>
+</ul>
+<p style="text-align: justify;"><strong>Mgr. Matěj Drobňák, Ph.D.</strong> (KFSV FF UHK)</p>
+<p style="text-align: justify;"><em>Matej Drobňák: University of Hradec Králové, Department of Philosophy and Social Science, Post-Doc. He is interesting in Philosophy of Language, Metasemantics, Philosophy of Linguistics.</em></p>
+<p style="text-align: justify;"><strong>Understanding in Context</strong></p>
+<p style="text-align: justify;">If we look at the recent discussions in philosophy of language, we can see a growth of an interest in the topic of how context influences the content of a sentence/an utterance. The importance of the topic rises especially with regard to the aim of finding psychological mechanisms responsible for our linguistic understanding. We can list literalism (Emma Borg) and contextualism (Francois Recanati) as the most prominent approaches that aim to explain context-sensitivity of natural languages and semantic understanding. In the first part of my talk, I will present both approaches. In the second part of the talk, I will present a novel inferential view on context-sensitivity and linguistic understanding. As I will argue, the biggest advantage of inferentialism is that it allows us to explain linguistic understanding as a matter of degree – which is a feature that I take to be an important part of our linguistic performance.</p>
+<ul>
+ <li style="text-align: justify;"><strong></strong><strong>8.11.2019 </strong>(10.30, <span>Sedláčkova 19, Plzeň; místnost RJ-209</span>)</li>
+</ul>
+<p style="text-align: justify;"><strong>Mgr. Robin Kopecký </strong>(PřF UK)</p>
+<p style="text-align: justify;"><em>Robin Kopecký je doktorandem v oboru evoluční biologie na Přírodovědecké fakultě Karlovy univerzity v Praze, předtím získal magisterský titul z filosofie na Filosofické fakultě UK. Pracuje na vybraných tématech z oblasti aplikované etiky a experimentální filosofie, včetně etiky autonomních vozidel a morálních intuic dospělých i dětí.</em></p>
+<p style="text-align: justify;"><strong>X-Phi 1: How virtue signalling makes us better: </strong></p>
+<p style="text-align: justify;"><strong>Moral preferences with respect to autonomous vehicle type choices</strong></p>
+<p style="text-align: justify;">We used the biological theory of costly signals in order to solve the social dilemma of different types of moral software for autonomous driving. The most important question was whether and to what extent does mere honest signal – public visibility of type of moral software - increase altruistic choice by participants. The answer is that approximately one third of selfish participants shifts to an altruist option in secret choice if their personal choice of software is visible on the vehicle.</p>
+<p style="text-align: justify;">Taken together, our results show that respondents exhibit a clear preference for an altruistic utilitarian strategy for AVs. This preference is reinforced if the AV signals its strategy to others. The altruistic preference is strongest when people choose software for everybody else, weaker in personal choice, and weakest in the choice of AVs behaviour for one’s own child. The moral intuition of lay people seems not to correspond with the recommendation of the German ethical committee, as the AV strategy that abstains from the trolley problem is the least popular in all situations for participants in our study. Based on the results, we conclude that, in contrast to a private choice, a public choice is considerably more likely to pressure consumers in their personal choice towards a non-selfish solution, making it a reasonable and relatively cheap way to shift car owners and users towards higher altruism.</p>
+<ul>
+ <li style="text-align: justify;"><strong></strong><strong>22.11.2019 </strong>(10.30, <span>Sedláčkova 19, Plzeň; místnost RJ-209</span>)</li>
+</ul>
+<p style="text-align: justify;"><strong>Mgr. Michaela Košová </strong>(PřF UK)</p>
+<p style="text-align: justify;"><em>Michaela Košová je doktorandkou na Přírodovědecké fakultě Univerzity Karlovy v Praze. Předtím získala magisterský titul z filosofie na Filosofické fakultě UK, kde se věnovala hlavně filosofii vědomí. V současnosti se věnuje tématům z oblasti filosofie mysli a experimentální filosofie.</em></p>
+<p style="text-align: justify;"><strong>X-Phi 2: True Self behind the Face of the Future</strong></p>
+<p style="text-align: justify;">Recent debates about the problem of human enhancement eventually have to address the question of personal identity. The aim of this paper is to draw attention to a different aspect of personal identity that arises with the experimental approach towards philosophy. Various studies point to the fact that the folk concept of personal identity is socially determined and that the preservation of the true self depends on the positive moral traits that figure strongly in interpersonal relationships. What is more, the concept of the “essential moral self” that stands behind these findings shares certain crucial characteristics with the folk concept of the soul. Our aim here is to use our own research to support the previous findings and further demonstrate how people see the “true self” of a person. We will briefly mention our interview study with over 200 children about personal identity, which supports the “essential moral self” hypothesis. Then we will introduce our online questionnaire study on dualistic intuitions with nearly 3000 adult respondents, which supports the hypothesis that the “essential moral self” bears connection to the folk concept of the soul. This gives us a certain clue as to how to approach the question of human enhancement and transhumanism. If what we ultimately care about is the moral core of the person (a “soul”) which is capable of interpersonal connections, this is what we should strive to save and protect in the process of gradual transformation of the human nature.</p>
+<ul>
+ <li><strong>29.11. <span>(10.30,<span>&nbsp;</span></span><span>Sedláčkova 19, Plzeň; místnost RJ-209</span><span>)</span></strong></li>
+</ul>
+<p><strong>doc. Jakub Sirovátka, Dr.phil.</strong></p>
+<p><em>doc. Jakub Sirovátka, Dr.phil. studoval filosofii a teologii v Německu a Itálii. Doktorát a habilitaci ve filosofii získal na univerzitě Eichstätt-Ingolstadt. Momentálně vyučuje na Jihočeské univerzitě v Českých Budějovicích, působil i v Oddělení pro studium novověké racionality FLÚ AV ČR. Specializace: etika, filosofie náboženství, filosofie I. Kanta, fenomenologie (zvláště E. Levinas).</em></p>
+<p><strong>Štěstí a neštěstí materiálna u E. Levinase.&nbsp;</strong></p>
+<p>Ve svém díle&nbsp;<em>Složitá svoboda&nbsp;</em>píše Levinas, že neexistuje špatný materialismus kromě toho našeho. Tato poněkud překvapivá věta inspiruje k zamyšlení nad rolí materiálna v myšlení E. Levinase. Na základě raného spisu&nbsp;<em>Čas a jiné</em>&nbsp;a pozdějších hlavních děl&nbsp;<em>Totalita a nekonečno</em>&nbsp;a&nbsp;<em>Jinak než být</em>&nbsp;se pokusím ukázat, že materiálno je pro člověka ambivalentní. Materiálno znamená štěstí i neštěstí pro lidskou identitu, stejně tak pro jeho etickou subjektivitu. Materiálno je v Levinasově myšlení bytostně spojeno s tělesností člověka. Lidská identita a subjektivita není pro Levinase založena prvotně v rozumu, nýbrž v možnosti "být tělem". Skrze své materiální tělo člověk získává svou identitu (štěstí), zároveň je však na své tělo vázán a nedokáže se od něj oprostit (neštěstí). I etická odpovědnost za druhého spočívá v darování materiálních věcí a v posledu i sama sebe (štěstí), zároveň to však pro Levinase znamená opuštění své vlastní ontologické identity (neštěstí).</p>
+<ul>
+ <li style="text-align: justify;"><strong>6.12.2019 </strong>(10.30, <span>Sedláčkova 19, Plzeň; místnost RJ-209</span>)</li>
+</ul>
+<p style="text-align: justify;"><strong>Doktorandi II.</strong></p>
+<ul>
+ <li style="text-align: justify;"><strong>13.12.2019 </strong>(10.30, <span>Sedláčkova 19, Plzeň; místnost RJ-209</span>)</li>
+</ul>
+<p style="text-align: justify;"><strong>Doktorandi I.</strong></p>
+<p style="text-align: justify;"><strong></strong></p>
+<p style="text-align: justify;"><span>Program předchozích let:</span>&nbsp;<a href="https://lavinia2.zcu.cz/studium/studentske-spolky-a-skupiny/doktorsky-seminar-program.html">Archiv minulých doktorských seminářů</a></p>
+<p style="text-align: justify;"></p>
+<p style="text-align: justify;"><img alt="Logo-RCTHS" src="https://lavinia2.zcu.cz/kfi-new2018/obrazky/Logo-RCTHS.png" width="142" height="53" /></p>

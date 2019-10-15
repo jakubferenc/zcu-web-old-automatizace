@@ -2,9 +2,9 @@
   <tbody>
     <tr>
       <td valign="top" style="padding-left: 0; border: none;">
-        img(style="max-width: 315px;" alt=`Obálka knihy ${title}` title=`Obálka knihy ${title}` src=`${obrazekSrc}`)
+        img(style="max-width: 315px;" alt=`Obálka knihy ${title}` title=`Obálka knihy ${title}` src=`${obrazekSrc}` onerror=`this.onerror=null;this.src='${obrazekNahradaObrazkuSrc}';`)
 
-      <td valign="top" style="border: none;">
+      <td valign="top" style="width: 50%; border: none;">
         <h3 style="margin-bottom: .2em;">AUTOR</h3>
         <p><b>#{author}</b></p>
         <h3 style="margin-bottom: .2em;">ROK VYDÁNÍ</h3>

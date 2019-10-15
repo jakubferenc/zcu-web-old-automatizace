@@ -1,0 +1,60 @@
+include ../_partials/publikace-row.pug
+
+- const keysArraySorted = Object.keys(publikacePodleRoku).sort((a,b) => {return b-a})
+
+strong Rozcestník publikací
+.links
+  a(href="#monografie") Monografie<br>
+  a(href="#preklady") Překlady<br>
+  a(href="#sborniky") Sborníky<br>
+  a(href="#citanky") Čítanky
+
+<br>
+
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="monografie")
+h3 Monografie
+
+table(style='width: 100%')
+  tbody
+    each yearKey in keysArraySorted
+
+      each item in publikacePodleRoku[yearKey]
+
+        if item.type == 'monografie'
+          +publikaceRow(item)
+
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="preklady")
+h3 Překlady
+
+table(style='width: 100%')
+  tbody
+    each yearKey in keysArraySorted
+
+      each item in publikacePodleRoku[yearKey]
+
+        if item.type == 'preklad'
+          +publikaceRow(item)
+
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="sborniky")
+h3 Sborníky
+
+table(style='width: 100%')
+  tbody
+    each yearKey in keysArraySorted
+
+      each item in publikacePodleRoku[yearKey]
+
+        if item.type == 'sbornik'
+          +publikaceRow(item)
+
+.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="citanky")
+h3 Čítanky
+
+table(style='width: 100%')
+  tbody
+    each yearKey in keysArraySorted
+
+      each item in publikacePodleRoku[yearKey]
+
+        if item.type == 'citanka'
+          +publikaceRow(item)

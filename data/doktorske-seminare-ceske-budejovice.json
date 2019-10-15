@@ -1,0 +1,24 @@
+{
+  "doktorskeSeminareCeskeBudejovice": [
+    {
+      "datetime": "2019-11-01 10:30",
+      "place": "",
+      "lecturer": "Jitka Paitlová a Petr Jedlička",
+      "lecturer_info": "Jitka Paitlová je absolventkou oboru Teorie a dějiny vědy a techniky a nyní odborná asistentka na KFI ZČU, Petr Jedlička je doktorandem oboru Teorie a dějiny vědy a techniky na KFI ZČU. Společně se již druhým rokem podílejí na řešení projektu „Objektivita: Experimentální přístup k tradičnímu filosofickému problému“.",
+      "title": "Jak se vaří experimentální filosofie vědy",
+      "subtitle": "",
+      "annotation": "",
+      "annotation_html": "<p>Experimentální filosofie je relativně nový směr v současné filosofii, který se snaží testovat tradiční filosofické otázky prostřednictvím empirických metod včetně experimentů. Experimentální filosofové bývají někdy označováni jako ti, kdo \"podpálili křesla\", v nichž tradiční filosofové prováděli své konceptuální analýzy. To je poněkud přehnaná interpretace, neboť ve skutečnosti nic neshořelo a nikdo nebyl zraněn, maximálně utrpěla ješitnost některých zatvrzelých filosofických bardů. Proto, spíše než obviňovat experimentální filosofii (x-phi) z pyromanství, lze na ni nahlížet jako na přínosný doplněk dosavadních filosofických metod. V naší přednášce se proto nejprve pokusíme krátce vysvětlit vztah x-phi vůči tradiční filosofii „provozované v křesle“ (\"armchair philosophy\"). Dále představíme základní rysy x-phi, metody, které používá, otázky, které si klade, a zmíníme její přednosti, ale i některé problémové oblasti.</p><p>V další části přednášky se pak zaměříme na náš experimentálně filosofický projekt, který spadá do filosofie vědy. Projekt vyrostl jako snaha zodpovědět některé otázky týkající objektivity vědy, ať už tradičními filosofickými metodami nebo právě pomoci x-phi. Koncept objektivity má v dějinách filosofie vědy různorodé definice, přičemž stejně jako u řady dalších otázek neexistuje arbitr, který by mohl jednoznačně zvolit tu správnou. Rozhodli jsme se proto překročit Rubikon a na objektivitu vědy se dotázat přímo přírodních vědců. Představíme tedy nejen design a metody našeho projektu, ale zejména nejzajímavější výsledky z kvalitativní i kvantitativní fáze. Jaké jsou základní intuice vědců o objektivitě? Jaké problémy spojené s objektivitou řeší současná věda? Jak se chápání objektivity liší mezi vědci a filosofy vědy? Jak se vědci rozhodují při řešení morálních dilemat?</p><p>Recept na experimentální filosofii vědy má mnoho ingrediencí, příprava je náročná na čas, neobvyklé přísady i obtížnou logistiku, ale především vyžaduje spolupráci širokého týmu filosofů, sociologů a vědců, a přesto je výsledek poněkud nejistý a nemusí chutnat každému. Nicméně je to velké dobrodružství!</p>"
+    },
+    {
+      "datetime": "2019-11-29 10:30",
+      "place": "",
+      "lecturer": "doc. Jakub Sirovátka, Dr.phil.",
+      "lecturer_info": "doc. Jakub Sirovátka, Dr.phil. studoval filosofii a teologii v Německu a Itálii. Doktorát a habilitaci ve filosofii získal na univerzitě Eichstätt-Ingolstadt. Momentálně vyučuje na Jihočeské univerzitě v Českých Budějovicích, působil i v Oddělení pro studium novověké racionality FLÚ AV ČR. Specializace: etika, filosofie náboženství, filosofie I. Kanta, fenomenologie (zvláště E. Levinas).",
+      "title": "Štěstí a neštěstí materiálna u E. Levinase",
+      "subtitle": "",
+      "annotation": "Ve svém díle Složitá svoboda píše Levinas, že neexistuje špatný materialismus kromě toho našeho. Tato poněkud překvapivá věta inspiruje k zamyšlení nad rolí materiálna v myšlení E. Levinase. Na základě raného spisu Čas a jiné a pozdějších hlavních děl Totalita a nekonečno a Jinak než být se pokusím ukázat, že materiálno je pro člověka ambivalentní. Materiálno znamená štěstí i neštěstí pro lidskou identitu, stejně tak pro jeho etickou subjektivitu. Materiálno je v Levinasově myšlení bytostně spojeno s tělesností člověka. Lidská identita a subjektivita není pro Levinase založena prvotně v rozumu, nýbrž v možnosti \"být tělem\". Skrze své materiální tělo člověk získává svou identitu (štěstí), zároveň je však na své tělo vázán a nedokáže se od něj oprostit (neštěstí). I etická odpovědnost za druhého spočívá v darování materiálních věcí a v posledu i sama sebe (štěstí), zároveň to však pro Levinase znamená opuštění své vlastní ontologické identity (neštěstí).",
+      "annotation_html": ""
+    }
+  ]
+}

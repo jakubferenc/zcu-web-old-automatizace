@@ -3,58 +3,25 @@ mixin projektThumb(item)
   table(style='width: 100%')
     tbody
       tr(style='height: 12px;')
-        td(style="width:20%") Název projektu
-        td(style="width:80%")
-          strong #{item.title}
-      tr(style='height: 12px;')
         td(style="width:20%") Poskytovatel a kód
         td(style="width:80%")
-          - item.agency = (item.agency_program !== undefined && item.agency_program !== "") ? item.agency + " " + item.agency_program : item.agency;
-          div #{item.agency} &mdash; #{item.code}
+          - customAgency = (item.agency_program !== undefined && item.agency_program !== "") ? item.agency + " " + item.agency_program : item.agency;
+          span #{customAgency}
+          if item.code !== undefined && item.code !== ""
+            span &mdash; #{item.code}
       tr(style='height: 12px;')
-        td(style="width:20%") Doba řešení
+        td(style="width:20%") Projekt
         td(style="width:80%")
-          div #{item.date_start_formatted} &mdash; #{item.date_end_formatted}
-      tr
-        td(style="width:20%") Hlavní řešitel/řešitel za KFI
+          strong #{item.title}&nbsp;|&nbsp;
+          span  #{item.investigator}&nbsp;|&nbsp;
+          span #{item.date_start_formatted} &mdash; #{item.date_end_formatted}
+      tr(style='height: 12px;')
+        td(style="width:20%") Detail projektu
         td(style="width:80%")
-          div #{item.investigator}
-
-      if item['co-investigator_string'] !== undefined && item['co-investigator_string'] !== ''
-        tr
-          td(style="width:20%") Spoluřešitel/é
-          td(style="width:80%")
-            div #{item['co-investigator_string']}
-
-      if item.team_members_all !== undefined && item.team_members_all.length > 0
-        tr
-          td(style="width:20%") Členové výzkumného týmu
-          td(style="width:80%")
-            each member in item.team_members_all
-              div #{member}
-
-      tr(style='')
-        td(style="width:20%") Anotace
-        td(style=' width: 80%; text-align: justify;')
-          | #{item.annotation}
-
-      if item.keywords_string !== undefined && item.keywords_string !== ""
-        tr(style='')
-          td(style="width:20%") Klíčová slova
-          td(style="width:80%") #{item.keywords_string}
-
-      if item.output !== undefined && item.output !== ""
-        tr(style='')
-          td(style="width:20%") Výstupy
-          td(style="width:80%") #{item.output}
+          a(href=item.podrobnostiUrl) Odkaz na detail projektu
 
       if item.project_web_link !== undefined && item.project_web_link !== ""
         tr
           td(style="width:20%") Odkaz na web
           td(style="width:80%")
             a(href=item.project_web_link) Vlastní web projektu
-
-      if item.contact !== undefined && item.contact !== ""
-        tr
-          td(style="width:20%") Kontakty
-          td(style="width:80%") #{item.contact}
