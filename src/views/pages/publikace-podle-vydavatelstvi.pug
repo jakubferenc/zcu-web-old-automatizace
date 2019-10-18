@@ -1,31 +1,22 @@
 include ../_partials/publikace-row.pug
 
 - const keysArraySorted = Object.keys(publikacePodleRoku).sort((a,b) => {return b-a})
-- let publisherArray = []
-  -
-    keysArraySorted.forEach((year) => {
 
-        publikacePodleRoku[year].forEach((publication) => {
-          publisherArray = publisherArray.filter(p => p !== publication.publisher && p !== '').concat([publication.publisher]);
-        });
+- let customPublisherArray = ['Springer', 'Ostatní zahraniční vydavatelství', 'OIKOYMENH', 'Filosofia', 'Academia', 'Nakladatelství Karolinum', 'Pavel Mervart', 'Filosofický ústav AV ČR', 'Západočeská univerzita', 'Univerzita Karlova', 'OPS', 'Epocha', 'Mladá fronta', 'Vyšehrad', 'Triton', 'Ostatní']
 
-    });
-
-    publisherArray.sort();
-
+- let customOtherInternationalPublishers = ['King’s College', 'Melrose Books', 'Cornelsen Verlag', 'Königshausen & Neumann', 'Tourismusverband Ostbayern e. V.', 'LIT Verlag GmbH & Co. KG Wien', 'PL Academic Research', 'Izdatel\'stvo Instituta matematiky', 'Izdateľstvo Respublika', 'Katedra byzantológie Pravoslávnej bohosloveckej fakulty Prešovskej univerzity v Prešove']
 
 strong Rozcestník vydavatelství
 .links
-  each publisher in publisherArray
+  each publisher in customPublisherArray
 
     - let publisherSlug = slug(publisher, {replacement: '_', lower: true})
 
-    a(href=`#${publisherSlug}`) #{publisher} <br>
+    a(href=`#${publisherSlug}`) #{publisher}
+    br
 
-  a(href="#ostatni") Ostatní <br>
 
-
-each publisher in publisherArray
+each publisher in customPublisherArray
 
   - let publisherSlug = slug(publisher, {replacement: '_', lower: true})
 
@@ -39,24 +30,13 @@ each publisher in publisherArray
 
         each item in publikacePodleRoku[yearKey]
 
-          if item.publisher === publisher
+          if (item.publisher === publisher)
+            +publikaceRow(item)
+          else if (publisher === 'Ostatní zahraniční vydavatelství' && customOtherInternationalPublishers.includes(item.publisher) )
+            +publikaceRow(item)
+          else if (publisher === 'Ostatní' && (item.publisher === '' || item.publisher === undefined || (!customPublisherArray.includes(item.publisher) && !customOtherInternationalPublishers.includes(item.publisher)) ) )
             +publikaceRow(item)
 
   br
-
-
-.anchor(style="padding-bottom: 40px; margin-top: -40px;" id="ostatni")
-h3 Ostatní
-
-table(style="width: 550px;")
-  tbody
-
-    each yearKey in keysArraySorted
-
-      each item in publikacePodleRoku[yearKey]
-
-        if item.publisher === '' || item.publisher === undefined
-          +publikaceRow(item)
-
 
 

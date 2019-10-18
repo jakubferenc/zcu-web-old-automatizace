@@ -1,16 +1,6 @@
 {
   "doktorskeSeminareCeskeBudejovice": [
     {
-      "datetime": "2019-11-01 10:30",
-      "place": "",
-      "lecturer": "Jitka Paitlová a Petr Jedlička",
-      "lecturer_info": "Jitka Paitlová je absolventkou oboru Teorie a dějiny vědy a techniky a nyní odborná asistentka na KFI ZČU, Petr Jedlička je doktorandem oboru Teorie a dějiny vědy a techniky na KFI ZČU. Společně se již druhým rokem podílejí na řešení projektu „Objektivita: Experimentální přístup k tradičnímu filosofickému problému“.",
-      "title": "Jak se vaří experimentální filosofie vědy",
-      "subtitle": "",
-      "annotation": "",
-      "annotation_html": "<p>Experimentální filosofie je relativně nový směr v současné filosofii, který se snaží testovat tradiční filosofické otázky prostřednictvím empirických metod včetně experimentů. Experimentální filosofové bývají někdy označováni jako ti, kdo \"podpálili křesla\", v nichž tradiční filosofové prováděli své konceptuální analýzy. To je poněkud přehnaná interpretace, neboť ve skutečnosti nic neshořelo a nikdo nebyl zraněn, maximálně utrpěla ješitnost některých zatvrzelých filosofických bardů. Proto, spíše než obviňovat experimentální filosofii (x-phi) z pyromanství, lze na ni nahlížet jako na přínosný doplněk dosavadních filosofických metod. V naší přednášce se proto nejprve pokusíme krátce vysvětlit vztah x-phi vůči tradiční filosofii „provozované v křesle“ (\"armchair philosophy\"). Dále představíme základní rysy x-phi, metody, které používá, otázky, které si klade, a zmíníme její přednosti, ale i některé problémové oblasti.</p><p>V další části přednášky se pak zaměříme na náš experimentálně filosofický projekt, který spadá do filosofie vědy. Projekt vyrostl jako snaha zodpovědět některé otázky týkající objektivity vědy, ať už tradičními filosofickými metodami nebo právě pomoci x-phi. Koncept objektivity má v dějinách filosofie vědy různorodé definice, přičemž stejně jako u řady dalších otázek neexistuje arbitr, který by mohl jednoznačně zvolit tu správnou. Rozhodli jsme se proto překročit Rubikon a na objektivitu vědy se dotázat přímo přírodních vědců. Představíme tedy nejen design a metody našeho projektu, ale zejména nejzajímavější výsledky z kvalitativní i kvantitativní fáze. Jaké jsou základní intuice vědců o objektivitě? Jaké problémy spojené s objektivitou řeší současná věda? Jak se chápání objektivity liší mezi vědci a filosofy vědy? Jak se vědci rozhodují při řešení morálních dilemat?</p><p>Recept na experimentální filosofii vědy má mnoho ingrediencí, příprava je náročná na čas, neobvyklé přísady i obtížnou logistiku, ale především vyžaduje spolupráci širokého týmu filosofů, sociologů a vědců, a přesto je výsledek poněkud nejistý a nemusí chutnat každému. Nicméně je to velké dobrodružství!</p>"
-    },
-    {
       "datetime": "2019-11-29 10:30",
       "place": "",
       "lecturer": "doc. Jakub Sirovátka, Dr.phil.",
